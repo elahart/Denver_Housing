@@ -1,0 +1,797 @@
+,Zillow URL,Address,Price,Latitude,Longitude,Zestimate,Year Built,Garage,Beds,Baths,Sqft
+0,https://www.zillow.com/homedetails/4605-S-Yosemite-St-UNIT-25-Denver-CO-80237/13426557_zpid/,"4605 S Yosemite St UNIT 25, Denver, CO 80237",565000.00,39.633092,-104.887052,"$482,965 ",1986,2,2,3,1872
+1,https://www.zillow.com/homedetails/8431-Hope-Ct-Denver-CO-80229/12986600_zpid/,"8431 Hope Ct, Denver, CO 80229",406000.00,39.849828,-104.956631,"$399,538 ",1982,0,3,3,1920
+2,https://www.zillow.com/homedetails/38-N-Irvington-St-Aurora-CO-80018/99648439_zpid/,"38 N Irvington St, Aurora, CO 80018",579999.00,39.717437,-104.695566,"$526,451 ",2015,3,4,4,2444
+3,https://www.zillow.com/homedetails/975-Flint-Way-Broomfield-CO-80020/60236609_zpid/,"975 Flint Way, Broomfield, CO 80020",559000.00,39.929063,-105.079268,"$570,555 ",1972,2,3,3,2504
+4,https://www.zillow.com/homedetails/3912-S-Joplin-Way-Aurora-CO-80013/13099593_zpid/,"3912 S Joplin Way, Aurora, CO 80013",499900.00,39.645374,-104.80143,"$489,305 ",1982,2,4,3,2553
+5,https://www.zillow.com/homedetails/228-Hampshire-Ln-Castle-Rock-CO-80108/300007024_zpid/,"228 Hampshire Ln, Castle Rock, CO 80108",777207.00,39.457712,-104.881602,,2021,3,3,3,2515
+6,https://www.zillow.com/homedetails/774-Locust-St-Denver-CO-80220/13391050_zpid/,"774 Locust St, Denver, CO 80220",1250000.00,39.728638,-104.913632,"$683,202 ",1939,2,5,4,3276
+7,https://www.zillow.com/homedetails/749-Kachina-Cir-Golden-CO-80401/13754250_zpid/,"749 Kachina Cir, Golden, CO 80401",1388000.00,39.702413,-105.254867,"$1,130,764 ",1994,3,4,4,3774
+8,https://www.zillow.com/homedetails/8001-Raphael-Ln-Littleton-CO-80125/108398972_zpid/,"8001 Raphael Ln, Littleton, CO 80125",1950000.00,39.478148,-105.090495,,2021,3,4,6,3891
+9,https://www.zillow.com/homedetails/10032-Oak-Tree-Ct-Lone-Tree-CO-80124/13459025_zpid/,"10032 Oak Tree Ct, Lone Tree, CO 80124",1989000.00,39.534297,-104.887121,"$1,574,938 ",1994,3,5,6,6830
+10,https://www.zillow.com/homedetails/8025-Raphael-Ln-Littleton-CO-80125/108381667_zpid/,"8025 Raphael Ln, Littleton, CO 80125",1850000.00,39.478148,-105.090495,,2021,3,3,5,3697
+11,https://www.zillow.com/homedetails/14201-Cavanaugh-Rd-Hudson-CO-80642/94645937_zpid/,"14201 Cavanaugh Rd, Hudson, CO 80642",1200000.00,39.951653,-104.548674,"$937,070 ",2006,9,3,3,2960
+12,https://www.zillow.com/homedetails/1010-Homestake-Dr-2-B-Golden-CO-80401/13711744_zpid/,"1010 Homestake Dr #2-B, Golden, CO 80401",545000.00,39.742755,-105.215052,"$546,825 ",1983,1,3,3,1916
+13,https://www.zillow.com/homedetails/21302-E-Princeton-Pl-Aurora-CO-80013/295028462_zpid/,"21302 E Princeton Pl, Aurora, CO 80013",520000.00,39.638872,-104.740118,"$525,505 ",2018,2,3,3,3114
+14,https://www.zillow.com/homedetails/5599-S-Curtice-St-D-Littleton-CO-80120/2071224266_zpid/,"5599 S Curtice St #D, Littleton, CO 80120",515000.00,39.615417,-105.018903,,2021,1,1,2,1124
+15,https://www.zillow.com/homedetails/5599-S-Curtice-St-B-Littleton-CO-80120/2071224771_zpid/,"5599 S Curtice St #B, Littleton, CO 80120",515000.00,39.615417,-105.018903,,2021,1,1,2,1170
+16,https://www.zillow.com/homedetails/372-N-8th-Ave-Brighton-CO-80601/12940495_zpid/,"372 N 8th Ave, Brighton, CO 80601",330000.00,39.993437,-104.812394,"$324,696 ",1952,1,2,1,720
+17,https://www.zillow.com/homedetails/4156-E-Peakview-Cir-Centennial-CO-80121/13128023_zpid/,"4156 E Peakview Cir, Centennial, CO 80121",565000.00,39.598205,-104.939441,"$519,754 ",1973,2,5,3,2797
+18,https://www.zillow.com/homedetails/4340-N-Clay-St-Denver-CO-80211/71719898_zpid/,"4340 N Clay St, Denver, CO 80211",349000.00,39.776158,-105.020205,"$345,025 ",1954,0,1,1,577
+19,https://www.zillow.com/homedetails/7848-Stuart-St-Westminster-CO-80030/12994674_zpid/,"7848 Stuart St, Westminster, CO 80030",375000.00,39.839128,-105.044903,"$392,495 ",1955,0,3,1,1061
+20,https://www.zillow.com/homedetails/17939-E-Brown-Pl-Aurora-CO-80013/13086091_zpid/,"17939 E Brown Pl, Aurora, CO 80013",419900.00,39.645374,-104.80143,,1986,2,3,3,1616
+21,https://www.zillow.com/homedetails/9893-Quay-Way-Westminster-CO-80021/13684540_zpid/,"9893 Quay Way, Westminster, CO 80021",659000.00,39.876487,-105.075585,"$685,559 ",1998,3,5,4,3706
+22,https://www.zillow.com/homedetails/10782-W-Ontario-Ave-Littleton-CO-80127/13828223_zpid/,"10782 W Ontario Ave, Littleton, CO 80127",787000.00,39.592747,-105.11935,"$721,935 ",1993,4,4,4,3539
+23,https://www.zillow.com/homedetails/10609-W-Dartmouth-Ave-Lakewood-CO-80227/13795986_zpid/,"10609 W Dartmouth Ave, Lakewood, CO 80227",279900.00,39.657461,-105.114764,"$290,092 ",1985,0,2,1,870
+24,https://www.zillow.com/homedetails/3551-S-Hillcrest-Dr-Denver-CO-80237/13424842_zpid/,"3551 S Hillcrest Dr, Denver, CO 80237",369500.00,39.633092,-104.887052,"$408,068 ",1966,2,2,2,1582
+25,https://www.zillow.com/homedetails/21004-E-53rd-Pl-Denver-CO-80249/68049147_zpid/,"21004 E 53rd Pl, Denver, CO 80249",575000.00,39.792611,-104.743212,"$543,551 ",2005,3,6,3,3428
+26,https://www.zillow.com/homedetails/12935-Columbine-Cir-Thornton-CO-80241/12952205_zpid/,"12935 Columbine Cir, Thornton, CO 80241",475000.00,39.929754,-104.957702,"$477,636 ",1979,2,4,3,2058
+27,https://www.zillow.com/homedetails/18069-E-108th-Pl-Commerce-City-CO-80022/187625249_zpid/,"18069 E 108th Pl, Commerce City, CO 80022",495000.00,39.892786,-104.775869,"$517,499 ",2018,2,3,3,2035
+28,https://www.zillow.com/homedetails/1901-Trenton-St-Denver-CO-80220/130328629_zpid/,"1901 Trenton St, Denver, CO 80220",410000.00,39.728638,-104.913632,,1993,2,4,2,1152
+29,https://www.zillow.com/homedetails/9171-W-66th-Ave-Arvada-CO-80004/13716797_zpid/,"9171 W 66th Ave, Arvada, CO 80004",360000.00,39.81729,-105.099184,"$515,844 ",1961,2,4,2,2250
+30,https://www.zillow.com/homedetails/3025-W-35th-Ave-Denver-CO-80211/13310565_zpid/,"3025 W 35th Ave, Denver, CO 80211",650000.00,39.76583481,-105.0260544,"$718,572 ",1923,1,2,1,1507
+31,https://www.zillow.com/homedetails/15529-E-47th-Ave-Denver-CO-80239/247393492_zpid/,"15529 E 47th Ave, Denver, CO 80239",440000.00,39.779503,-104.807285,"$459,323 ",2019,2,4,3,2398
+32,https://www.zillow.com/homedetails/23647-E-Bellewood-Dr-Aurora-CO-80016/87624901_zpid/,"23647 E Bellewood Dr, Aurora, CO 80016",530000.00,39.638872,-104.740118,"$578,455 ",2007,2,3,3,3140
+33,https://www.zillow.com/homedetails/4431-Cherokee-St-Denver-CO-80216/13300981_zpid/,"4431 Cherokee St, Denver, CO 80216",250000.00,39.776158,-105.020205,"$347,205 ",1896,0,1,1,522
+34,https://www.zillow.com/homedetails/3954-S-Bahama-St-Aurora-CO-80013/13094064_zpid/,"3954 S Bahama St, Aurora, CO 80013",400000.00,39.645374,-104.80143,"$423,627 ",1982,2,3,3,1606
+35,https://www.zillow.com/homedetails/322-N-18th-Ct-Brighton-CO-80601/12939803_zpid/,"322 N 18th Ct, Brighton, CO 80601",420000.00,39.993437,-104.812394,"$438,659 ",1999,2,4,2,1800
+36,https://www.zillow.com/homedetails/26606-E-Peakview-Dr-Aurora-CO-80016/99666623_zpid/,"26606 E Peakview Dr, Aurora, CO 80016",875000.00,39.625272,-104.712274,"$894,488 ",2012,3,5,5,5544
+37,https://www.zillow.com/homedetails/104-Stuart-St-Denver-CO-80219/13338804_zpid/,"104 Stuart St, Denver, CO 80219",495000.00,39.718453,-105.042951,"$373,777 ",1905,0,3,2,1795
+38,https://www.zillow.com/homedetails/104-Ravine-Pl-Lochbuie-CO-80603/54822197_zpid/,"104 Ravine Pl, Lochbuie, CO 80603",315000.00,40.002924,-104.724663,"$291,304 ",2000,0,3,2,1120
+39,https://www.zillow.com/homedetails/627-N-Random-Rd-Bailey-CO-80421/58687825_zpid/,"627 N Random Rd, Bailey, CO 80421",525000.00,39.510216,-105.516644,"$456,422 ",2001,2,3,2,1884
+40,https://www.zillow.com/homedetails/4949-S-Franklin-St-Englewood-CO-80113/13149282_zpid/,"4949 S Franklin St, Englewood, CO 80113",2100000.00,39.62666,-104.969824,"$1,775,558 ",1957,2,,,3520
+41,https://www.zillow.com/homedetails/11052-Lone-Pne-Littleton-CO-80125/13488039_zpid/,"11052 Lone Pne, Littleton, CO 80125",1175000.00,39.46984863,-105.0921402,"$1,000,613 ",1995,3,4,4,3972
+42,https://www.zillow.com/homedetails/430-Osceola-St-Denver-CO-80204/13338363_zpid/,"430 Osceola St, Denver, CO 80204",535000.00,39.718453,-105.042951,"$430,510 ",1941,0,,,1344
+43,https://www.zillow.com/homedetails/20951-E-40th-Ave-Denver-CO-80249/58297063_zpid/,"20951 E 40th Ave, Denver, CO 80249",439900.00,39.77113342,-104.7433472,"$451,368 ",2002,2,4,3,1951
+44,https://www.zillow.com/homedetails/1448-W-134th-Dr-Westminster-CO-80234/12955421_zpid/,"1448 W 134th Dr, Westminster, CO 80234",453000.00,39.94016647,-105.0053482,"$493,169 ",1985,2,4,2,1731
+45,https://www.zillow.com/homedetails/3851-N-Himalaya-Rd-UNIT-3-Denver-CO-80249/2088286568_zpid/,"3851 N Himalaya Rd UNIT 3, Denver, CO 80249",410000.00,39.792611,-104.743212,"$457,293 ",2018,2,3,4,2134
+46,https://www.zillow.com/homedetails/8061-S-Rosemary-Ct-Centennial-CO-80112/13141470_zpid/,"8061 S Rosemary Ct, Centennial, CO 80112",585000.00,39.598205,-104.939441,"$574,940 ",1981,2,3,3,1717
+47,https://www.zillow.com/homedetails/1828-Aquamarine-Ct-Castle-Rock-CO-80108/67451881_zpid/,"1828 Aquamarine Ct, Castle Rock, CO 80108",815000.00,39.42455673,-104.8429718,"$793,738 ",2005,3,5,5,5190
+48,https://www.zillow.com/homedetails/8079-S-Newport-Ct-Centennial-CO-80112/13140208_zpid/,"8079 S Newport Ct, Centennial, CO 80112",630000.00,39.56933975,-104.9110794,"$612,183 ",1981,2,4,3,2452
+49,https://www.zillow.com/homedetails/8600-W-52nd-Ave-Arvada-CO-80002/13731137_zpid/,"8600 W 52nd Ave, Arvada, CO 80002",650000.00,39.79092789,-105.0929565,"$669,422 ",1944,3,4,3,2298
+50,https://www.zillow.com/homedetails/421-Tennyson-St-Denver-CO-80204/13338879_zpid/,"421 Tennyson St, Denver, CO 80204",470000.00,39.718453,-105.042951,"$464,053 ",1946,2,3,2,1347
+51,https://www.zillow.com/homedetails/20732-E-Grand-Ln-Aurora-CO-80015/54645494_zpid/,"20732 E Grand Ln, Aurora, CO 80015",520000.00,39.62490082,-104.7475128,"$528,111 ",2001,2,5,3,3079
+52,https://www.zillow.com/homedetails/2982-Casalon-Cir-Superior-CO-80027/102751707_zpid/,"2982 Casalon Cir, Superior, CO 80027",875000.00,39.925104,-105.163891,"$991,146 ",2015,2,4,4,3780
+53,https://www.zillow.com/homedetails/22261-E-Nova-Pl-Aurora-CO-80016/63086614_zpid/,"22261 E Nova Pl, Aurora, CO 80016",675000.00,39.57026672,-104.7295532,"$717,333 ",2004,3,4,3,3795
+54,https://www.zillow.com/homedetails/25470-E-Hinsdale-Pl-Aurora-CO-80016/68012133_zpid/,"25470 E Hinsdale Pl, Aurora, CO 80016",550000.00,39.58282852,-104.6914444,"$558,179 ",2005,2,4,3,2260
+55,https://www.zillow.com/homedetails/1600-1618-S-Federal-Blvd-1622-Denver-CO-80219/2071234002_zpid/,"1600 & 1618 S Federal Blvd #1622, Denver, CO 80219",1150000.00,39.68613434,-105.025032,,1936,4,6,3,1850
+56,https://www.zillow.com/homedetails/10185-Bluffmont-Dr-Lone-Tree-CO-80124/82022155_zpid/,"10185 Bluffmont Dr, Lone Tree, CO 80124",899900.00,39.53131866,-104.8849411,"$937,137 ",2005,3,3,3,3547
+57,https://www.zillow.com/homedetails/8407-E-35th-Ave-Denver-CO-80238/88908171_zpid/,"8407 E 35th Ave, Denver, CO 80238",584900.00,39.76544952,-104.8900986,"$630,833 ",2007,2,3,4,2202
+58,https://www.zillow.com/homedetails/5865-E-Ithaca-Pl-Denver-CO-80237/13424846_zpid/,"5865 E Ithaca Pl, Denver, CO 80237",225000.00,39.65169525,-104.9206085,"$193,623 ",1966,1,1,1,703
+59,https://www.zillow.com/homedetails/6945-W-61st-Ave-Arvada-CO-80003/13726927_zpid/,"6945 W 61st Ave, Arvada, CO 80003",500000.00,39.80789948,-105.0735626,"$503,159 ",1964,3,3,1,1341
+60,https://www.zillow.com/homedetails/4188-Winona-Ct-Denver-CO-80212/13295177_zpid/,"4188 Winona Ct, Denver, CO 80212",775000.00,39.776158,-105.020205,"$848,481 ",1906,2,4,2,1950
+61,https://www.zillow.com/homedetails/2721-California-St-Denver-CO-80205/68046285_zpid/,"2721 California St, Denver, CO 80205",850000.00,39.776158,-105.020205,"$878,095 ",2005,2,4,4,2900
+62,https://www.zillow.com/homedetails/4808-S-Danube-Way-Aurora-CO-80015/13110313_zpid/,"4808 S Danube Way, Aurora, CO 80015",495000.00,39.62981033,-104.7641068,"$509,320 ",1998,3,4,3,2448
+63,https://www.zillow.com/homedetails/1650-High-St-Boulder-CO-80304/13177171_zpid/,"1650 High St, Boulder, CO 80304",2650000.00,40.022836,-105.275048,"$1,714,063 ",1955,2,4,3,3020
+64,https://www.zillow.com/homedetails/250-S-Ivy-St-Denver-CO-80224/13397297_zpid/,"250 S Ivy St, Denver, CO 80224",690000.00,39.71204376,-104.9207535,"$693,960 ",1955,2,4,2,2252
+65,https://www.zillow.com/homedetails/19038-E-Cornell-Ave-Aurora-CO-80013/13088578_zpid/,"19038 E Cornell Ave, Aurora, CO 80013",459000.00,39.6615448,-104.7662811,"$437,321 ",1977,2,3,4,2168
+66,https://www.zillow.com/homedetails/5109-Deephaven-Ct-Denver-CO-80239/13271463_zpid/,"5109 Deephaven Ct, Denver, CO 80239",385000.00,39.78707504,-104.8203812,"$387,504 ",1981,2,3,2,1178
+67,https://www.zillow.com/homedetails/14034-Diesel-Dr-Littleton-CO-80127/13846003_zpid/,"14034 Diesel Dr, Littleton, CO 80127",950000.00,39.464162,-105.159327,"$846,382 ",1995,2,2,2,1872
+68,https://www.zillow.com/homedetails/8421-Benton-St-Arvada-CO-80003/13691152_zpid/,"8421 Benton St, Arvada, CO 80003",449000.00,39.81729,-105.099184,"$433,325 ",1970,1,5,2,1912
+69,https://www.zillow.com/homedetails/17105-E-Chenango-Ave-UNIT-B-Aurora-CO-80015/13108056_zpid/,"17105 E Chenango Ave UNIT B, Aurora, CO 80015",245000.00,39.62619781,-104.7895584,"$295,060 ",1983,0,2,3,1088
+70,https://www.zillow.com/homedetails/6055-Wadsworth-Blvd-APT-C-Arvada-CO-80003/58768549_zpid/,"6055 Wadsworth Blvd APT C, Arvada, CO 80003",352000.00,39.80652237,-105.0823517,"$402,431 ",2002,1,3,4,1482
+71,https://www.zillow.com/homedetails/4777-E-98th-Pl-Denver-CO-80229/187581237_zpid/,"4777 E 98th Pl, Denver, CO 80229",390000.00,39.87398148,-104.9321136,"$403,587 ",2016,2,3,3,1677
+72,https://www.zillow.com/homedetails/7751-Knox-Ct-Westminster-CO-80030/12996559_zpid/,"7751 Knox Ct, Westminster, CO 80030",399950.00,39.83743286,-105.0323715,"$442,610 ",1956,0,4,2,1390
+73,https://www.zillow.com/homedetails/6449-Spotted-Fawn-Run-Littleton-CO-80125/13488565_zpid/,"6449 Spotted Fawn Run, Littleton, CO 80125",885000.00,39.45597076,-105.0763779,"$829,464 ",1996,3,4,4,5000
+74,https://www.zillow.com/homedetails/23228-Briar-Leaf-Ave-Parker-CO-80138/67451425_zpid/,"23228 Briar Leaf Ave, Parker, CO 80138",705000.00,39.49536896,-104.7197037,"$776,931 ",2005,3,5,5,3963
+75,https://www.zillow.com/homedetails/5210-Perth-St-Denver-CO-80249/63357585_zpid/,"5210 Perth St, Denver, CO 80249",500000.00,39.7915535,-104.7358704,"$461,425 ",2003,2,4,3,3176
+76,https://www.zillow.com/homedetails/319-Garfield-St-Denver-CO-80206/247390922_zpid/,"319 Garfield St, Denver, CO 80206",2275000.00,39.72125626,-104.9439316,"$2,256,495 ",2016,0,4,5,4002
+77,https://www.zillow.com/homedetails/711-Golf-Club-Dr-Castle-Rock-CO-80108/13484024_zpid/,"711 Golf Club Dr, Castle Rock, CO 80108",1650000.00,39.423675,-104.889725,"$1,653,641 ",1999,3,4,4,4926
+78,https://www.zillow.com/homedetails/21449-E-Union-Dr-Aurora-CO-80015/99674869_zpid/,"21449 E Union Dr, Aurora, CO 80015",675000.00,39.63032532,-104.7410965,"$655,396 ",2014,3,5,4,3811
+79,https://www.zillow.com/homedetails/10850-Towerbridge-Rd-Highlands-Ranch-CO-80130/67453524_zpid/,"10850 Towerbridge Rd, Highlands Ranch, CO 80130",585000.00,39.51859665,-104.9250793,"$601,968 ",2004,2,3,4,2171
+80,https://www.zillow.com/homedetails/4167-S-Quebec-St-Denver-CO-80237/13423006_zpid/,"4167 S Quebec St, Denver, CO 80237",800000.00,39.64191055,-104.9034729,"$847,236 ",1973,2,5,4,3287
+81,https://www.zillow.com/homedetails/3745-E-Ellsworth-Ave-APT-C-Denver-CO-80209/58293979_zpid/,"3745 E Ellsworth Ave APT C, Denver, CO 80209",635000.00,39.71701431,-104.9431458,"$684,962 ",1998,1,2,3,1552
+82,https://www.zillow.com/homedetails/14186-Piney-River-Rd-Broomfield-CO-80023/66688762_zpid/,"14186 Piney River Rd, Broomfield, CO 80023",949000.00,39.95195389,-105.0486679,"$871,691 ",2005,3,5,5,3993
+83,https://www.zillow.com/homedetails/32467-Little-Cub-Rd-Evergreen-CO-80439/13805968_zpid/,"32467 Little Cub Rd, Evergreen, CO 80439",715000.00,39.582093,-105.37108,"$752,565 ",1982,2,3,3,2744
+84,https://www.zillow.com/homedetails/11317-W-Crestline-Pl-Littleton-CO-80127/13814299_zpid/,"11317 W Crestline Pl, Littleton, CO 80127",609000.00,39.61828613,-105.1255188,"$585,325 ",1999,2,3,3,1908
+85,https://www.zillow.com/homedetails/9873-W-Caley-Ave-Littleton-CO-80123/13820095_zpid/,"9873 W Caley Ave, Littleton, CO 80123",450000.00,39.60336685,-105.1081696,"$491,151 ",1977,1,3,2,1426
+86,https://www.zillow.com/homedetails/6621-E-75th-Pl-Commerce-City-CO-80022/13008536_zpid/,"6621 E 75th Pl, Commerce City, CO 80022",310000.00,39.83432388,-104.9114532,"$322,364 ",1955,0,3,1,772
+87,https://www.zillow.com/homedetails/4584-W-87th-Ave-Westminster-CO-80031/12993431_zpid/,"4584 W 87th Ave, Westminster, CO 80031",450000.00,39.839128,-105.044903,"$434,121 ",1971,1,4,2,1740
+88,https://www.zillow.com/homedetails/3760-Ute-Mountain-Trl-Castle-Rock-CO-80109/63128677_zpid/,"3760 Ute Mountain Trl, Castle Rock, CO 80109",385000.00,39.40086746,-104.9061127,"$400,251 ",2004,2,3,3,1409
+89,https://www.zillow.com/homedetails/400-S-Miller-St-Lakewood-CO-80226/13773735_zpid/,"400 S Miller St, Lakewood, CO 80226",345000.00,39.699091,-105.13928,"$469,107 ",1954,1,3,2,1188
+90,https://www.zillow.com/homedetails/4765-S-Elati-St-Englewood-CO-80110/13148335_zpid/,"4765 S Elati St, Englewood, CO 80110",599000.00,39.63004684,-104.9941025,"$391,006 ",1956,1,4,2,1951
+91,https://www.zillow.com/homedetails/8511-Franklin-St-Denver-CO-80229/12987916_zpid/,"8511 Franklin St, Denver, CO 80229",455000.00,39.85100937,-104.9686584,"$440,357 ",1962,3,4,3,1247
+92,https://www.zillow.com/homedetails/6000-Ponderosa-Way-Parker-CO-80134/13478015_zpid/,"6000 Ponderosa Way, Parker, CO 80134",575000.00,39.450623,-104.701694,"$664,492 ",1977,2,3,3,2705
+93,https://www.zillow.com/homedetails/2556-S-Flanders-Ct-Aurora-CO-80013/54643741_zpid/,"2556 S Flanders Ct, Aurora, CO 80013",524900.00,39.645374,-104.80143,"$569,950 ",2002,2,3,3,2578
+94,https://www.zillow.com/homedetails/2430-Saulsbury-St-Lakewood-CO-80214/13747604_zpid/,"2430 Saulsbury St, Lakewood, CO 80214",395000.00,39.728159,-105.065309,"$352,958 ",1940,0,1,1,420
+95,https://www.zillow.com/homedetails/736-Evening-Star-Ct-Castle-Rock-CO-80108/13484014_zpid/,"736 Evening Star Ct, Castle Rock, CO 80108",1500000.00,39.43587112,-104.9128189,"$1,450,709 ",1999,3,4,4,5266
+96,https://www.zillow.com/homedetails/2717-Rockbridge-Cir-Highlands-Ranch-CO-80129/13437980_zpid/,"2717 Rockbridge Cir, Highlands Ranch, CO 80129",875000.00,39.55680466,-105.0209045,"$855,815 ",2001,3,3,2,3019
+97,https://www.zillow.com/homedetails/12550-Watkins-Rd-Hudson-CO-80642/2071239029_zpid/,"12550 Watkins Rd, Hudson, CO 80642",1599900.00,39.92351151,-104.5988083,,2021,4,7,7,6930
+98,https://www.zillow.com/homedetails/12297-Kittredge-St-Brighton-CO-80603/61505626_zpid/,"12297 Kittredge St, Brighton, CO 80603",555000.00,39.888411,-104.778983,"$550,743 ",2004,3,4,4,4361
+99,https://www.zillow.com/homedetails/2340-Panorama-Ave-Boulder-CO-80304/13181615_zpid/,"2340 Panorama Ave, Boulder, CO 80304",1150000.00,40.022836,-105.275048,"$1,109,921 ",1952,0,2,1,1204
+100,https://www.zillow.com/homedetails/128-Garfield-St-Denver-CO-80206/68050995_zpid/,"128 Garfield St, Denver, CO 80206",1850000.00,39.71843719,-104.9434052,"$1,922,762 ",2005,2,4,5,4656
+101,https://www.zillow.com/homedetails/8505-E-Temple-Dr-UNIT-447-Denver-CO-80237/13426479_zpid/,"8505 E Temple Dr UNIT 447, Denver, CO 80237",689500.00,39.63518143,-104.8875504,"$711,796 ",1984,2,3,4,2450
+102,https://www.zillow.com/homedetails/9882-Independence-St-Westminster-CO-80021/13685678_zpid/,"9882 Independence St, Westminster, CO 80021",490000.00,39.87612534,-105.1047592,"$550,813 ",1985,2,3,3,1777
+103,https://www.zillow.com/homedetails/7930-Alkire-St-Arvada-CO-80005/13699568_zpid/,"7930 Alkire St, Arvada, CO 80005",1450000.00,39.84104156,-105.1469116,"$1,225,875 ",1989,5,3,3,2700
+104,https://www.zillow.com/homedetails/19156-Randolph-Pl-Denver-CO-80249/247389688_zpid/,"19156 Randolph Pl, Denver, CO 80249",550000.00,39.792611,-104.743212,"$561,105 ",2016,2,8,6,4277
+105,https://www.zillow.com/homedetails/2232-S-Dearborn-St-Aurora-CO-80014/13080771_zpid/,"2232 S Dearborn St, Aurora, CO 80014",450000.00,39.67625427,-104.8182907,"$470,611 ",1978,2,3,3,2193
+106,https://www.zillow.com/homedetails/818-N-Ash-St-6-Denver-CO-80220/2071239384_zpid/,"818 N Ash St #6, Denver, CO 80220",1250000.00,39.72959518,-104.9381104,,2020,2,3,5,2585
+107,https://www.zillow.com/homedetails/11875-Garfield-St-Thornton-CO-80233/12958986_zpid/,"11875 Garfield St, Thornton, CO 80233",295000.00,39.91130066,-104.9424362,"$330,087 ",1972,0,2,2,1226
+108,https://www.zillow.com/homedetails/431-Bannock-St-Denver-CO-80204/2071933564_zpid/,"431 Bannock St, Denver, CO 80204",299999.00,39.716077,-104.98345,"$308,742 ",1886,0,1,1,487
+109,https://www.zillow.com/homedetails/2943-S-Macon-St-Aurora-CO-80014/13057191_zpid/,"2943 S Macon St, Aurora, CO 80014",549000.00,39.66337585,-104.8564606,"$534,409 ",1971,2,4,4,2926
+110,https://www.zillow.com/homedetails/1435-Wabash-St-Denver-CO-80220/13388621_zpid/,"1435 Wabash St, Denver, CO 80220",373269.00,39.7393837,-104.8896942,"$420,884 ",1948,1,3,1,1253
+111,https://www.zillow.com/homedetails/2300-S-Espana-St-Aurora-CO-80013/13076335_zpid/,"2300 S Espana St, Aurora, CO 80013",510000.00,39.645374,-104.80143,"$464,057 ",1998,3,5,4,2500
+112,https://www.zillow.com/homedetails/3766-W-Union-Ave-Denver-CO-80236/13428215_zpid/,"3766 W Union Ave, Denver, CO 80236",549000.00,39.63158035,-105.0380707,"$411,918 ",1990,2,3,2,1600
+113,https://www.zillow.com/homedetails/1483-S-Vine-St-Denver-CO-80210/13370025_zpid/,"1483 S Vine St, Denver, CO 80210",2350000.00,39.716077,-104.98345,"$2,438,091 ",2019,3,5,5,4920
+114,https://www.zillow.com/homedetails/14275-Shadow-Wood-Ct-Brighton-CO-80603/95277068_zpid/,"14275 Shadow Wood Ct, Brighton, CO 80603",699900.00,39.95448685,-104.6151733,"$834,116 ",2015,3,3,2,1867
+115,https://www.zillow.com/homedetails/1874-Ridgecrest-Way-Highlands-Ranch-CO-80129/67449873_zpid/,"1874 Ridgecrest Way, Highlands Ranch, CO 80129",1690000.00,39.52297211,-105.0112686,,2005,3,4,6,6629
+116,https://www.zillow.com/homedetails/4845-Gibraltar-St-Denver-CO-80249/58682800_zpid/,"4845 Gibraltar St, Denver, CO 80249",400000.00,39.78451157,-104.7587051,"$426,191 ",2002,2,3,3,1845
+117,https://www.zillow.com/homedetails/2923-S-Vrain-St-Denver-CO-80236/13384518_zpid/,"2923 S Vrain St, Denver, CO 80236",540000.00,39.66176987,-105.0474777,"$529,285 ",1956,1,6,2,2294
+118,https://www.zillow.com/homedetails/3275-W-Hawthorne-Pl-Denver-CO-80221/13024056_zpid/,"3275 W Hawthorne Pl, Denver, CO 80221",350000.00,39.81397629,-105.0291519,"$405,528 ",1940,0,,,1514
+119,https://www.zillow.com/homedetails/4189-S-Fraser-Cir-APT-C-Aurora-CO-80014/13102424_zpid/,"4189 S Fraser Cir APT C, Aurora, CO 80014",374995.00,39.6403923,-104.8142319,"$357,303 ",1983,2,2,4,1700
+120,https://www.zillow.com/homedetails/6203-Depew-St-Arvada-CO-80003/13728197_zpid/,"6203 Depew St, Arvada, CO 80003",550000.00,39.81729,-105.099184,"$505,956 ",1976,2,4,3,1936
+121,https://www.zillow.com/homedetails/2985-Albion-St-Denver-CO-80207/13283533_zpid/,"2985 Albion St, Denver, CO 80207",915000.00,39.75986099,-104.9397049,"$860,705 ",1941,2,4,3,2341
+122,https://www.zillow.com/homedetails/5274-S-Jericho-St-Centennial-CO-80015/13112785_zpid/,"5274 S Jericho St, Centennial, CO 80015",429900.00,39.62104416,-104.7490616,"$464,384 ",1996,2,3,3,1529
+123,https://www.zillow.com/homedetails/451-Sunrise-Dr-Golden-CO-80401/13754151_zpid/,"451 Sunrise Dr, Golden, CO 80401",1025000.00,39.702413,-105.254867,"$1,115,954 ",1990,3,6,4,3835
+124,https://www.zillow.com/homedetails/10-Sunset-Dr-Englewood-CO-80113/99608211_zpid/,"10 Sunset Dr, Englewood, CO 80113",4600000.00,39.64905167,-104.9632034,"$6,169,873 ",1959,2,,,7345
+125,https://www.zillow.com/homedetails/9270-Birch-St-Thornton-CO-80229/13006211_zpid/,"9270 Birch St, Thornton, CO 80229",389999.00,39.86389923,-104.9351807,"$400,721 ",1981,2,3,2,1320
+126,https://www.zillow.com/homedetails/8369-Dove-Ridge-Way-Parker-CO-80134/52459129_zpid/,"8369 Dove Ridge Way, Parker, CO 80134",475000.00,39.56568909,-104.8051682,"$491,153 ",2001,2,4,3,2026
+127,https://www.zillow.com/homedetails/8871-W-Yale-Ave-Lakewood-CO-80227/13790998_zpid/,"8871 W Yale Ave, Lakewood, CO 80227",260000.00,39.657461,-105.114764,"$283,869 ",1982,1,1,1,832
+128,https://www.zillow.com/homedetails/2244-S-Stuart-St-Denver-CO-80219/13381997_zpid/,"2244 S Stuart St, Denver, CO 80219",625000.00,39.6758728,-105.04245,"$451,507 ",1955,0,4,3,2482
+129,https://www.zillow.com/homedetails/16282-Bluebell-Pl-Parker-CO-80134/13464776_zpid/,"16282 Bluebell Pl, Parker, CO 80134",495000.00,39.56187057,-104.8007278,"$455,975 ",1996,2,4,4,1762
+130,https://www.zillow.com/homedetails/3746-N-Adams-St-Denver-CO-80205/13302670_zpid/,"3746 N Adams St, Denver, CO 80205",292500.00,39.76892471,-104.9483566,"$368,212 ",1950,0,2,1,861
+131,https://www.zillow.com/homedetails/1336-Scrub-Oak-Cir-Boulder-CO-80305/13186278_zpid/,"1336 Scrub Oak Cir, Boulder, CO 80305",847500.00,39.9752388,-105.2624435,"$950,074 ",1971,2,4,2,1713
+132,https://www.zillow.com/homedetails/165-S-Harrison-St-Denver-CO-80209/247391911_zpid/,"165 S Harrison St, Denver, CO 80209",770000.00,39.728638,-104.913632,"$751,699 ",2015,2,3,4,1948
+133,https://www.zillow.com/homedetails/1235-Meadow-Sweet-Rd-Golden-CO-80401/13763899_zpid/,"1235 Meadow Sweet Rd, Golden, CO 80401",1100000.00,39.73615646,-105.1489334,"$748,031 ",1940,2,4,2,3272
+134,https://www.zillow.com/homedetails/1199-S-Alcott-St-Denver-CO-80219/13365427_zpid/,"1199 S Alcott St, Denver, CO 80219",505000.00,39.69498444,-105.0168076,"$335,114 ",1954,0,4,2,1608
+135,https://www.zillow.com/homedetails/1812-S-Hazel-Ct-Denver-CO-80219/13366163_zpid/,"1812 S Hazel Ct, Denver, CO 80219",450000.00,39.716077,-104.98345,"$496,640 ",1948,3,3,2,2530
+136,https://www.zillow.com/homedetails/9280-Wigham-St-Denver-CO-80229/12985418_zpid/,"9280 Wigham St, Denver, CO 80229",350000.00,39.86481476,-104.9538574,"$388,763 ",1956,0,3,2,1093
+137,https://www.zillow.com/homedetails/11312-Belle-Meade-Dr-Conifer-CO-80433/13840903_zpid/,"11312 Belle Meade Dr, Conifer, CO 80433",2499000.00,39.511716,-105.313754,"$1,568,816 ",2005,3,4,6,5888
+138,https://www.zillow.com/homedetails/2521-S-Wolff-St-Denver-CO-80219/13382758_zpid/,"2521 S Wolff St, Denver, CO 80219",500000.00,39.686134,-105.025035,"$485,810 ",1955,2,4,2,1337
+139,https://www.zillow.com/homedetails/9938-W-Cornell-Pl-Lakewood-CO-80227/13796830_zpid/,"9938 W Cornell Pl, Lakewood, CO 80227",325000.00,39.66130066,-105.10923,"$354,770 ",1982,0,3,3,1404
+140,https://www.zillow.com/homedetails/2998-Marshall-Ct-Wheat-Ridge-CO-80214/13738262_zpid/,"2998 Marshall Ct, Wheat Ridge, CO 80214",985000.00,39.75959015,-105.0679779,"$923,534 ",1922,6,5,4,3896
+141,https://www.zillow.com/homedetails/2032-W-101st-Ave-Thornton-CO-80260/12975302_zpid/,"2032 W 101st Ave, Thornton, CO 80260",300000.00,39.882496,-105.015088,"$317,437 ",1973,2,3,3,1334
+142,https://www.zillow.com/homedetails/3054-S-Estes-Ct-Lakewood-CO-80227/13796321_zpid/,"3054 S Estes Ct, Lakewood, CO 80227",637000.00,39.66090775,-105.0958633,"$615,862 ",1977,2,4,3,3566
+143,https://www.zillow.com/homedetails/101-S-Downing-St-APT-1-Denver-CO-80209/13347359_zpid/,"101 S Downing St APT 1, Denver, CO 80209",634900.00,39.71446991,-104.9737244,"$583,919 ",1909,1,2,3,1417
+144,https://www.zillow.com/homedetails/7226-Bellcove-Trl-Castle-Rock-CO-80108/306060272_zpid/,"7226 Bellcove Trl, Castle Rock, CO 80108",1175000.00,39.44350052,-104.8522873,,2021,3,3,4,2805
+145,https://www.zillow.com/homedetails/164-Coyote-St-Bennett-CO-80102/2071245206_zpid/,"164 Coyote St, Bennett, CO 80102",448305.00,39.7549,-104.4508,,2021,2,3,3,2222
+146,https://www.zillow.com/homedetails/2133-Ridge-Dr-Broomfield-CO-80020/249259226_zpid/,"2133 Ridge Dr, Broomfield, CO 80020",455000.00,39.929063,-105.079268,"$459,948 ",1975,2,4,2,1777
+147,https://www.zillow.com/homedetails/11766-Ash-St-Thornton-CO-80233/13002166_zpid/,"11766 Ash St, Thornton, CO 80233",420000.00,39.90942764,-104.9367218,"$449,741 ",1978,2,4,2,2080
+148,https://www.zillow.com/homedetails/1352-Hart-Ln-Elizabeth-CO-80107/306758464_zpid/,"1352 Hart Ln, Elizabeth, CO 80107",684228.00,39.4361,-104.6439,"$498,220 ",2021,3,4,3,2525
+149,https://www.zillow.com/homedetails/24047-E-Kettle-Pl-Aurora-CO-80016/58886203_zpid/,"24047 E Kettle Pl, Aurora, CO 80016",635000.00,39.578861,-104.729532,"$606,682 ",2003,3,4,3,2549
+150,https://www.zillow.com/homedetails/2578-Foothills-Canyon-Ct-Highlands-Ranch-CO-80129/13439326_zpid/,"2578 Foothills Canyon Ct, Highlands Ranch, CO 80129",500000.00,39.54205704,-105.0190506,"$496,241 ",1998,2,4,3,1807
+151,https://www.zillow.com/homedetails/1017-S-Emerson-St-Denver-CO-80209/13354349_zpid/,"1017 S Emerson St, Denver, CO 80209",995000.00,39.716077,-104.98345,"$1,184,663 ",1906,1,3,3,2704
+152,https://www.zillow.com/homedetails/2301-Dogwood-Cir-Erie-CO-80516/68058113_zpid/,"2301 Dogwood Cir, Erie, CO 80516",479900.00,40.00853348,-105.0142517,"$509,194 ",2004,2,3,4,2104
+153,https://www.zillow.com/homedetails/413-Saint-Ida-Cir-Lafayette-CO-80026/109683993_zpid/,"413 Saint Ida Cir, Lafayette, CO 80026",795000.00,39.99507523,-105.09655,"$794,005 ",2012,2,4,3,2650
+154,https://www.zillow.com/homedetails/10378-Mica-Way-Parker-CO-80134/13468902_zpid/,"10378 Mica Way, Parker, CO 80134",679900.00,39.547047,-104.797687,"$685,793 ",1990,3,5,4,3475
+155,https://www.zillow.com/homedetails/208-Seven-Hills-Dr-Boulder-CO-80302/13196331_zpid/,"208 Seven Hills Dr, Boulder, CO 80302",1695000.00,40.03023529,-105.3189926,"$1,883,616 ",1995,3,3,4,3827
+156,https://www.zillow.com/homedetails/3303-W-Centennial-Ave-Littleton-CO-80123/13152752_zpid/,"3303 W Centennial Ave, Littleton, CO 80123",450000.00,39.615417,-105.018903,"$443,859 ",1956,2,3,1,1120
+157,https://www.zillow.com/homedetails/19075-E-57th-Ave-APT-C-Denver-CO-80249/68050810_zpid/,"19075 E 57th Ave APT C, Denver, CO 80249",299000.00,39.80304337,-104.7681656,"$292,906 ",2005,0,2,2,1100
+158,https://www.zillow.com/homedetails/4749-E-Iliff-Ave-Denver-CO-80222/318398792_zpid/,"4749 E Iliff Ave, Denver, CO 80222",589000.00,39.67537689,-104.932045,"$615,866 ",2021,2,3,4,1604
+159,https://www.zillow.com/homedetails/3133-Kitten-Tails-Way-Evergreen-CO-80439/2146858100_zpid/,"3133 Kitten Tails Way, Evergreen, CO 80439",850000.00,39.659256,-105.29463,,2004,2,4,4,3534
+160,https://www.zillow.com/homedetails/4751-E-Iliff-Ave-Denver-CO-80222/318398791_zpid/,"4751 E Iliff Ave, Denver, CO 80222",589000.00,39.6753006,-104.932045,"$455,097 ",2021,2,3,4,1604
+161,https://www.zillow.com/homedetails/4753-E-Iliff-Ave-Denver-CO-80222/318398790_zpid/,"4753 E Iliff Ave, Denver, CO 80222",599000.00,39.67526627,-104.932045,"$627,720 ",2021,2,3,3,1582
+162,https://www.zillow.com/homedetails/11657-W-71st-Dr-Arvada-CO-80004/13718629_zpid/,"11657 W 71st Dr, Arvada, CO 80004",500000.00,39.81729,-105.099184,"$525,412 ",1970,0,5,2,1596
+163,https://www.zillow.com/homedetails/3957-Costillo-Ct-Brighton-CO-80601/295025409_zpid/,"3957 Costillo Ct, Brighton, CO 80601",500000.00,39.98267365,-104.7719727,"$512,042 ",2018,3,3,3,2439
+164,https://www.zillow.com/homedetails/15392-E-Louisiana-Ave-Aurora-CO-80017/13071041_zpid/,"15392 E Louisiana Ave, Aurora, CO 80017",350000.00,39.69264221,-104.8082962,"$368,220 ",1982,2,2,3,1432
+165,https://www.zillow.com/homedetails/1118-Salem-St-Aurora-CO-80011/13032431_zpid/,"1118 Salem St, Aurora, CO 80011",360000.00,39.7336998,-104.8417282,"$389,456 ",1952,1,3,2,1709
+166,https://www.zillow.com/homedetails/773-S-Pennsylvania-St-Denver-CO-80209/13356277_zpid/,"773 S Pennsylvania St, Denver, CO 80209",995000.00,39.70256042,-104.9818954,"$995,527 ",1905,2,3,3,1968
+167,https://www.zillow.com/homedetails/4747-E-Iliff-Ave-Denver-CO-80222/318398793_zpid/,"4747 E Iliff Ave, Denver, CO 80222",599000.00,39.67541122,-104.9320068,"$655,280 ",2021,2,3,3,1585
+168,https://www.zillow.com/homedetails/1533-S-Sherman-St-Denver-CO-80210/13369322_zpid/,"1533 S Sherman St, Denver, CO 80210",825000.00,39.68870926,-104.9854355,"$801,819 ",1910,3,4,2,2150
+169,https://www.zillow.com/homedetails/6536-Upham-St-Arvada-CO-80003/13715643_zpid/,"6536 Upham St, Arvada, CO 80003",475000.00,39.81492233,-105.0778656,"$506,461 ",1957,1,3,1,1544
+170,https://www.zillow.com/homedetails/13146-W-Green-Mountain-Dr-Lakewood-CO-80228/13779101_zpid/,"13146 W Green Mountain Dr, Lakewood, CO 80228",540000.00,39.657461,-105.114764,"$536,860 ",1971,2,3,2,1918
+171,https://www.zillow.com/homedetails/16261-E-Warner-Pl-Denver-CO-80239/303877611_zpid/,"16261 E Warner Pl, Denver, CO 80239",345000.00,39.78246307,-104.7983704,"$346,176 ",2018,2,3,3,1538
+172,https://www.zillow.com/homedetails/10231-Democrat-Rd-Parker-CO-80134/13478145_zpid/,"10231 Democrat Rd, Parker, CO 80134",2500000.00,39.450623,-104.701694,"$1,652,212 ",2006,3,5,6,7981
+173,https://www.zillow.com/homedetails/300-W-Caley-Dr-Littleton-CO-80120/13157660_zpid/,"300 W Caley Dr, Littleton, CO 80120",545000.00,39.60211182,-104.9909897,"$544,059 ",1960,2,4,3,2631
+174,https://www.zillow.com/homedetails/3400-E-Willamette-Ln-Greenwood-Village-CO-80121/99647219_zpid/,"3400 E Willamette Ln, Greenwood Village, CO 80121",4995000.00,39.62002945,-104.9475632,"$3,701,168 ",1986,3,5,7,11858
+175,https://www.zillow.com/homedetails/73-Glenmoor-Dr-Cherry-Hills-Village-CO-80113/13149686_zpid/,"73 Glenmoor Dr, Cherry Hills Village, CO 80113",3500000.00,39.6307869,-104.9441299,"$2,744,443 ",1995,4,6,8,8725
+176,https://www.zillow.com/homedetails/1221-Alton-St-Aurora-CO-80010/13036362_zpid/,"1221 Alton St, Aurora, CO 80010",410000.00,39.73605347,-104.8826675,"$387,034 ",1955,0,3,2,2016
+177,https://www.zillow.com/homedetails/3820-S-Grant-St-Englewood-CO-80113/13142763_zpid/,"3820 S Grant St, Englewood, CO 80113",520000.00,39.64723969,-104.9838638,"$559,690 ",1940,2,3,2,1860
+178,https://www.zillow.com/homedetails/7432-E-Jamison-Cir-Centennial-CO-80112/13141083_zpid/,"7432 E Jamison Cir, Centennial, CO 80112",630000.00,39.57697678,-104.9033966,"$672,857 ",1978,2,3,3,2550
+179,https://www.zillow.com/homedetails/2784-S-Jebel-Way-Aurora-CO-80013/87624490_zpid/,"2784 S Jebel Way, Aurora, CO 80013",510000.00,39.66617966,-104.7516327,"$559,856 ",2007,2,4,3,3354
+180,https://www.zillow.com/homedetails/4691-S-Fraser-Cir-UNIT-E-Aurora-CO-80015/2071249080_zpid/,"4691 S Fraser Cir UNIT E, Aurora, CO 80015",245000.00,39.645374,-104.80143,,1982,0,1,2,1029
+181,https://www.zillow.com/homedetails/2010-S-Knox-Ct-Denver-CO-80219/109686602_zpid/,"2010 S Knox Ct, Denver, CO 80219",400000.00,39.67987823,-105.0317764,"$400,421 ",1949,1,3,2,1029
+182,https://www.zillow.com/homedetails/14219-Double-Dutch-Cir-Parker-CO-80134/119232085_zpid/,"14219 Double Dutch Cir, Parker, CO 80134",775000.00,39.547047,-104.797687,"$766,034 ",2015,3,5,4,3893
+183,https://www.zillow.com/homedetails/8540-W-88th-Pl-Westminster-CO-80021/13688930_zpid/,"8540 W 88th Pl, Westminster, CO 80021",375000.00,39.85657501,-105.0924149,"$444,156 ",1972,1,3,2,984
+184,https://www.zillow.com/homedetails/1674-S-Madison-St-Denver-CO-80210/13373602_zpid/,"1674 S Madison St, Denver, CO 80210",695000.00,39.68627167,-104.9461899,"$653,221 ",1950,1,2,1,791
+185,https://www.zillow.com/homedetails/14560-S-Elk-Creek-Rd-Pine-CO-80470/13845355_zpid/,"14560 S Elk Creek Rd, Pine, CO 80470",515000.00,39.448514,-105.35162,"$347,998 ",1940,2,3,2,2281
+186,https://www.zillow.com/homedetails/6043-Willowbrook-Dr-Morrison-CO-80465/13800673_zpid/,"6043 Willowbrook Dr, Morrison, CO 80465",2500000.00,39.60707,-105.16989,"$1,830,063 ",2001,5,5,5,7343
+187,https://www.zillow.com/homedetails/1185-S-Oneida-St-APT-B-Denver-CO-80224/13407561_zpid/,"1185 S Oneida St APT B, Denver, CO 80224",290000.00,39.728638,-104.913632,"$318,575 ",1973,1,2,3,1434
+188,https://www.zillow.com/homedetails/4874-Jasper-Ct-Denver-CO-80239/52963561_zpid/,"4874 Jasper Ct, Denver, CO 80239",365000.00,39.779503,-104.807285,"$367,030 ",2000,1,3,2,1248
+189,https://www.zillow.com/homedetails/19539-E-Creekside-Dr-Parker-CO-80134/13475626_zpid/,"19539 E Creekside Dr, Parker, CO 80134",450000.00,39.47314,-104.77385,"$477,126 ",1993,2,4,3,2405
+190,https://www.zillow.com/homedetails/6574-High-Cir-Morrison-CO-80465/13800424_zpid/,"6574 High Cir, Morrison, CO 80465",825000.00,39.597767,-105.252693,"$906,574 ",1983,6,4,3,3146
+191,https://www.zillow.com/homedetails/15255-W-Auburn-Ave-Lakewood-CO-80228/108389370_zpid/,"15255 W Auburn Ave, Lakewood, CO 80228",925900.00,39.699091,-105.13928,"$881,422 ",2013,2,4,3,3298
+192,https://www.zillow.com/homedetails/5203-S-Ironton-Way-Englewood-CO-80111/13124339_zpid/,"5203 S Ironton Way, Englewood, CO 80111",1225000.00,39.622048,-104.863955,"$1,244,108 ",1981,2,5,4,4317
+193,https://www.zillow.com/homedetails/850-E-Radcliff-Ave-Englewood-CO-80113/61208955_zpid/,"850 E Radcliff Ave, Englewood, CO 80113",4350000.00,39.62666,-104.969824,"$3,396,638 ",1987,3,6,7,9272
+194,https://www.zillow.com/homedetails/10461-Truckee-St-UNIT-C-Commerce-City-CO-80022/68572986_zpid/,"10461 Truckee St UNIT C, Commerce City, CO 80022",340000.00,39.888411,-104.778983,"$363,559 ",2005,2,3,3,1659
+195,https://www.zillow.com/homedetails/23566-Currant-Dr-Golden-CO-80401/13754965_zpid/,"23566 Currant Dr, Golden, CO 80401",1247500.00,39.702413,-105.254867,"$1,343,795 ",1978,2,5,4,4400
+196,https://www.zillow.com/homedetails/8383-Bijou-Creek-Ave-Lone-Tree-CO-80124/331678049_zpid/,"8383 Bijou Creek Ave, Lone Tree, CO 80124",608400.00,39.4989,-105.034,,2021,2,4,3,2302
+197,https://www.zillow.com/homedetails/31598-Niakwa-Rd-Evergreen-CO-80439/13804687_zpid/,"31598 Niakwa Rd, Evergreen, CO 80439",575000.00,39.582093,-105.37108,"$643,010 ",1987,2,3,3,2167
+198,https://www.zillow.com/homedetails/7474-E-Arkansas-Ave-APT-2405-Denver-CO-80231/13045625_zpid/,"7474 E Arkansas Ave APT 2405, Denver, CO 80231",365000.00,39.71797,-104.907613,"$364,915 ",1985,1,3,4,1964
+199,https://www.zillow.com/homedetails/3162-Vaughn-St-Aurora-CO-80011/13018472_zpid/,"3162 Vaughn St, Aurora, CO 80011",400000.00,39.742858,-104.821385,"$430,104 ",1959,1,4,2,1176
+200,https://www.zillow.com/homedetails/10444-Skyreach-Way-Highlands-Ranch-CO-80126/97862206_zpid/,"10444 Skyreach Way, Highlands Ranch, CO 80126",1495000.00,39.556806,-105.020905,"$1,308,662 ",2011,3,5,5,4640
+201,https://www.zillow.com/homedetails/10609-Clarkeville-Way-Parker-CO-80134/13467998_zpid/,"10609 Clarkeville Way, Parker, CO 80134",689900.00,39.547047,-104.797687,"$684,573 ",2000,3,6,6,5260
+202,https://www.zillow.com/homedetails/1811-S-Quebec-Way-APT-196-Denver-CO-80231/13410722_zpid/,"1811 S Quebec Way APT 196, Denver, CO 80231",245000.00,39.71797,-104.907613,"$254,143 ",1983,0,2,1,870
+203,https://www.zillow.com/homedetails/10566-Cherokee-Ln-Parker-CO-80138/13477341_zpid/,"10566 Cherokee Ln, Parker, CO 80138",850000.00,39.495369,-104.719706,"$862,738 ",1982,4,3,3,3264
+205,https://www.zillow.com/homedetails/1704-Kenton-St-Aurora-CO-80010/13021302_zpid/,"1704 Kenton St, Aurora, CO 80010",379900.00,39.742858,-104.821385,"$365,423 ",1947,0,3,2,950
+206,https://www.zillow.com/homedetails/3647-S-Fundy-Way-Aurora-CO-80013/13093089_zpid/,"3647 S Fundy Way, Aurora, CO 80013",439900.00,39.645374,-104.80143,"$467,676 ",1984,2,4,3,2041
+207,https://www.zillow.com/homedetails/2590-S-Birch-St-Denver-CO-80222/13413523_zpid/,"2590 S Birch St, Denver, CO 80222",450000.00,39.633092,-104.887052,"$551,190 ",1953,0,4,2,1340
+208,https://www.zillow.com/homedetails/246-Dianna-Dr-Littleton-CO-80124/13451974_zpid/,"246 Dianna Dr, Littleton, CO 80124",410000.00,39.557554,-104.89087,"$481,352 ",1974,2,4,2,882
+209,https://www.zillow.com/homedetails/1011-S-Miller-Way-Lakewood-CO-80226/13775201_zpid/,"1011 S Miller Way, Lakewood, CO 80226",320000.00,39.699091,-105.13928,"$340,780 ",1972,0,3,2,1215
+210,https://www.zillow.com/homedetails/5035-Old-Schoolhouse-Rd-Parker-CO-80134/13481298_zpid/,"5035 Old Schoolhouse Rd, Parker, CO 80134",475000.00,39.435151,-104.764876,"$528,139 ",2002,2,3,3,1924
+211,https://www.zillow.com/homedetails/574-Iola-St-Aurora-CO-80010/13038055_zpid/,"574 Iola St, Aurora, CO 80010",440000.00,39.742858,-104.821385,"$412,084 ",1959,1,4,2,1900
+212,https://www.zillow.com/homedetails/3215-N-York-St-Denver-CO-80205/13305235_zpid/,"3215 N York St, Denver, CO 80205",700000.00,39.728638,-104.913632,"$474,888 ",1908,1,4,3,2255
+213,https://www.zillow.com/homedetails/546-Tremolite-Pl-Castle-Rock-CO-80108/108393510_zpid/,"546 Tremolite Pl, Castle Rock, CO 80108",1620000.00,39.42361069,-104.856987,"$1,686,721 ",2013,6,6,7,6558
+214,https://www.zillow.com/homedetails/1076-Orion-Way-Castle-Rock-CO-80108/82023041_zpid/,"1076 Orion Way, Castle Rock, CO 80108",725000.00,39.424558,-104.842972,"$664,667 ",2006,3,4,4,3246
+215,https://www.zillow.com/homedetails/8292-County-Road-6-Weld-CO-80603/245717681_zpid/,"8292 County Road 6, Weld, CO 80603",750000.00,40.02608109,-104.8962097,"$464,925 ",1919,2,3,3,2747
+216,https://www.zillow.com/homedetails/349-S-Kalispell-Way-APT-D-Aurora-CO-80017/13065618_zpid/,"349 S Kalispell Way APT D, Aurora, CO 80017",284900.00,39.71006012,-104.8014908,"$266,727 ",1981,1,2,3,1976
+217,https://www.zillow.com/homedetails/1885-Oak-Ave-Boulder-CO-80304/63896800_zpid/,"1885 Oak Ave, Boulder, CO 80304",2300000.00,40.022836,-105.275048,"$2,351,384 ",2004,3,5,5,4433
+218,https://www.zillow.com/homedetails/3300-W-Florida-Ave-APT-42-Denver-CO-80219/13366458_zpid/,"3300 W Florida Ave APT 42, Denver, CO 80219",279000.00,39.68854141,-105.0309219,"$285,665 ",1984,2,2,2,1084
+219,https://www.zillow.com/homedetails/21074-E-Layton-Ave-Aurora-CO-80015/99645809_zpid/,"21074 E Layton Ave, Aurora, CO 80015",665000.00,39.62865448,-104.7437973,"$615,029 ",2015,3,4,3,3292
+220,https://www.zillow.com/homedetails/5079-Miriam-Ln-Parker-CO-80134/13481128_zpid/,"5079 Miriam Ln, Parker, CO 80134",479990.00,39.435151,-104.764876,"$484,093 ",2000,2,4,4,2090
+221,https://www.zillow.com/homedetails/3220-Balsam-St-Wheat-Ridge-CO-80033/13739524_zpid/,"3220 Balsam St, Wheat Ridge, CO 80033",690000.00,39.76247025,-105.0885162,"$732,463 ",1952,3,4,2,2381
+222,https://www.zillow.com/homedetails/3270-W-Conejos-Pl-Denver-CO-80204/251841511_zpid/,"3270 W Conejos Pl, Denver, CO 80204",599000.00,39.776158,-105.020205,"$592,496 ",2016,2,2,3,1220
+223,https://www.zillow.com/homedetails/16009-E-Radcliff-Pl-APT-A-Aurora-CO-80015/13106226_zpid/,"16009 E Radcliff Pl APT A, Aurora, CO 80015",279900.00,39.63745499,-104.8023682,"$275,372 ",1980,1,2,1,896
+224,https://www.zillow.com/homedetails/5683-S-Zante-Cir-Aurora-CO-80015/54646226_zpid/,"5683 S Zante Cir, Aurora, CO 80015",540000.00,39.638195,-104.742415,"$559,805 ",2003,2,5,5,3196
+225,https://www.zillow.com/homedetails/3629-W-26th-Ave-Denver-CO-80211/13314666_zpid/,"3629 W 26th Ave, Denver, CO 80211",725000.00,39.776158,-105.020205,"$711,785 ",1915,2,3,2,1642
+226,https://www.zillow.com/homedetails/993-S-Zeno-Way-Aurora-CO-80017/13064197_zpid/,"993 S Zeno Way, Aurora, CO 80017",330000.00,39.70091629,-104.7730942,"$325,996 ",1984,0,3,2,1626
+227,https://www.zillow.com/homedetails/373-Garfield-St-Denver-CO-80206/13348123_zpid/,"373 Garfield St, Denver, CO 80206",4900000.00,39.72229767,-104.9440994,"$4,491,415 ",2006,3,5,6,8083
+228,https://www.zillow.com/homedetails/4518-Swansboro-Ct-Highlands-Ranch-CO-80126/13454423_zpid/,"4518 Swansboro Ct, Highlands Ranch, CO 80126",675000.00,39.54916382,-104.936058,"$721,560 ",1999,3,4,4,3722
+229,https://www.zillow.com/homedetails/2348-Hanover-St-Aurora-CO-80010/13018916_zpid/,"2348 Hanover St, Aurora, CO 80010",340000.00,39.75205994,-104.8666992,"$369,088 ",1950,1,2,1,877
+230,https://www.zillow.com/homedetails/2753-W-Long-Dr-APT-F-Littleton-CO-80120/13168043_zpid/,"2753 W Long Dr APT F, Littleton, CO 80120",499900.00,39.57767487,-105.0203629,"$529,331 ",1983,2,4,4,2523
+231,https://www.zillow.com/homedetails/1322-Tamarac-St-Denver-CO-80220/13389281_zpid/,"1322 Tamarac St, Denver, CO 80220",430000.00,39.73771667,-104.8948517,"$351,548 ",1927,1,3,1,1197
+232,https://www.zillow.com/homedetails/7995-E-Mississippi-Ave-APT-G9-Denver-CO-80247/13402434_zpid/,"7995 E Mississippi Ave APT G9, Denver, CO 80247",260000.00,39.69758987,-104.8952484,"$279,171 ",1973,0,2,2,1142
+233,https://www.zillow.com/homedetails/22680-Hope-Dale-Ave-Parker-CO-80138/61084795_zpid/,"22680 Hope Dale Ave, Parker, CO 80138",850000.00,39.47314,-104.77385,"$772,644 ",2003,3,5,4,3903
+234,https://www.zillow.com/homedetails/4257-S-Naples-Way-Aurora-CO-80013/13099955_zpid/,"4257 S Naples Way, Aurora, CO 80013",435000.00,39.63897705,-104.7969666,"$464,770 ",1983,2,4,3,2141
+235,https://www.zillow.com/homedetails/8101-E-Dartmouth-Ave-UNIT-62-Denver-CO-80231/13418316_zpid/,"8101 E Dartmouth Ave UNIT 62, Denver, CO 80231",900000.00,39.66060257,-104.8939133,"$848,860 ",1985,2,6,4,4387
+236,https://www.zillow.com/homedetails/11623-Masonville-Dr-Parker-CO-80134/13467612_zpid/,"11623 Masonville Dr, Parker, CO 80134",450000.00,39.52518845,-104.7929688,"$493,145 ",1987,2,4,4,1976
+237,https://www.zillow.com/homedetails/2618-S-Logan-St-Denver-CO-80210/13379480_zpid/,"2618 S Logan St, Denver, CO 80210",750000.00,39.6691246,-104.9825058,"$937,949 ",2001,2,3,3,1858
+238,https://www.zillow.com/homedetails/7995-E-Mississippi-Ave-APT-G9-Denver-CO-80247/13402434_zpid/,"7995 E Mississippi Ave APT G9, Denver, CO 80247",260000.00,39.69758987,-104.8952484,"$279,171 ",1973,0,2,2,1142
+239,https://www.zillow.com/homedetails/24691-E-Park-Crescent-Dr-Aurora-CO-80016/54643987_zpid/,"24691 E Park Crescent Dr, Aurora, CO 80016",725000.00,39.578861,-104.729532,"$764,794 ",2000,3,5,6,4545
+240,https://www.zillow.com/homedetails/3092-S-Rosemary-St-Denver-CO-80231/13417828_zpid/,"3092 S Rosemary St, Denver, CO 80231",639000.00,39.66088486,-104.8982925,"$631,945 ",1974,2,3,3,2032
+241,https://www.zillow.com/homedetails/5079-Miriam-Ln-Parker-CO-80134/13481128_zpid/,"5079 Miriam Ln, Parker, CO 80134",479990.00,39.435151,-104.764876,"$484,093 ",2000,2,4,4,2090
+242,https://www.zillow.com/homedetails/1240-Magnolia-St-Denver-CO-80220/13389844_zpid/,"1240 Magnolia St, Denver, CO 80220",725000.00,39.73654175,-104.9113235,"$732,399 ",1941,3,3,2,1775
+243,https://www.zillow.com/homedetails/3775-Osceola-St-Denver-CO-80212/13312153_zpid/,"3775 Osceola St, Denver, CO 80212",700000.00,39.776158,-105.020205,"$914,804 ",1890,0,4,2,2200
+244,https://www.zillow.com/homedetails/4075-W-Monmouth-Ave-Denver-CO-80123/13428848_zpid/,"4075 W Monmouth Ave, Denver, CO 80123",535000.00,39.63158,-105.03807,"$533,376 ",1961,1,4,2,2231
+245,https://www.zillow.com/homedetails/2635-S-Irving-St-Denver-CO-80219/13380875_zpid/,"2635 S Irving St, Denver, CO 80219",389000.00,39.686134,-105.025035,"$407,951 ",1951,0,3,2,1104
+246,https://www.zillow.com/homedetails/11601-Galapago-Ct-Northglenn-CO-80234/12963028_zpid/,"11601 Galapago Ct, Northglenn, CO 80234",589000.00,39.90714264,-104.996315,"$549,586 ",1995,2,4,3,1994
+247,https://www.zillow.com/homedetails/17209-E-109th-Ave-Commerce-City-CO-80022/103006015_zpid/,"17209 E 109th Ave, Commerce City, CO 80022",629900.00,39.888411,-104.778983,"$636,959 ",2014,3,4,3,4113
+248,https://www.zillow.com/homedetails/12032-Monaco-Dr-Brighton-CO-80602/12949871_zpid/,"12032 Monaco Dr, Brighton, CO 80602",475000.00,39.929754,-104.957702,"$460,462 ",1987,2,4,3,1522
+249,https://www.zillow.com/homedetails/2954-E-101st-Ave-Denver-CO-80229/12972265_zpid/,"2954 E 101st Ave, Denver, CO 80229",479000.00,39.880959,-104.931412,"$460,462 ",1986,2,5,4,2566
+250,https://www.zillow.com/homedetails/12908-Hudson-Ct-Thornton-CO-80241/12946021_zpid/,"12908 Hudson Ct, Thornton, CO 80241",460000.00,39.93008423,-104.9232712,"$447,364 ",1998,2,2,3,1219
+251,https://www.zillow.com/homedetails/11830-Harrison-St-Thornton-CO-80233/12959031_zpid/,"11830 Harrison St, Thornton, CO 80233",250000.00,39.91068649,-104.9407196,"$285,013 ",1978,1,2,1,883
+252,https://www.zillow.com/homedetails/12348-Milwaukee-Ct-Thornton-CO-80241/12958103_zpid/,"12348 Milwaukee Ct, Thornton, CO 80241",378000.00,39.92007446,-104.9499207,"$413,103 ",1993,2,3,3,1628
+253,https://www.zillow.com/homedetails/4850-Elm-Ct-Denver-CO-80221/13292974_zpid/,"4850 Elm Ct, Denver, CO 80221",449850.00,39.776158,-105.020205,"$446,073 ",1941,1,3,1,955
+254,https://www.zillow.com/homedetails/290-Clare-Dr-Castle-Pines-CO-80108/13482642_zpid/,"290 Clare Dr, Castle Pines, CO 80108",650000.00,39.457712,-104.881602,"$723,020 ",1988,2,5,4,3528
+255,https://www.zillow.com/homedetails/9980-Grove-St-UNIT-A-Westminster-CO-80031/12977562_zpid/,"9980 Grove St UNIT A, Westminster, CO 80031",420000.00,39.876487,-105.075585,"$437,906 ",1986,2,3,4,2018
+256,https://www.zillow.com/homedetails/8161-Eagleview-Dr-Littleton-CO-80125/13434293_zpid/,"8161 Eagleview Dr, Littleton, CO 80125",600000.00,39.478148,-105.090495,"$554,345 ",1996,2,4,4,3024
+257,https://www.zillow.com/homedetails/1560-Kalmia-Ave-Boulder-CO-80304/13230298_zpid/,"1560 Kalmia Ave, Boulder, CO 80304",1547000.00,40.03884506,-105.2778397,"$1,551,147 ",1980,2,3,4,3152
+258,https://www.zillow.com/homedetails/5932-E-114th-Pl-Thornton-CO-80233/68568962_zpid/,"5932 E 114th Pl, Thornton, CO 80233",505000.00,39.90606308,-104.9197083,"$521,018 ",2005,2,3,2,2086
+259,https://www.zillow.com/homedetails/5906-Braun-Way-Arvada-CO-80004/13722239_zpid/,"5906 Braun Way, Arvada, CO 80004",1395000.00,39.81729,-105.099184,"$681,960 ",1992,3,6,5,4844
+260,https://www.zillow.com/homedetails/765-S-9th-Ave-Brighton-CO-80601/12942045_zpid/,"765 S 9th Ave, Brighton, CO 80601",430000.00,39.993437,-104.812394,"$458,702 ",1972,2,4,2,2058
+261,https://www.zillow.com/homedetails/19187-E-54th-Pl-Denver-CO-80249/247390342_zpid/,"19187 E 54th Pl, Denver, CO 80249",465000.00,39.792611,-104.743212,"$452,680 ",2017,2,4,4,1935
+262,https://www.zillow.com/homedetails/4437-Walden-Way-Denver-CO-80249/123599657_zpid/,"4437 Walden Way, Denver, CO 80249",415000.00,39.792611,-104.743212,"$437,625 ",2014,2,3,3,1648
+263,https://www.zillow.com/homedetails/15517-W-95th-Ave-Arvada-CO-80007/119083793_zpid/,"15517 W 95th Ave, Arvada, CO 80007",675000.00,39.86903,-105.1738281,"$691,751 ",2015,2,2,3,2271
+264,https://www.zillow.com/homedetails/1961-Ruth-Dr-Denver-CO-80229/12983156_zpid/,"1961 Ruth Dr, Denver, CO 80229",359000.00,39.880959,-104.931412,"$356,228 ",1956,2,3,1,1002
+265,https://www.zillow.com/homedetails/5423-Coyote-Canyon-Way-UNIT-A-Morrison-CO-80465/131684456_zpid/,"5423 Coyote Canyon Way UNIT A, Morrison, CO 80465",649000.00,39.60707,-105.16989,"$602,780 ",1984,2,3,4,2422
+266,https://www.zillow.com/homedetails/3439-W-44th-Ave-Denver-CO-80211/13297281_zpid/,"3439 W 44th Ave, Denver, CO 80211",699500.00,39.77708817,-105.0326385,"$703,049 ",1907,1,3,3,1459
+267,https://www.zillow.com/homedetails/4094-S-Valentia-St-Denver-CO-80237/13423179_zpid/,"4094 S Valentia St, Denver, CO 80237",549000.00,39.633092,-104.887052,"$585,518 ",1969,2,5,3,2634
+268,https://www.zillow.com/homedetails/9747-Kittredge-St-Commerce-City-CO-80022/58649907_zpid/,"9747 Kittredge St, Commerce City, CO 80022",575000.00,39.888411,-104.778983,"$436,858 ",2003,3,6,4,3675
+269,https://www.zillow.com/homedetails/13752-Garfield-St-UNIT-A-Thornton-CO-80602/245118969_zpid/,"13752 Garfield St UNIT A, Thornton, CO 80602",429990.00,39.9453125,-104.9443054,"$475,639 ",2018,2,3,3,1898
+270,https://www.zillow.com/homedetails/16026-Alberta-Dr-Parker-CO-80134/249985024_zpid/,"16026 Alberta Dr, Parker, CO 80134",525000.00,39.54879761,-104.8048782,"$567,651 ",2019,2,3,2,1736
+271,https://www.zillow.com/homedetails/6972-W-Alaska-Dr-Lakewood-CO-80226/96750337_zpid/,"6972 W Alaska Dr, Lakewood, CO 80226",589000.00,39.70902634,-105.0738144,"$598,254 ",2015,2,3,4,1980
+272,https://www.zillow.com/homedetails/4818-Macintosh-Pl-Boulder-CO-80301/13231453_zpid/,"4818 Macintosh Pl, Boulder, CO 80301",629000.00,40.03448486,-105.241272,"$639,102 ",1988,2,2,2,1223
+273,https://www.zillow.com/homedetails/469-Newark-St-Aurora-CO-80010/13037491_zpid/,"469 Newark St, Aurora, CO 80010",489000.00,39.742858,-104.821385,"$446,269 ",1962,2,4,3,2353
+274,https://www.zillow.com/homedetails/2495-S-Andes-Cir-Aurora-CO-80013/54643471_zpid/,"2495 S Andes Cir, Aurora, CO 80013",399000.00,39.67396927,-104.7706909,"$402,677 ",2002,2,3,2,1306
+275,https://www.zillow.com/homedetails/10950-Tennyson-Ct-Westminster-CO-80031/92997076_zpid/,"10950 Tennyson Ct, Westminster, CO 80031",450000.00,39.89356232,-105.0429535,"$522,584 ",1977,2,3,2,1506
+276,https://www.zillow.com/homedetails/10586-Ura-Ln-Denver-CO-80234/12967592_zpid/,"10586 Ura Ln, Denver, CO 80234",480000.00,39.88846207,-105.0131989,"$464,488 ",1968,2,3,3,2022
+277,https://www.zillow.com/homedetails/5758-Rustic-Knolls-Dr-Boulder-CO-80301/13198430_zpid/,"5758 Rustic Knolls Dr, Boulder, CO 80301",1060000.00,40.04137039,-105.2196045,,1967,2,3,3,2716
+278,https://www.zillow.com/homedetails/11009-Ouzel-Ct-Parker-CO-80134/13469947_zpid/,"11009 Ouzel Ct, Parker, CO 80134",449900.00,39.547047,-104.797687,"$476,550 ",1998,2,4,2,1663
+279,https://www.zillow.com/homedetails/27154-E-Archer-Ave-Watkins-CO-80137/2071258787_zpid/,"27154 E Archer Ave, Watkins, CO 80137",497358.00,39.71530533,-104.6704407,,2021,2,3,3,1942
+280,https://www.zillow.com/homedetails/2315-S-Hooker-Way-Denver-CO-80219/13380314_zpid/,"2315 S Hooker Way, Denver, CO 80219",400000.00,39.67507172,-105.0291138,"$368,568 ",1950,0,2,1,728
+281,https://www.zillow.com/homedetails/5614-Brentwood-St-Arvada-CO-80002/13727720_zpid/,"5614 Brentwood St, Arvada, CO 80002",499900.00,39.81729,-105.099184,"$479,439 ",1948,2,2,1,1290
+282,https://www.zillow.com/homedetails/255-S-4th-Ave-Brighton-CO-80601/12941364_zpid/,"255 S 4th Ave, Brighton, CO 80601",359999.00,39.98263168,-104.8185196,"$329,234 ",1901,1,2,1,940
+283,https://www.zillow.com/homedetails/3751-Chaffee-Ct-Castle-Rock-CO-80109/52460890_zpid/,"3751 Chaffee Ct, Castle Rock, CO 80109",565000.00,39.40079117,-104.9000549,"$609,675 ",2002,2,4,3,2267
+284,https://www.zillow.com/homedetails/2534-Benton-St-Edgewater-CO-80214/79993194_zpid/,"2534 Benton St, Edgewater, CO 80214",820000.00,39.7537117,-105.0552673,"$866,383 ",2007,2,3,3,2027
+285,https://www.zillow.com/homedetails/6646-Depew-St-Arvada-CO-80003/13714172_zpid/,"6646 Depew St, Arvada, CO 80003",424900.00,39.81742859,-105.0571213,"$459,228 ",1962,1,4,2,1877
+286,https://www.zillow.com/homedetails/4431-W-Caspian-Cir-Littleton-CO-80128/13167808_zpid/,"4431 W Caspian Cir, Littleton, CO 80128",4200000.00,39.615417,-105.018903,"$3,967,145 ",1998,4,6,9,12208
+287,https://www.zillow.com/homedetails/634-Moffat-St-Erie-CO-80516/14090212_zpid/,"634 Moffat St, Erie, CO 80516",315000.00,40.045223,-105.038504,"$418,346 ",1890,1,2,1,728
+288,https://www.zillow.com/homedetails/27094-E-Archer-Ave-Watkins-CO-80137/2071258935_zpid/,"27094 E Archer Ave, Watkins, CO 80137",476556.00,39.71530914,-104.6711655,,2021,2,3,3,1743
+289,https://www.zillow.com/homedetails/82-Hill-Cir-Evergreen-CO-80439/13268606_zpid/,"82 Hill Cir, Evergreen, CO 80439",900000.00,39.674487,-105.42524,"$745,966 ",1985,2,3,3,3439
+290,https://www.zillow.com/homedetails/1525-Utah-St-Golden-CO-80401/13712046_zpid/,"1525 Utah St, Golden, CO 80401",650000.00,39.742755,-105.215052,"$696,707 ",1963,1,5,3,2308
+291,https://www.zillow.com/homedetails/9592-Brentwood-Way-UNIT-C-Broomfield-CO-80021/13686205_zpid/,"9592 Brentwood Way UNIT C, Broomfield, CO 80021",398950.00,39.839128,-105.044903,"$409,345 ",1999,2,2,4,1850
+292,https://www.zillow.com/homedetails/4630-Talbot-Dr-Boulder-CO-80303/13186349_zpid/,"4630 Talbot Dr, Boulder, CO 80303",950000.00,40.00188065,-105.238533,"$853,395 ",1967,2,4,2,2062
+293,https://www.zillow.com/homedetails/6194-W-Caley-Ave-Littleton-CO-80123/13822796_zpid/,"6194 W Caley Ave, Littleton, CO 80123",600000.00,39.60205078,-105.0652771,"$593,346 ",1972,2,5,4,2856
+294,https://www.zillow.com/homedetails/8536-E-Amherst-Cir-Denver-CO-80231/13057118_zpid/,"8536 E Amherst Cir, Denver, CO 80231",670000.00,39.663377,-104.856461,"$681,849 ",1996,2,4,3,2398
+295,https://www.zillow.com/homedetails/11388-Ponderosa-Ln-Franktown-CO-80116/13478445_zpid/,"11388 Ponderosa Ln, Franktown, CO 80116",595000.00,39.406051,-104.673998,"$576,707 ",1984,2,3,2,1728
+296,https://www.zillow.com/homedetails/900-Troy-St-Aurora-CO-80011/13032683_zpid/,"900 Troy St, Aurora, CO 80011",375000.00,39.73111343,-104.8386078,"$433,887 ",1953,2,4,2,1996
+297,https://www.zillow.com/homedetails/9451-W-Tennessee-Ave-Lakewood-CO-80226/13773225_zpid/,"9451 W Tennessee Ave, Lakewood, CO 80226",535000.00,39.69873428,-105.1031723,"$558,871 ",1967,1,4,3,1953
+298,https://www.zillow.com/homedetails/7918-S-Depew-St-APT-B-Littleton-CO-80128/13836551_zpid/,"7918 S Depew St APT B, Littleton, CO 80128",350000.00,39.57424545,-105.0572433,"$351,892 ",1981,1,2,3,1363
+299,https://www.zillow.com/homedetails/11683-W-Coal-Mine-Dr-Littleton-CO-80127/13817507_zpid/,"11683 W Coal Mine Dr, Littleton, CO 80127",639900.00,39.60189056,-105.1293945,"$619,966 ",1994,2,4,4,2633
+300,https://www.zillow.com/homedetails/1590-Red-Poppy-Way-Brighton-CO-80601/82586638_zpid/,"1590 Red Poppy Way, Brighton, CO 80601",499900.00,39.96272659,-104.8031693,"$493,370 ",2007,2,3,3,2358
+301,https://www.zillow.com/homedetails/3002-75th-St-Boulder-CO-80301/13197669_zpid/,"3002 75th St, Boulder, CO 80301",2590000.00,40.0294075,-105.1777496,"$2,546,711 ",2002,3,5,5,6296
+302,https://www.zillow.com/homedetails/23702-E-2nd-Dr-Aurora-CO-80018/67447533_zpid/,"23702 E 2nd Dr, Aurora, CO 80018",470000.00,39.717437,-104.695566,"$495,679 ",2004,2,4,3,1911
+304,https://www.zillow.com/homedetails/9382-Ashbury-Cir-UNIT-204-Parker-CO-80134/82024334_zpid/,"9382 Ashbury Cir UNIT 204, Parker, CO 80134",309900.00,39.54448318,-104.7987518,,2007,1,2,2,1206
+305,https://www.zillow.com/homedetails/14359-W-Cedar-Pl-Golden-CO-80401/13764808_zpid/,"14359 W Cedar Pl, Golden, CO 80401",900000.00,39.736158,-105.148936,"$875,468 ",1977,2,6,4,3570
+306,https://www.zillow.com/homedetails/16506-E-Arkansas-Ave-Aurora-CO-80017/13070329_zpid/,"16506 E Arkansas Ave, Aurora, CO 80017",394589.00,39.664291,-104.780069,"$432,798 ",1981,2,3,2,1873
+307,https://www.zillow.com/homedetails/245-E-106th-Pl-Northglenn-CO-80233/12969442_zpid/,"245 E 106th Pl, Northglenn, CO 80233",449900.00,39.907144,-104.996313,"$456,325 ",1960,2,5,2,2176
+308,https://www.zillow.com/homedetails/9350-Lowell-Blvd-Westminster-CO-80031/12981520_zpid/,"9350 Lowell Blvd, Westminster, CO 80031",375000.00,39.86528015,-105.0341263,"$480,656 ",1967,0,4,3,2052
+309,https://www.zillow.com/homedetails/539-S-Random-Rd-Bailey-CO-80421/13985097_zpid/,"539 S Random Rd, Bailey, CO 80421",480000.00,39.43074799,-105.4383392,"$419,329 ",1979,0,3,2,1778
+310,https://www.zillow.com/homedetails/22531-E-Belleview-Pl-Aurora-CO-80015/13110788_zpid/,"22531 E Belleview Pl, Aurora, CO 80015",490000.00,39.638195,-104.742415,"$516,953 ",2000,2,5,4,2897
+311,https://www.zillow.com/homedetails/157-S-Lookout-Mountain-Rd-Golden-CO-80401/13752052_zpid/,"157 S Lookout Mountain Rd, Golden, CO 80401",1050000.00,39.702413,-105.254867,"$1,145,454 ",1981,2,5,5,3317
+312,https://www.zillow.com/homedetails/2266-S-Humboldt-St-Denver-CO-80210/13376243_zpid/,"2266 S Humboldt St, Denver, CO 80210",729900.00,39.651697,-104.920607,"$542,889 ",1934,2,3,2,1922
+313,https://www.zillow.com/homedetails/2157-Lupine-Pl-Erie-CO-80516/82293273_zpid/,"2157 Lupine Pl, Erie, CO 80516",539900.00,40.006971,-105.018195,"$582,978 ",2007,2,3,3,2479
+314,https://www.zillow.com/homedetails/614-Rawlins-Way-Lafayette-CO-80026/119232597_zpid/,"614 Rawlins Way, Lafayette, CO 80026",465000.00,39.98277664,-105.0842133,"$493,562 ",2015,2,2,3,1328
+315,https://www.zillow.com/homedetails/7318-Bandit-Dr-Castle-Rock-CO-80108/121866264_zpid/,"7318 Bandit Dr, Castle Rock, CO 80108",650000.00,39.41767502,-104.7854919,"$637,584 ",2015,3,5,4,3531
+316,https://www.zillow.com/homedetails/6020-S-Summer-Ridge-Way-Castle-Rock-CO-80109/13485556_zpid/,"6020 S Summer Ridge Way, Castle Rock, CO 80109",515000.00,39.387817,-104.905676,"$535,354 ",1994,2,3,3,2109
+317,https://www.zillow.com/homedetails/3318-N-Franklin-St-Denver-CO-80205/13305785_zpid/,"3318 N Franklin St, Denver, CO 80205",590000.00,39.776158,-105.020205,"$609,235 ",1904,2,3,2,1211
+318,https://www.zillow.com/homedetails/35-Ivy-St-Denver-CO-80220/13397187_zpid/,"35 Ivy St, Denver, CO 80220",1850000.00,39.728638,-104.913632,"$1,788,106 ",1954,3,6,5,5113
+319,https://www.zillow.com/homedetails/629-N-Humboldt-St-Denver-CO-80218/13331476_zpid/,"629 N Humboldt St, Denver, CO 80218",1595000.00,39.716077,-104.98345,"$1,447,158 ",1906,2,4,4,3400
+320,https://www.zillow.com/homedetails/4559-S-Lewiston-Way-Aurora-CO-80015/13105349_zpid/,"4559 S Lewiston Way, Aurora, CO 80015",394000.00,39.645374,-104.80143,"$427,228 ",1976,2,5,3,2486
+321,https://www.zillow.com/homedetails/4240-E-Plum-Ct-Littleton-CO-80121/13126699_zpid/,"4240 E Plum Ct, Littleton, CO 80121",2300000.00,39.617523,-104.901508,"$2,327,671 ",1995,3,6,6,6050
+322,https://www.zillow.com/homedetails/6681-Secrest-Cir-Arvada-CO-80007/13706591_zpid/,"6681 Secrest Cir, Arvada, CO 80007",929000.00,39.848254,-105.164199,"$897,235 ",1998,3,6,5,4409
+323,https://www.zillow.com/homedetails/5542-S-Kline-Ct-Littleton-CO-80127/13815022_zpid/,"5542 S Kline Ct, Littleton, CO 80127",575000.00,39.6159668,-105.1115952,"$606,363 ",1978,2,3,2,1696
+324,https://www.zillow.com/homedetails/100-Westwood-Way-Erie-CO-80516/104104458_zpid/,"100 Westwood Way, Erie, CO 80516",619750.00,40.006971,-105.018195,"$671,808 ",2012,3,4,3,2772
+325,https://www.zillow.com/homedetails/10872-Dayton-Way-Henderson-CO-80640/68567377_zpid/,"10872 Dayton Way, Henderson, CO 80640",395000.00,39.898965,-104.848047,"$420,151 ",2005,1,4,3,1392
+326,https://www.zillow.com/homedetails/3009-Madison-Ave-103-Boulder-CO-80303/2071259903_zpid/,"3009 Madison Ave #103, Boulder, CO 80303",400000.00,40.022836,-105.275048,"$418,997 ",1969,1,2,2,1102
+327,https://www.zillow.com/homedetails/267-S-Jefferson-Ave-Louisville-CO-80027/13232510_zpid/,"267 S Jefferson Ave, Louisville, CO 80027",639900.00,39.984421,-105.153964,"$703,977 ",1982,2,3,3,2016
+328,https://www.zillow.com/homedetails/1875-Burke-Dr-Erie-CO-80516/157719229_zpid/,"1875 Burke Dr, Erie, CO 80516",859000.00,40.01670837,-105.0606461,"$928,314 ",2017,3,6,6,4856
+329,https://www.zillow.com/homedetails/2657-Hughs-Dr-Erie-CO-80516/13256754_zpid/,"2657 Hughs Dr, Erie, CO 80516",750000.00,40.045223,-105.038504,"$804,413 ",1998,3,6,4,4476
+330,https://www.zillow.com/homedetails/1790-Fulton-St-Aurora-CO-80010/13019874_zpid/,"1790 Fulton St, Aurora, CO 80010",475000.00,39.742858,-104.821385,"$449,415 ",1950,1,5,2,2200
+331,https://www.zillow.com/homedetails/12432-E-30th-Ave-Aurora-CO-80011/13018336_zpid/,"12432 E 30th Ave, Aurora, CO 80011",400000.00,39.75888824,-104.8434067,"$413,473 ",1961,1,5,2,1865
+332,https://www.zillow.com/homedetails/7915-S-Bemis-St-Littleton-CO-80120/13169434_zpid/,"7915 S Bemis St, Littleton, CO 80120",580000.00,39.57356644,-105.0165482,"$644,958 ",1985,2,3,3,2689
+333,https://www.zillow.com/homedetails/1311-Detroit-St-Denver-CO-80206/13326103_zpid/,"1311 Detroit St, Denver, CO 80206",950000.00,39.728638,-104.913632,"$915,729 ",1906,2,4,3,2059
+334,https://www.zillow.com/homedetails/6579-Van-Gordon-Ct-Arvada-CO-80004/13719997_zpid/,"6579 Van Gordon Ct, Arvada, CO 80004",515000.00,39.81729,-105.099184,"$538,659 ",1966,1,3,3,1487
+335,https://www.zillow.com/homedetails/10674-W-Ontario-Pl-Littleton-CO-80127/13828246_zpid/,"10674 W Ontario Pl, Littleton, CO 80127",789000.00,39.592747,-105.11935,"$710,501 ",1994,3,5,4,3597
+336,https://www.zillow.com/homedetails/1325-Regina-Ln-Denver-CO-80233/12970268_zpid/,"1325 Regina Ln, Denver, CO 80233",449900.00,39.907144,-104.996313,"$456,333 ",1962,2,4,2,1956
+337,https://www.zillow.com/homedetails/9926-Orangewood-Dr-Denver-CO-80260/12976307_zpid/,"9926 Orangewood Dr, Denver, CO 80260",265000.00,39.882496,-105.015088,"$277,427 ",1973,1,,,1161
+338,https://www.zillow.com/homedetails/8502-Yank-Ct-Arvada-CO-80005/13698337_zpid/,"8502 Yank Ct, Arvada, CO 80005",590000.00,39.81729,-105.099184,"$604,893 ",1995,3,3,3,1833
+339,https://www.zillow.com/homedetails/17681-E-Loyola-Dr-Aurora-CO-80013/13096788_zpid/,"17681 E Loyola Dr, Aurora, CO 80013",285000.00,39.645374,-104.80143,"$257,344 ",1982,0,3,3,1300
+340,https://www.zillow.com/homedetails/194-Coyote-Bennett-CO-80102/2071260228_zpid/,"194 Coyote, Bennett, CO 80102",468695.00,39.65208054,-104.464653,"$486,381 ",2021,2,4,3,2481
+341,https://www.zillow.com/homedetails/8762-Allison-Dr-APT-D-Arvada-CO-80005/13693430_zpid/,"8762 Allison Dr APT D, Arvada, CO 80005",397000.00,39.85594559,-105.0859756,"$371,140 ",1995,2,2,3,1335
+342,https://www.zillow.com/homedetails/435-Strada-Rossa-Rd-Golden-CO-80401/108393556_zpid/,"435 Strada Rossa Rd, Golden, CO 80401",2950000.00,39.702413,-105.254867,"$2,994,029 ",2022,3,5,5,4895
+343,https://www.zillow.com/homedetails/741-N-Vandriver-Way-Aurora-CO-80137/295030572_zpid/,"741 N Vandriver Way, Aurora, CO 80137",425000.00,39.72790146,-104.6656876,"$441,176 ",2019,2,3,2,1554
+344,https://www.zillow.com/homedetails/11188-Latigo-Ln-Parker-CO-80138/13471864_zpid/,"11188 Latigo Ln, Parker, CO 80138",489999.00,39.547047,-104.797687,"$505,982 ",1995,2,4,3,1996
+345,https://www.zillow.com/homedetails/8662-S-Balsam-St-Littleton-CO-80128/13843129_zpid/,"8662 S Balsam St, Littleton, CO 80128",649000.00,39.55991364,-105.089859,"$641,129 ",1988,5,3,2,2581
+346,https://www.zillow.com/homedetails/7154-S-Poplar-Way-Centennial-CO-80112/13135788_zpid/,"7154 S Poplar Way, Centennial, CO 80112",625000.00,39.58683395,-104.9055862,"$640,046 ",1979,2,3,5,3804
+347,https://www.zillow.com/homedetails/23953-E-Minnow-Cir-Parker-CO-80016/108398153_zpid/,"23953 E Minnow Cir, Parker, CO 80016",630000.00,39.55770493,-104.7099152,"$664,282 ",2020,3,4,4,2772
+348,https://www.zillow.com/homedetails/204-Coyote-St-Bennett-CO-80102/2071260347_zpid/,"204 Coyote St, Bennett, CO 80102",439800.00,39.753479,-104.4502029,"$455,284 ",2021,3,4,3,1953
+349,https://www.zillow.com/homedetails/23953-E-Minnow-Cir-Parker-CO-80016/108398153_zpid/,"23953 E Minnow Cir, Parker, CO 80016",630000.00,39.55770493,-104.7099152,"$664,282 ",2020,3,4,4,2772
+350,https://www.zillow.com/homedetails/7154-S-Poplar-Way-Centennial-CO-80112/13135788_zpid/,"7154 S Poplar Way, Centennial, CO 80112",625000.00,39.598205,-104.939441,"$640,046 ",1979,2,3,5,3804
+351,https://www.zillow.com/homedetails/11188-Latigo-Ln-Parker-CO-80138/13471864_zpid/,"11188 Latigo Ln, Parker, CO 80138",489999.00,39.51403809,-104.7580948,"$505,982 ",1995,2,4,3,1996
+352,https://www.zillow.com/homedetails/8895-W-96th-Dr-Westminster-CO-80021/13687881_zpid/,"8895 W 96th Dr, Westminster, CO 80021",465000.00,39.876487,-105.075585,"$474,745 ",1979,2,3,1,1268
+353,https://www.zillow.com/homedetails/14036-Jackson-St-Thornton-CO-80602/245121494_zpid/,"14036 Jackson St, Thornton, CO 80602",440000.00,39.929754,-104.957702,"$461,463 ",2020,2,2,3,1487
+354,https://www.zillow.com/homedetails/7500-Knox-Ct-Westminster-CO-80030/12996799_zpid/,"7500 Knox Ct, Westminster, CO 80030",380000.00,39.83293533,-105.0312195,"$408,731 ",1953,1,3,1,1026
+355,https://www.zillow.com/homedetails/20011-E-108th-Ave-Commerce-City-CO-80022/13009033_zpid/,"20011 E 108th Ave, Commerce City, CO 80022",575000.00,39.8934021,-104.7532272,"$599,364 ",1976,2,3,2,2008
+356,https://www.zillow.com/homedetails/1125-W-Princeton-Pl-Englewood-CO-80110/13144724_zpid/,"1125 W Princeton Pl, Englewood, CO 80110",525000.00,39.64095688,-105.0009308,"$584,756 ",1960,2,2,2,1837
+357,https://www.zillow.com/homedetails/10770-Hillrose-St-Parker-CO-80134/108382388_zpid/,"10770 Hillrose St, Parker, CO 80134",799000.00,39.52071381,-104.8243256,"$754,933 ",2012,3,5,3,3911
+358,https://www.zillow.com/homedetails/6167-S-Josephine-Way-Centennial-CO-80121/13160168_zpid/,"6167 S Josephine Way, Centennial, CO 80121",799000.00,39.598205,-104.939441,"$521,983 ",1960,1,5,3,2673
+359,https://www.zillow.com/homedetails/19176-E-Oxford-Dr-Aurora-CO-80013/13094107_zpid/,"19176 E Oxford Dr, Aurora, CO 80013",430000.00,39.64073181,-104.7646255,"$460,219 ",1984,2,3,3,2200
+360,https://www.zillow.com/homedetails/8661-Yule-St-Arvada-CO-80007/121926806_zpid/,"8661 Yule St, Arvada, CO 80007",640000.00,39.848254,-105.164199,"$634,558 ",2016,3,3,3,2073
+361,https://www.zillow.com/homedetails/10015-Saint-Paul-St-Denver-CO-80229/12972285_zpid/,"10015 Saint Paul St, Denver, CO 80229",450000.00,39.880959,-104.931412,"$455,416 ",1986,2,3,2,1397
+362,https://www.zillow.com/homedetails/4202-Fern-Ave-Broomfield-CO-80020/60231283_zpid/,"4202 Fern Ave, Broomfield, CO 80020",525000.00,39.92344284,-105.0407257,"$574,857 ",1995,2,4,4,2189
+363,https://www.zillow.com/homedetails/9440-Golden-Oak-Pl-Parker-CO-80134/82030668_zpid/,"9440 Golden Oak Pl, Parker, CO 80134",1950000.00,39.44097137,-104.7099228,"$1,976,167 ",2006,3,5,7,7750
+364,https://www.zillow.com/homedetails/618-Hendee-Ct-Erie-CO-80516/54988976_zpid/,"618 Hendee Ct, Erie, CO 80516",549000.00,40.006971,-105.018195,"$589,905 ",2000,3,5,3,2278
+365,https://www.zillow.com/homedetails/2938-Casalon-Cir-Superior-CO-80027/102751714_zpid/,"2938 Casalon Cir, Superior, CO 80027",1095000.00,39.92557144,-105.1630096,"$1,192,312 ",2016,2,3,5,3688
+366,https://www.zillow.com/homedetails/15986-Filly-Ave-Parker-CO-80134/245220845_zpid/,"15986 Filly Ave, Parker, CO 80134",545000.00,39.547047,-104.797687,"$570,591 ",2018,2,3,2,1670
+367,https://www.zillow.com/homedetails/10279-Willowbridge-Way-Highlands-Ranch-CO-80126/13446793_zpid/,"10279 Willowbridge Way, Highlands Ranch, CO 80126",649900.00,39.518596,-104.925083,"$681,584 ",2000,2,5,4,3200
+368,https://www.zillow.com/homedetails/489-Vaughn-St-Aurora-CO-80011/13039626_zpid/,"489 Vaughn St, Aurora, CO 80011",410000.00,39.742858,-104.821385,"$441,238 ",1961,0,4,3,2220
+369,https://www.zillow.com/homedetails/2347-Hudson-St-Denver-CO-80207/13285062_zpid/,"2347 Hudson St, Denver, CO 80207",750000.00,39.75200272,-104.9237671,"$857,798 ",1922,1,3,3,2133
+370,https://www.zillow.com/homedetails/3476-Beeler-Ct-Denver-CO-80238/96075449_zpid/,"3476 Beeler Ct, Denver, CO 80238",900000.00,39.728638,-104.913632,"$950,993 ",2010,2,4,4,3179
+371,https://www.zillow.com/homedetails/2999-S-Adams-St-Denver-CO-80210/13387588_zpid/,"2999 S Adams St, Denver, CO 80210",1475000.00,39.66278458,-104.9488144,"$696,674 ",1953,2,4,3,2930
+372,https://www.zillow.com/homedetails/4145-Sheridan-Blvd-Denver-CO-80212/13737064_zpid/,"4145 Sheridan Blvd, Denver, CO 80212",475000.00,39.773701,-105.053572,"$505,770 ",1899,0,3,2,1287
+373,https://www.zillow.com/homedetails/8009-S-Niagara-Way-Centennial-CO-80112/13140155_zpid/,"8009 S Niagara Way, Centennial, CO 80112",549900.00,39.57279587,-104.9120331,"$544,971 ",1980,2,3,3,1107
+374,https://www.zillow.com/homedetails/13372-Ash-Cir-Thornton-CO-80241/12946135_zpid/,"13372 Ash Cir, Thornton, CO 80241",389900.00,39.93900299,-104.9373398,"$426,630 ",1985,1,3,2,1353
+375,https://www.zillow.com/homedetails/11344-Sheps-Way-Broomfield-CO-80021/119308613_zpid/,"11344 Sheps Way, Broomfield, CO 80021",479900.00,39.929063,-105.079268,"$477,064 ",2013,2,3,3,1986
+376,https://www.zillow.com/homedetails/11821-Macon-St-Commerce-City-CO-80640/72295052_zpid/,"11821 Macon St, Commerce City, CO 80640",419000.00,39.91122818,-104.8565369,"$512,458 ",2006,3,2,2,1773
+377,https://www.zillow.com/homedetails/2361-Norfolk-St-Erie-CO-80516/68060797_zpid/,"2361 Norfolk St, Erie, CO 80516",660000.00,40.006971,-105.018195,"$664,899 ",2004,3,4,4,3939
+378,https://www.zillow.com/homedetails/7300-E-Costilla-Ave-Centennial-CO-80112/13133012_zpid/,"7300 E Costilla Ave, Centennial, CO 80112",499900.00,39.598205,-104.939441,"$555,728 ",1974,2,3,2,1473
+379,https://www.zillow.com/homedetails/9761-W-Athens-Ln-Littleton-CO-80127/54890701_zpid/,"9761 W Athens Ln, Littleton, CO 80127",819000.00,39.5470047,-105.1080093,"$835,376 ",2004,3,6,5,4310
+380,https://www.zillow.com/homedetails/6565-High-Cir-Morrison-CO-80465/13800457_zpid/,"6565 High Cir, Morrison, CO 80465",675000.00,39.5978775,-105.2506332,"$712,500 ",1994,2,4,3,2068
+381,https://www.zillow.com/homedetails/2653-N-Elizabeth-St-Denver-CO-80205/13304225_zpid/,"2653 N Elizabeth St, Denver, CO 80205",569000.00,39.7554512,-104.9564514,"$582,004 ",1924,2,2,1,1399
+382,https://www.zillow.com/homedetails/1361-Jamaica-St-Aurora-CO-80010/13034040_zpid/,"1361 Jamaica St, Aurora, CO 80010",360000.00,39.742858,-104.821385,"$199,314 ",1931,0,3,2,1149
+383,https://www.zillow.com/homedetails/11680-Grant-St-Denver-CO-80233/12962404_zpid/,"11680 Grant St, Denver, CO 80233",330000.00,39.907144,-104.996313,"$363,559 ",1968,0,3,3,1764
+384,https://www.zillow.com/homedetails/7591-Xavier-St-Westminster-CO-80030/12995089_zpid/,"7591 Xavier St, Westminster, CO 80030",380000.00,39.839128,-105.044903,"$421,707 ",1965,2,4,2,1524
+385,https://www.zillow.com/homedetails/4877-Mount-Belford-Dr-Brighton-CO-80601/61505493_zpid/,"4877 Mount Belford Dr, Brighton, CO 80601",489500.00,39.98222351,-104.7540207,"$514,626 ",2004,3,4,3,3642
+386,https://www.zillow.com/homedetails/8225-Hoyt-Ct-Arvada-CO-80005/13696429_zpid/,"8225 Hoyt Ct, Arvada, CO 80005",575000.00,39.81729,-105.099184,"$605,961 ",1977,2,4,3,2009
+387,https://www.zillow.com/homedetails/286-Pioneer-Rd-Golden-CO-80403/79589568_zpid/,"286 Pioneer Rd, Golden, CO 80403",590000.00,39.87018204,-105.4095764,"$594,068 ",1975,0,1,1,900
+388,https://www.zillow.com/homedetails/1274-N-Quitman-St-9-Denver-CO-80204/251842198_zpid/,"1274 N Quitman St #9, Denver, CO 80204",575000.00,39.765835,-105.026057,"$512,900 ",2018,1,2,3,1262
+389,https://www.zillow.com/homedetails/257-Fox-St-Denver-CO-80223/13343874_zpid/,"257 Fox St, Denver, CO 80223",620000.00,39.72040939,-104.995491,"$559,233 ",1888,2,3,2,1593
+390,https://www.zillow.com/homedetails/11693-W-28th-Ave-Lakewood-CO-80215/13742519_zpid/,"11693 W 28th Ave, Lakewood, CO 80215",650000.00,39.757739,-105.129548,"$688,022 ",1961,2,4,3,2365
+391,https://www.zillow.com/homedetails/2878-N-Jasmine-St-Denver-CO-80207/13281704_zpid/,"2878 N Jasmine St, Denver, CO 80207",320000.00,39.75817108,-104.9185791,"$345,021 ",1945,0,2,1,852
+392,https://www.zillow.com/homedetails/6733-N-Yucca-Trl-Parker-CO-80138/2071261997_zpid/,"6733 N Yucca Trl, Parker, CO 80138",1600000.00,39.46082306,-104.6752701,"$1,637,128 ",2016,3,5,5,3866
+393,https://www.zillow.com/homedetails/451-W-Jamison-Pl-Littleton-CO-80120/13170042_zpid/,"451 W Jamison Pl, Littleton, CO 80120",565000.00,39.602112,-104.990986,"$582,474 ",1990,2,4,4,2810
+394,https://www.zillow.com/homedetails/14264-W-74th-Dr-Arvada-CO-80007/13698886_zpid/,"14264 W 74th Dr, Arvada, CO 80007",2500000.00,39.79797,-105.11474,"$2,547,169 ",2003,0,5,5,3800
+395,https://www.zillow.com/homedetails/435-Valley-View-Dr-Boulder-CO-80304/13182269_zpid/,"435 Valley View Dr, Boulder, CO 80304",4050000.00,40.022836,-105.275048,"$4,050,026 ",2004,4,4,5,4476
+396,https://www.zillow.com/homedetails/14485-E-Hawaii-Cir-UNIT-B-Aurora-CO-80012/13069381_zpid/,"14485 E Hawaii Cir UNIT B, Aurora, CO 80012",248000.00,39.664291,-104.780069,"$254,758 ",1982,0,2,2,1036
+397,https://www.zillow.com/homedetails/6744-Club-Villa-Rd-Parker-CO-80134/121863595_zpid/,"6744 Club Villa Rd, Parker, CO 80134",629999.00,39.45410919,-104.7603989,"$664,825 ",2017,2,4,4,3360
+398,https://www.zillow.com/homedetails/4304-S-Grant-St-Englewood-CO-80113/13147128_zpid/,"4304 S Grant St, Englewood, CO 80113",435000.00,39.63829041,-104.9839096,"$457,138 ",1916,2,2,1,1083
+399,https://www.zillow.com/homedetails/10389-W-Fair-Ave-APT-F-Littleton-CO-80127/13817916_zpid/,"10389 W Fair Ave APT F, Littleton, CO 80127",367000.00,39.60495377,-105.1139984,"$389,584 ",1995,2,4,3,2181
+400,https://www.zillow.com/homedetails/4010-N-Tejon-St-Denver-CO-80211/2080570296_zpid/,"4010 N Tejon St, Denver, CO 80211",747000.00,39.77207184,-105.0109558,"$716,052 ",2019,2,3,3,1770
+401,https://www.zillow.com/homedetails/1941-S-Xanadu-Way-Aurora-CO-80014/13050320_zpid/,"1941 S Xanadu Way, Aurora, CO 80014",329300.00,39.68083572,-104.8311157,"$349,881 ",1979,1,2,2,1392
+402,https://www.zillow.com/homedetails/8354-Liverpool-Cir-Littleton-CO-80125/61084212_zpid/,"8354 Liverpool Cir, Littleton, CO 80125",725000.00,39.48330688,-105.0769653,"$690,086 ",2004,3,5,4,3474
+403,https://www.zillow.com/homedetails/6782-E-Briarwood-Dr-Centennial-CO-80112/13134716_zpid/,"6782 E Briarwood Dr, Centennial, CO 80112",425000.00,39.59334946,-104.9105835,"$424,036 ",1983,2,2,3,1266
+404,https://www.zillow.com/homedetails/14242-E-Radcliff-Cir-Aurora-CO-80015/13103678_zpid/,"14242 E Radcliff Cir, Aurora, CO 80015",350000.00,39.645374,-104.80143,"$360,547 ",1982,2,3,3,1570
+405,https://www.zillow.com/homedetails/4773-N-Clay-St-Denver-CO-80211/13296375_zpid/,"4773 N Clay St, Denver, CO 80211",575000.00,39.776158,-105.020205,"$578,081 ",1928,2,4,2,1536
+406,https://www.zillow.com/homedetails/1037-E-15th-Ave-Broomfield-CO-80020/60233914_zpid/,"1037 E 15th Ave, Broomfield, CO 80020",590000.00,39.93918228,-105.0604858,"$639,626 ",1976,2,4,3,2437
+407,https://www.zillow.com/homedetails/7444-E-Villanova-Pl-Denver-CO-80231/13055879_zpid/,"7444 E Villanova Pl, Denver, CO 80231",575000.00,39.66790009,-104.9019623,"$638,311 ",1993,2,3,3,2114
+408,https://www.zillow.com/homedetails/2680-Quay-St-Wheat-Ridge-CO-80033/13739909_zpid/,"2680 Quay St, Wheat Ridge, CO 80033",670000.00,39.762472,-105.088516,"$725,453 ",1957,1,4,3,2550
+409,https://www.zillow.com/homedetails/3140-W-23rd-Ave-Denver-CO-80211/13316534_zpid/,"3140 W 23rd Ave, Denver, CO 80211",768000.00,39.776158,-105.020205,"$849,100 ",1900,2,4,3,1592
+410,https://www.zillow.com/homedetails/17023-Bennett-Dr-Parker-CO-80134/13467771_zpid/,"17023 Bennett Dr, Parker, CO 80134",469000.00,39.526371,-104.7905655,"$506,898 ",1987,2,4,3,1867
+411,https://www.zillow.com/homedetails/401-S-Garfield-St-BLDG-5-Denver-CO-80209/2128491274_zpid/,"401 S Garfield St BLDG 5, Denver, CO 80209",2995000.00,39.70920944,-104.9471512,"$3,040,037 ",2013,4,3,5,5123
+412,https://www.zillow.com/homedetails/3143-Sheridan-Blvd-Wheat-Ridge-CO-80214/13738379_zpid/,"3143 Sheridan Blvd, Wheat Ridge, CO 80214",589000.00,39.762472,-105.088516,,1939,2,3,2,2212
+413,https://www.zillow.com/homedetails/10170-W-Wesley-Pl-Lakewood-CO-80227/54890008_zpid/,"10170 W Wesley Pl, Lakewood, CO 80227",835000.00,39.67372131,-105.1124344,"$1,021,459 ",2004,3,2,3,2719
+414,https://www.zillow.com/homedetails/8151-Auburn-Ln-Westminster-CO-80031/12994002_zpid/,"8151 Auburn Ln, Westminster, CO 80031",485000.00,39.839128,-105.044903,"$451,699 ",1957,1,6,2,2128
+415,https://www.zillow.com/homedetails/9407-E-147th-Pl-Brighton-CO-80602/58289695_zpid/,"9407 E 147th Pl, Brighton, CO 80602",800000.00,39.96380615,-104.8780136,"$866,251 ",2004,3,3,4,3380
+416,https://www.zillow.com/homedetails/10080-Eaton-St-Westminster-CO-80020/13683732_zpid/,"10080 Eaton St, Westminster, CO 80020",425000.00,39.876487,-105.075585,"$459,269 ",1975,1,4,2,1706
+417,https://www.zillow.com/homedetails/6390-S-Newcastle-Way-Aurora-CO-80016/87628213_zpid/,"6390 S Newcastle Way, Aurora, CO 80016",740000.00,39.60033035,-104.6859665,"$702,452 ",2008,3,4,4,3150
+418,https://www.zillow.com/homedetails/4212-Monroe-Dr-APT-C-Boulder-CO-80303/13216621_zpid/,"4212 Monroe Dr APT C, Boulder, CO 80303",510000.00,40.00483322,-105.2414703,"$527,714 ",1975,1,2,2,1056
+419,https://www.zillow.com/homedetails/3981-Home-St-Castle-Rock-CO-80108/13484503_zpid/,"3981 Home St, Castle Rock, CO 80108",450000.00,39.42032623,-104.8674622,"$481,348 ",1972,2,3,3,1902
+420,https://www.zillow.com/homedetails/1251-S-Kline-Way-Lakewood-CO-80232/13780136_zpid/,"1251 S Kline Way, Lakewood, CO 80232",500000.00,39.69480133,-105.1123123,"$516,494 ",1971,1,4,2,2004
+421,https://www.zillow.com/homedetails/8442-S-Timberwood-St-Littleton-CO-80126/13437194_zpid/,"8442 S Timberwood St, Littleton, CO 80126",545000.00,39.556806,-105.020905,"$579,117 ",1981,2,3,3,2420
+422,https://www.zillow.com/homedetails/4840-Granby-Way-Denver-CO-80239/13273227_zpid/,"4840 Granby Way, Denver, CO 80239",415000.00,39.77970505,-104.8103638,"$367,312 ",1984,2,4,3,1679
+423,https://www.zillow.com/homedetails/17501-E-Dickenson-Pl-Aurora-CO-80013/13078220_zpid/,"17501 E Dickenson Pl, Aurora, CO 80013",515000.00,39.67249298,-104.7841492,"$473,422 ",1985,2,3,3,2519
+424,https://www.zillow.com/homedetails/6640-Oneida-St-Commerce-City-CO-80022/13015359_zpid/,"6640 Oneida St, Commerce City, CO 80022",369000.00,39.81739044,-104.9078598,"$371,191 ",1956,1,3,2,1212
+425,https://www.zillow.com/homedetails/1419-S-Pitkin-Way-Aurora-CO-80017/13073379_zpid/,"1419 S Pitkin Way, Aurora, CO 80017",395000.00,39.69142914,-104.789505,"$438,930 ",1995,2,4,3,1607
+426,https://www.zillow.com/homedetails/710-Bellaire-St-Denver-CO-80220/13393547_zpid/,"710 Bellaire St, Denver, CO 80220",1050000.00,39.72770691,-104.9368286,"$992,048 ",1936,2,4,2,2627
+427,https://www.zillow.com/homedetails/6523-S-Vance-St-Littleton-CO-80123/13822017_zpid/,"6523 S Vance St, Littleton, CO 80123",495000.00,39.565686,-105.079966,"$527,431 ",1976,2,3,3,1860
+428,https://www.zillow.com/homedetails/3151-S-Princess-Cir-Broomfield-CO-80020/60230237_zpid/,"3151 S Princess Cir, Broomfield, CO 80020",425000.00,39.929063,-105.079268,"$465,649 ",1992,2,3,2,1483
+429,https://www.zillow.com/homedetails/3790-Iris-Ave-APT-A-Boulder-CO-80301/13215179_zpid/,"3790 Iris Ave APT A, Boulder, CO 80301",399000.00,40.022836,-105.275048,"$414,161 ",1978,1,3,2,1196
+430,https://www.zillow.com/homedetails/16347-Stone-Ledge-Dr-Parker-CO-80134/13468200_zpid/,"16347 Stone Ledge Dr, Parker, CO 80134",499990.00,39.547047,-104.797687,"$543,467 ",1993,2,4,3,1914
+431,https://www.zillow.com/homedetails/5489-Verbena-St-Denver-CO-80238/123602414_zpid/,"5489 Verbena St, Denver, CO 80238",700000.00,39.765451,-104.890098,"$740,875 ",2015,2,4,4,2780
+432,https://www.zillow.com/homedetails/20462-E-Union-Cir-Aurora-CO-80015/54645672_zpid/,"20462 E Union Cir, Aurora, CO 80015",550000.00,39.638195,-104.742415,"$552,609 ",2001,2,4,3,2541
+433,https://www.zillow.com/homedetails/3837-S-Inca-St-Englewood-CO-80110/13144480_zpid/,"3837 S Inca St, Englewood, CO 80110",487000.00,39.6469841,-104.9985886,"$544,554 ",1950,0,4,1,1431
+434,https://www.zillow.com/homedetails/3051-S-Yampa-Way-Aurora-CO-80013/58887714_zpid/,"3051 S Yampa Way, Aurora, CO 80013",390000.00,39.645374,-104.80143,"$401,999 ",2002,2,3,4,2196
+435,https://www.zillow.com/homedetails/1071-High-Point-Cir-Black-Hawk-CO-80422/79587079_zpid/,"1071 High Point Cir, Black Hawk, CO 80422",1300000.00,39.843119,-105.473737,"$823,988 ",1997,4,5,5,4910
+436,https://www.zillow.com/homedetails/5585-W-73rd-Ave-Westminster-CO-80003/95057396_zpid/,"5585 W 73rd Ave, Westminster, CO 80003",570000.00,39.82926941,-105.0583801,"$591,805 ",2013,2,3,4,2996
+437,https://www.zillow.com/homedetails/2766-Magnolia-Dr-Nederland-CO-80466/13194444_zpid/,"2766 Magnolia Dr, Nederland, CO 80466",669000.00,39.98999,-105.372772,"$711,440 ",1985,6,3,2,2213
+438,https://www.zillow.com/homedetails/26733-E-Indore-Ave-Aurora-CO-80016/295017450_zpid/,"26733 E Indore Ave, Aurora, CO 80016",825000.00,39.58157349,-104.6770172,"$848,571 ",2018,2,6,4,4593
+439,https://www.zillow.com/homedetails/13200-W-58th-Ave-Arvada-CO-80002/13722350_zpid/,"13200 W 58th Ave, Arvada, CO 80002",805000.00,39.80122375,-105.147934,"$867,524 ",1927,5,2,1,1060
+440,https://www.zillow.com/homedetails/13378-W-23rd-Pl-Golden-CO-80401/13743285_zpid/,"13378 W 23rd Pl, Golden, CO 80401",660000.00,39.75432968,-105.15168,"$620,810 ",1960,2,5,3,2629
+441,https://www.zillow.com/homedetails/5697-S-Rifle-Ct-Centennial-CO-80015/13117605_zpid/,"5697 S Rifle Ct, Centennial, CO 80015",679900.00,39.621043,-104.749062,"$703,672 ",1993,3,4,5,3832
+442,https://www.zillow.com/homedetails/13914-Scarlet-Sage-Ln-Parker-CO-80134/300014002_zpid/,"13914 Scarlet Sage Ln, Parker, CO 80134",635080.00,39.46388626,-104.7856674,"$666,059 ",2021,3,5,3,2680
+443,https://www.zillow.com/homedetails/10710-W-8th-Pl-Lakewood-CO-80215/13762586_zpid/,"10710 W 8th Pl, Lakewood, CO 80215",465000.00,39.72999573,-105.1177292,"$485,435 ",1964,1,4,2,858
+444,https://www.zillow.com/homedetails/2551-S-Kittredge-Way-Aurora-CO-80013/13080107_zpid/,"2551 S Kittredge Way, Aurora, CO 80013",425000.00,39.66986084,-104.8033829,"$469,476 ",1976,1,3,2,1296
+445,https://www.zillow.com/homedetails/2935-W-81st-Ave-APT-F-Westminster-CO-80031/12992384_zpid/,"2935 W 81st Ave APT F, Westminster, CO 80031",275000.00,39.84543991,-105.0225143,"$310,090 ",1984,0,2,2,1140
+446,https://www.zillow.com/homedetails/1021-Cedar-St-Broomfield-CO-80020/60234945_zpid/,"1021 Cedar St, Broomfield, CO 80020",529900.00,39.929063,-105.079268,"$571,114 ",1970,2,3,3,2392
+447,https://www.zillow.com/homedetails/15435-Roslyn-Ct-Brighton-CO-80602/295025990_zpid/,"15435 Roslyn Ct, Brighton, CO 80602",675000.00,39.97581863,-104.9005203,"$703,601 ",2018,3,3,2,1906
+448,https://www.zillow.com/homedetails/16332-Josephine-Pl-Thornton-CO-80602/121925982_zpid/,"16332 Josephine Pl, Thornton, CO 80602",650000.00,39.99204254,-104.9581528,"$701,525 ",2018,3,3,3,2280
+449,https://www.zillow.com/homedetails/1979-Jay-St-Lakewood-CO-80214/13749713_zpid/,"1979 Jay St, Lakewood, CO 80214",500000.00,39.728159,-105.065309,"$476,367 ",1948,2,3,2,1144
+450,https://www.zillow.com/homedetails/18947-E-51st-Pl-Denver-CO-80249/82256162_zpid/,"18947 E 51st Pl, Denver, CO 80249",410000.00,39.79099655,-104.7662811,"$367,870 ",2004,2,2,3,1524
+451,https://www.zillow.com/homedetails/12650-E-Bates-Cir-Aurora-CO-80014/13059155_zpid/,"12650 E Bates Cir, Aurora, CO 80014",480000.00,39.645374,-104.80143,"$495,931 ",1974,2,3,3,1938
+452,https://www.zillow.com/homedetails/14093-E-Radcliff-Cir-Aurora-CO-80015/13103602_zpid/,"14093 E Radcliff Cir, Aurora, CO 80015",339900.00,39.63574982,-104.8222961,"$353,334 ",1982,2,3,3,1685
+453,https://www.zillow.com/homedetails/13930-Scarlet-Sage-Ln-Parker-CO-80134/300013581_zpid/,"13930 Scarlet Sage Ln, Parker, CO 80134",649095.00,39.46347427,-104.7853012,"$680,430 ",2021,3,4,3,2556
+454,https://www.zillow.com/homedetails/1430-Vrain-St-Denver-CO-80204/13336541_zpid/,"1430 Vrain St, Denver, CO 80204",799999.00,39.765835,-105.026057,"$478,093 ",1939,1,3,3,1440
+455,https://www.zillow.com/homedetails/1216-Boston-St-Aurora-CO-80010/13036310_zpid/,"1216 Boston St, Aurora, CO 80010",314973.00,39.753037,-104.870296,"$341,519 ",1950,1,2,1,710
+456,https://www.zillow.com/homedetails/22274-E-Ida-Pl-Aurora-CO-80015/13111691_zpid/,"22274 E Ida Pl, Aurora, CO 80015",564900.00,39.638195,-104.742415,"$604,936 ",1999,3,4,4,3718
+457,https://www.zillow.com/homedetails/2952-E-Dry-Creek-Pl-Centennial-CO-80122/13172782_zpid/,"2952 E Dry Creek Pl, Centennial, CO 80122",859000.00,39.598205,-104.939441,"$958,857 ",1978,2,5,4,4545
+458,https://www.zillow.com/homedetails/7845-S-Firehouse-Hill-Rd-Morrison-CO-80465/2071263931_zpid/,"7845 S Firehouse Hill Rd, Morrison, CO 80465",820000.00,39.60707,-105.16989,"$866,945 ",1930,1,4,4,3000
+459,https://www.zillow.com/homedetails/23799-Shooting-Star-Dr-Golden-CO-80401/13755011_zpid/,"23799 Shooting Star Dr, Golden, CO 80401",1200000.00,39.702413,-105.254867,"$1,496,336 ",1977,3,5,4,4810
+460,https://www.zillow.com/homedetails/9864-E-112th-Dr-Henderson-CO-80640/58649080_zpid/,"9864 E 112th Dr, Henderson, CO 80640",394900.00,39.898965,-104.848047,"$451,414 ",2004,2,4,4,2046
+461,https://www.zillow.com/homedetails/5026-W-108th-Cir-Westminster-CO-80031/124749747_zpid/,"5026 W 108th Cir, Westminster, CO 80031",850000.00,39.876487,-105.075585,"$894,551 ",2017,3,4,3,2793
+462,https://www.zillow.com/homedetails/2998-Low-Meadow-Blvd-Castle-Rock-CO-80109/242034344_zpid/,"2998 Low Meadow Blvd, Castle Rock, CO 80109",474900.00,39.381777,-104.853869,"$467,740 ",2019,2,2,3,1673
+463,https://www.zillow.com/homedetails/30157-Aspen-Ln-Evergreen-CO-80439/13758375_zpid/,"30157 Aspen Ln, Evergreen, CO 80439",444000.00,39.659256,-105.29463,"$465,397 ",1982,1,3,3,1209
+464,https://www.zillow.com/homedetails/8585-S-Zante-Ct-Aurora-CO-80016/123454121_zpid/,"8585 S Zante Ct, Aurora, CO 80016",800000.00,39.578861,-104.729532,"$782,438 ",2019,3,3,4,2608
+465,https://www.zillow.com/homedetails/1712-S-Richfield-Way-Aurora-CO-80017/13073896_zpid/,"1712 S Richfield Way, Aurora, CO 80017",330000.00,39.664291,-104.780069,"$333,523 ",1985,2,3,3,1537
+466,https://www.zillow.com/homedetails/2718-S-Patton-Ct-Denver-CO-80236/13383821_zpid/,"2718 S Patton Ct, Denver, CO 80236",430000.00,39.66733932,-105.0383987,"$376,297 ",1955,0,2,1,1065
+467,https://www.zillow.com/homedetails/1920-S-Hazel-Ct-Denver-CO-80219/13380242_zpid/,"1920 S Hazel Ct, Denver, CO 80219",385000.00,39.716077,-104.98345,"$396,769 ",1949,1,3,1,949
+468,https://www.zillow.com/homedetails/4280-Ingalls-St-Wheat-Ridge-CO-80033/13736404_zpid/,"4280 Ingalls St, Wheat Ridge, CO 80033",600000.00,39.77472687,-105.06353,"$639,015 ",1954,1,3,2,1826
+469,https://www.zillow.com/homedetails/30157-Aspen-Ln-Evergreen-CO-80439/13758375_zpid/,"30157 Aspen Ln, Evergreen, CO 80439",444000.00,39.659256,-105.29463,"$465,397 ",1982,1,3,3,1209
+470,https://www.zillow.com/homedetails/7070-S-Windsor-St-Littleton-CO-80128/13167562_zpid/,"7070 S Windsor St, Littleton, CO 80128",750000.00,39.59064102,-105.0494232,"$793,871 ",1971,2,4,3,3761
+471,https://www.zillow.com/homedetails/941-Elmira-St-Aurora-CO-80010/13036759_zpid/,"941 Elmira St, Aurora, CO 80010",370000.00,39.742858,-104.821385,"$332,185 ",1956,2,4,2,2362
+472,https://www.zillow.com/homedetails/5790-Northwood-Dr-Evergreen-CO-80439/13804072_zpid/,"5790 Northwood Dr, Evergreen, CO 80439",900000.00,39.591062,-105.337876,"$1,062,252 ",1993,2,6,4,3656
+473,https://www.zillow.com/homedetails/10646-Kipling-Way-Westminster-CO-80021/13681984_zpid/,"10646 Kipling Way, Westminster, CO 80021",515000.00,39.88947678,-105.1088104,"$557,898 ",1992,2,3,3,1846
+474,https://www.zillow.com/homedetails/17899-E-105th-Pl-Commerce-City-CO-80022/302681647_zpid/,"17899 E 105th Pl, Commerce City, CO 80022",464900.00,39.888411,-104.778983,"$479,750 ",2019,2,3,3,1976
+475,https://www.zillow.com/homedetails/20033-W-94th-Ln-Arvada-CO-80007/121927108_zpid/,"20033 W 94th Ln, Arvada, CO 80007",725000.00,39.8686676,-105.2264023,"$758,833 ",2017,3,4,4,2888
+476,https://www.zillow.com/homedetails/6447-S-Vaughn-St-Englewood-CO-80112/295027552_zpid/,"6447 S Vaughn St, Englewood, CO 80112",750000.00,39.613548,-104.786115,"$774,362 ",2019,2,4,4,3028
+477,https://www.zillow.com/homedetails/6624-S-Prescott-Way-Littleton-CO-80120/13156514_zpid/,"6624 S Prescott Way, Littleton, CO 80120",780000.00,39.59717941,-105.0097504,"$800,699 ",1983,2,5,3,3792
+478,https://www.zillow.com/homedetails/5921-S-Akron-Way-Greenwood-Village-CO-80111/13130608_zpid/,"5921 S Akron Way, Greenwood Village, CO 80111",900000.00,39.60876465,-104.8851013,"$1,039,214 ",1982,2,6,4,4646
+479,https://www.zillow.com/homedetails/37-Castle-Pines-Dr-N-Castle-Rock-CO-80108/13483632_zpid/,"37 Castle Pines Dr N, Castle Rock, CO 80108",1398000.00,39.44136429,-104.8919296,"$1,482,727 ",1984,3,4,5,5249
+480,https://www.zillow.com/homedetails/2046-S-Lincoln-St-Denver-CO-80210/13377912_zpid/,"2046 S Lincoln St, Denver, CO 80210",590000.00,39.67943192,-104.9860535,"$575,090 ",1927,1,3,2,1382
+481,https://www.zillow.com/homedetails/6927-Hillside-Way-Parker-CO-80134/13479446_zpid/,"6927 Hillside Way, Parker, CO 80134",599900.00,39.47314,-104.77385,"$549,992 ",1987,2,4,4,2400
+482,https://www.zillow.com/homedetails/6615-W-84th-Way-APT-104-Arvada-CO-80003/13691499_zpid/,"6615 W 84th Way APT 104, Arvada, CO 80003",320000.00,39.85028458,-105.0706558,"$318,886 ",1980,1,2,3,1026
+483,https://www.zillow.com/homedetails/5137-S-Malaya-Ct-Centennial-CO-80015/13112295_zpid/,"5137 S Malaya Ct, Centennial, CO 80015",475000.00,39.621043,-104.749062,"$477,737 ",1998,2,3,4,1819
+484,https://www.zillow.com/homedetails/1715-Irving-St-Denver-CO-80204/130137480_zpid/,"1715 Irving St, Denver, CO 80204",599900.00,39.74430847,-105.0303345,,2021,4,6,7,4053
+485,https://www.zillow.com/homedetails/3521-S-Emerson-St-D-Englewood-CO-80113/2071265118_zpid/,"3521 S Emerson St #D, Englewood, CO 80113",534500.00,39.65279388,-104.9770203,"$562,919 ",2021,1,2,2,1400
+486,https://www.zillow.com/homedetails/819-S-Logan-St-Denver-CO-80209/13356454_zpid/,"819 S Logan St, Denver, CO 80209",479000.00,39.70153809,-104.9831238,,1924,0,2,1,748
+487,https://www.zillow.com/homedetails/1052-Eaton-St-Lakewood-CO-80214/249094947_zpid/,"1052 Eaton St, Lakewood, CO 80214",499500.00,39.728159,-105.065309,"$542,654 ",2019,1,3,4,1307
+488,https://www.zillow.com/homedetails/5215-S-Grant-St-Littleton-CO-80121/13150416_zpid/,"5215 S Grant St, Littleton, CO 80121",499950.00,39.62177658,-104.9842758,"$563,794 ",1962,1,3,2,1302
+489,https://www.zillow.com/homedetails/23548-E-Bellewood-Dr-Aurora-CO-80016/87621397_zpid/,"23548 E Bellewood Dr, Aurora, CO 80016",528850.00,39.638195,-104.742415,"$521,571 ",2006,2,2,2,1610
+490,https://www.zillow.com/homedetails/2329-N-Eliot-St-Denver-CO-80211/247388170_zpid/,"2329 N Eliot St, Denver, CO 80211",625000.00,39.776158,-105.020205,"$605,917 ",2015,2,2,3,1255
+491,https://www.zillow.com/homedetails/1418-S-De-Gaulle-Ct-Aurora-CO-80018/87621621_zpid/,"1418 S De Gaulle Ct, Aurora, CO 80018",510000.00,39.717437,-104.695566,"$485,021 ",2006,2,5,3,2675
+492,https://www.zillow.com/homedetails/136-Hague-Cir-Parker-CO-80138/13525619_zpid/,"136 Hague Cir, Parker, CO 80138",625000.00,39.450623,-104.701694,"$628,288 ",1983,2,4,3,2262
+493,https://www.zillow.com/homedetails/3719-S-Norfolk-Way-Aurora-CO-80013/13098100_zpid/,"3719 S Norfolk Way, Aurora, CO 80013",425000.00,39.64995575,-104.7970505,"$462,777 ",1979,2,3,2,1392
+494,https://www.zillow.com/homedetails/6402-E-Dickenson-Pl-Denver-CO-80222/13412406_zpid/,"6402 E Dickenson Pl, Denver, CO 80222",670000.00,39.651697,-104.920607,"$667,149 ",1972,2,4,3,2402
+495,https://www.zillow.com/homedetails/22928-E-Bailey-Cir-Aurora-CO-80016/124169778_zpid/,"22928 E Bailey Cir, Aurora, CO 80016",634900.00,39.578861,-104.729532,"$657,121 ",2016,2,2,2,1877
+496,https://www.zillow.com/homedetails/12270-N-Holly-Way-Brighton-CO-80602/2071265119_zpid/,"12270 N Holly Way, Brighton, CO 80602",408850.00,39.929754,-104.957702,"$430,976 ",1995,2,3,3,1504
+497,https://www.zillow.com/homedetails/8168-W-90th-Dr-Westminster-CO-80021/13689700_zpid/,"8168 W 90th Dr, Westminster, CO 80021",349999.00,39.839128,-105.044903,"$360,615 ",1981,2,2,2,1120
+498,https://www.zillow.com/homedetails/385-East-St-Louisville-CO-80027/316833042_zpid/,"385 East St, Louisville, CO 80027",784900.00,39.97319031,-105.128067,"$822,746 ",2021,2,2,3,2344
+499,https://www.zillow.com/homedetails/8952-Southurst-St-Littleton-CO-80129/245220256_zpid/,"8952 Southurst St, Littleton, CO 80129",624850.00,39.55348206,-105.0005341,"$582,066 ",2019,3,3,3,2201
+500,https://www.zillow.com/homedetails/13635-E-Dakota-Ave-Aurora-CO-80012/13040616_zpid/,"13635 E Dakota Ave, Aurora, CO 80012",435000.00,39.70868683,-104.8312607,"$417,792 ",1963,1,4,2,1465
+501,https://www.zillow.com/homedetails/2098-Emporia-St-Aurora-CO-80010/13019101_zpid/,"2098 Emporia St, Aurora, CO 80010",385000.00,39.742858,-104.821385,"$421,622 ",1954,0,4,2,1602
+502,https://www.zillow.com/homedetails/131-N-Sherman-St-Denver-CO-80203/13343094_zpid/,"131 N Sherman St, Denver, CO 80203",1795000.00,39.71891785,-104.9853287,"$1,439,367 ",1890,2,8,5,4287
+503,https://www.zillow.com/homedetails/10212-Gemstone-Ct-Parker-CO-80134/13467295_zpid/,"10212 Gemstone Ct, Parker, CO 80134",650000.00,39.547047,-104.797687,"$695,065 ",1998,3,6,4,3800
+504,https://www.zillow.com/homedetails/10212-Gemstone-Ct-Parker-CO-80134/13467295_zpid/,"10212 Gemstone Ct, Parker, CO 80134",650000.00,39.547047,-104.797687,"$695,065 ",1998,3,6,4,3800
+505,https://www.zillow.com/homedetails/10134-Ridgegate-Cir-Lone-Tree-CO-80124/108244694_zpid/,"10134 Ridgegate Cir, Lone Tree, CO 80124",695000.00,39.53068161,-104.8833847,"$758,860 ",2010,3,3,4,2698
+506,https://www.zillow.com/homedetails/13635-E-Dakota-Ave-Aurora-CO-80012/13040616_zpid/,"13635 E Dakota Ave, Aurora, CO 80012",435000.00,39.742858,-104.821385,"$417,792 ",1963,1,4,2,1465
+507,https://www.zillow.com/homedetails/2098-Emporia-St-Aurora-CO-80010/13019101_zpid/,"2098 Emporia St, Aurora, CO 80010",385000.00,39.742858,-104.821385,"$421,622 ",1954,0,4,2,1602
+508,https://www.zillow.com/homedetails/131-N-Sherman-St-Denver-CO-80203/13343094_zpid/,"131 N Sherman St, Denver, CO 80203",1795000.00,39.716077,-104.98345,"$1,439,367 ",1890,2,8,5,4287
+509,https://www.zillow.com/homedetails/817-Sundance-Ln-Erie-CO-80516/123602705_zpid/,"817 Sundance Ln, Erie, CO 80516",679000.00,40.045223,-105.038504,"$729,901 ",2015,3,4,4,3180
+510,https://www.zillow.com/homedetails/8044-W-78th-Cir-Arvada-CO-80005/13702806_zpid/,"8044 W 78th Cir, Arvada, CO 80005",669000.00,39.81729,-105.099184,"$483,675 ",1991,2,4,3,2608
+511,https://www.zillow.com/homedetails/8504-Chase-Dr-APT-334-Arvada-CO-80003/13691347_zpid/,"8504 Chase Dr APT 334, Arvada, CO 80003",285000.00,39.85243607,-105.0719528,"$300,629 ",1974,1,2,2,1040
+512,https://www.zillow.com/homedetails/8061-Fox-Ridge-Ct-Boulder-CO-80301/13197696_zpid/,"8061 Fox Ridge Ct, Boulder, CO 80301",1250000.00,40.02044296,-105.1649323,"$1,354,320 ",1976,2,3,4,3078
+513,https://www.zillow.com/homedetails/1610-Circle-Dr-Louisville-CO-80027/13190263_zpid/,"1610 Circle Dr, Louisville, CO 80027",650000.00,39.98652649,-105.1336594,"$704,079 ",1960,1,4,2,2100
+514,https://www.zillow.com/homedetails/11015-Tim-Tam-Way-Parker-CO-80138/13472825_zpid/,"11015 Tim Tam Way, Parker, CO 80138",520000.00,39.51271439,-104.7384491,"$487,513 ",1995,2,4,3,2058
+515,https://www.zillow.com/homedetails/4762-S-Clay-Ct-Englewood-CO-80110/13146507_zpid/,"4762 S Clay Ct, Englewood, CO 80110",395000.00,39.630047,-104.994101,"$414,460 ",1983,0,4,2,1700
+516,https://www.zillow.com/homedetails/25976-E-Frost-Cir-Aurora-CO-80016/99673984_zpid/,"25976 E Frost Cir, Aurora, CO 80016",535000.00,39.58516693,-104.6850052,"$475,622 ",2013,2,4,3,1992
+517,https://www.zillow.com/homedetails/8836-Lanceleaf-St-Parker-CO-80134/242033765_zpid/,"8836 Lanceleaf St, Parker, CO 80134",595000.00,39.547047,-104.797687,"$618,006 ",2017,2,3,2,1872
+518,https://www.zillow.com/homedetails/10339-W-Fair-Ave-APT-B-Littleton-CO-80127/13817894_zpid/,"10339 W Fair Ave APT B, Littleton, CO 80127",400000.00,39.60549545,-105.1138306,"$377,535 ",1984,1,3,3,1527
+519,https://www.zillow.com/homedetails/515-Stellars-Jay-Dr-Highlands-Ranch-CO-80129/13447923_zpid/,"515 Stellars Jay Dr, Highlands Ranch, CO 80129",535000.00,39.556806,-105.020905,"$534,989 ",1999,2,3,3,1820
+520,https://www.zillow.com/homedetails/2488-S-Orchard-Way-Lakewood-CO-80228/123600022_zpid/,"2488 S Orchard Way, Lakewood, CO 80228",750000.00,39.6703186,-105.178894,"$755,369 ",2016,2,3,3,1889
+521,https://www.zillow.com/homedetails/8360-E-35th-Ave-Denver-CO-80238/118267507_zpid/,"8360 E 35th Ave, Denver, CO 80238",437000.00,39.76490402,-104.8910522,"$491,055 ",2011,2,2,3,1370
+522,https://www.zillow.com/homedetails/27932-E-Nova-Pl-Aurora-CO-80016/295030014_zpid/,"27932 E Nova Pl, Aurora, CO 80016",740000.00,39.56975174,-104.6631088,"$768,461 ",2019,4,5,4,2827
+523,https://www.zillow.com/homedetails/14264-W-88th-Dr-A-Arvada-CO-80005/108386166_zpid/,"14264 W 88th Dr #A, Arvada, CO 80005",639000.00,39.85551453,-105.1593323,"$672,194 ",2017,3,3,3,2266
+524,https://www.zillow.com/homedetails/17251-E-107th-Ave-Commerce-City-CO-80022/61508532_zpid/,"17251 E 107th Ave, Commerce City, CO 80022",485000.00,39.88929367,-104.7857361,"$508,095 ",2003,2,3,3,1935
+525,https://www.zillow.com/homedetails/8458-Princeton-St-Westminster-CO-80031/12993471_zpid/,"8458 Princeton St, Westminster, CO 80031",475000.00,39.85093689,-105.0438843,"$450,430 ",1964,2,4,2,2057
+526,https://www.zillow.com/homedetails/8148-W-81st-Ave-Arvada-CO-80005/13694345_zpid/,"8148 W 81st Ave, Arvada, CO 80005",560000.00,39.84373474,-105.0884781,"$513,119 ",1975,2,3,3,1533
+527,https://www.zillow.com/homedetails/1601-Aspen-St-Broomfield-CO-80020/60233890_zpid/,"1601 Aspen St, Broomfield, CO 80020",550000.00,39.929063,-105.079268,"$597,008 ",1977,2,5,4,3346
+528,https://www.zillow.com/homedetails/1659-S-Zephyr-Ct-Lakewood-CO-80232/13784453_zpid/,"1659 S Zephyr Ct, Lakewood, CO 80232",450000.00,39.68691635,-105.0855408,"$469,986 ",1962,1,4,3,2146
+529,https://www.zillow.com/homedetails/3526-Kirkwood-Pl-Boulder-CO-80304/13178580_zpid/,"3526 Kirkwood Pl, Boulder, CO 80304",1300000.00,40.03835297,-105.270813,"$1,389,268 ",1969,1,4,3,2811
+530,https://www.zillow.com/homedetails/18853-W-61st-Pl-Golden-CO-80403/13706967_zpid/,"18853 W 61st Pl, Golden, CO 80403",469000.00,39.80810547,-105.2133102,"$502,835 ",1972,2,3,2,1920
+531,https://www.zillow.com/homedetails/9022-Jason-Ct-Boulder-CO-80303/50945291_zpid/,"9022 Jason Ct, Boulder, CO 80303",3200000.00,40.029409,-105.177748,"$3,206,971 ",1999,3,6,7,8182
+532,https://www.zillow.com/homedetails/1256-N-Perry-St-Denver-CO-80204/251841499_zpid/,"1256 N Perry St, Denver, CO 80204",575000.00,39.73583221,-105.0389938,"$550,606 ",2018,2,2,3,1345
+533,https://www.zillow.com/homedetails/30546-Snowbird-Ln-Evergreen-CO-80439/13756700_zpid/,"30546 Snowbird Ln, Evergreen, CO 80439",1890000.00,39.68178558,-105.3466415,"$1,251,095 ",1991,3,5,5,6100
+534,https://www.zillow.com/homedetails/1931-Fulton-St-Aurora-CO-80010/13019732_zpid/,"1931 Fulton St, Aurora, CO 80010",375000.00,39.742858,-104.821385,"$374,673 ",1908,0,2,2,888
+535,https://www.zillow.com/homedetails/20333-E-40th-Pl-Denver-CO-80249/58296911_zpid/,"20333 E 40th Pl, Denver, CO 80249",610000.00,39.792611,-104.743212,"$462,900 ",2000,2,4,4,3272
+536,https://www.zillow.com/homedetails/3285-Fenton-St-Wheat-Ridge-CO-80212/13737617_zpid/,"3285 Fenton St, Wheat Ridge, CO 80212",500000.00,39.76358795,-105.0606079,"$577,535 ",1947,0,3,1,1264
+537,https://www.zillow.com/homedetails/4631-W-Moncrieff-Pl-Denver-CO-80212/13313274_zpid/,"4631 W Moncrieff Pl, Denver, CO 80212",750000.00,39.76324081,-105.0477295,"$812,807 ",1922,0,4,2,1880
+538,https://www.zillow.com/homedetails/18099-E-Pacific-Pl-Aurora-CO-80013/13077207_zpid/,"18099 E Pacific Pl, Aurora, CO 80013",449998.00,39.67983246,-104.7775574,"$490,553 ",1981,2,3,3,1512
+539,https://www.zillow.com/homedetails/5064-N-Valentia-St-Denver-CO-80238/123599152_zpid/,"5064 N Valentia St, Denver, CO 80238",850000.00,39.79075241,-104.8915405,"$918,671 ",2014,2,4,5,3763
+540,https://www.zillow.com/homedetails/1773-W-52nd-Ct-Denver-CO-80221/2071260349_zpid/,"1773 W 52nd Ct, Denver, CO 80221",449875.00,39.7925148,-105.0084686,"$470,323 ",2011,1,2,3,1578
+541,https://www.zillow.com/homedetails/9691-Rockhampton-Way-Highlands-Ranch-CO-80130/13455212_zpid/,"9691 Rockhampton Way, Highlands Ranch, CO 80130",499000.00,39.518596,-104.925083,"$513,112 ",1996,2,3,3,1640
+542,https://www.zillow.com/homedetails/1773-W-52nd-Ct-Denver-CO-80221/2071260349_zpid/,"1773 W 52nd Ct, Denver, CO 80221",449875.00,39.7925148,-105.0084686,"$470,323 ",2011,1,2,3,1578
+543,https://www.zillow.com/homedetails/3744-S-Granby-Way-Aurora-CO-80014/13100692_zpid/,"3744 S Granby Way, Aurora, CO 80014",275000.00,39.64829636,-104.8105164,"$297,607 ",1975,0,3,3,1476
+544,https://www.zillow.com/homedetails/11795-W-Belleview-Dr-Littleton-CO-80127/13815295_zpid/,"11795 W Belleview Dr, Littleton, CO 80127",699900.00,39.62387085,-105.1315002,"$683,699 ",1998,3,4,3,2811
+545,https://www.zillow.com/homedetails/2439-10th-St-Boulder-CO-80304/13176890_zpid/,"2439 10th St, Boulder, CO 80304",1495000.00,40.02259064,-105.2841263,"$1,557,916 ",1901,1,4,3,2258
+546,https://www.zillow.com/homedetails/3155-W-112th-Ct-Westminster-CO-80031/12964684_zpid/,"3155 W 112th Ct, Westminster, CO 80031",865000.00,39.876487,-105.075585,"$918,980 ",2000,3,5,4,3691
+547,https://www.zillow.com/homedetails/2430-S-Springwood-Ct-Lafayette-CO-80026/13237782_zpid/,"2430 S Springwood Ct, Lafayette, CO 80026",415000.00,39.995077,-105.096551,"$444,642 ",1984,2,2,2,1282
+548,https://www.zillow.com/homedetails/33753-Smith-Rd-Pine-CO-80470/121926880_zpid/,"33753 Smith Rd, Pine, CO 80470",599900.00,39.48254395,-105.385994,"$690,788 ",1975,2,3,3,2327
+549,https://www.zillow.com/homedetails/5340-S-Garland-Way-Littleton-CO-80123/13813217_zpid/,"5340 S Garland Way, Littleton, CO 80123",699000.00,39.592747,-105.11935,"$723,670 ",1983,2,4,3,3438
+550,https://www.zillow.com/homedetails/569-S-Alkire-St-Lakewood-CO-80228/13777318_zpid/,"569 S Alkire St, Lakewood, CO 80228",715000.00,39.699091,-105.13928,"$653,185 ",1962,2,4,3,2490
+551,https://www.zillow.com/homedetails/229-Mohawk-Trl-Pine-CO-80470/87816861_zpid/,"229 Mohawk Trl, Pine, CO 80470",875000.00,39.470823,-105.406,"$932,488 ",2007,3,4,4,4788
+552,https://www.zillow.com/homedetails/33-S-Washington-St-Denver-CO-80209/13345197_zpid/,"33 S Washington St, Denver, CO 80209",725000.00,39.716077,-104.98345,"$830,085 ",1902,2,3,2,1540
+553,https://www.zillow.com/homedetails/8027-S-Valleyhead-Way-Aurora-CO-80016/99631575_zpid/,"8027 S Valleyhead Way, Aurora, CO 80016",1224900.00,39.599515,-104.677884,"$1,133,666 ",2016,3,6,6,6950
+554,https://www.zillow.com/homedetails/5179-Clay-St-Denver-CO-80221/13292554_zpid/,"5179 Clay St, Denver, CO 80221",450000.00,39.776158,-105.020205,"$476,298 ",1941,1,2,2,1045
+555,https://www.zillow.com/homedetails/17083-E-Wagontrail-Pkwy-Aurora-CO-80015/13107954_zpid/,"17083 E Wagontrail Pkwy, Aurora, CO 80015",350000.00,39.645374,-104.80143,"$362,923 ",1984,1,2,2,916
+556,https://www.zillow.com/homedetails/154-Autumn-Ct-Erie-CO-80516/13251428_zpid/,"154 Autumn Ct, Erie, CO 80516",599000.00,40.04161835,-105.0778122,"$583,463 ",1995,3,4,3,2154
+557,https://www.zillow.com/homedetails/2650-Mckay-Landing-Pkwy-Broomfield-CO-80023/60227840_zpid/,"2650 Mckay Landing Pkwy, Broomfield, CO 80023",724900.00,39.95185089,-105.0200729,"$765,549 ",2003,2,4,5,3702
+558,https://www.zillow.com/homedetails/10160-Wolff-St-Westminster-CO-80031/12978627_zpid/,"10160 Wolff St, Westminster, CO 80031",695000.00,39.876487,-105.075585,"$737,254 ",1977,2,4,3,2766
+559,https://www.zillow.com/homedetails/3401-Evening-Pl-Castle-Rock-CO-80109/242034494_zpid/,"3401 Evening Pl, Castle Rock, CO 80109",540000.00,39.39769363,-104.8811722,"$564,827 ",2019,2,4,3,2232
+560,https://www.zillow.com/homedetails/3695-S-Argonne-St-Aurora-CO-80013/13093463_zpid/,"3695 S Argonne St, Aurora, CO 80013",450000.00,39.645374,-104.80143,"$472,636 ",1980,2,4,3,2980
+561,https://www.zillow.com/homedetails/11902-S-Elk-Creek-Rd-Pine-CO-80470/13842200_zpid/,"11902 S Elk Creek Rd, Pine, CO 80470",795000.00,39.49856186,-105.3958664,"$806,296 ",1997,2,4,3,2918
+562,https://www.zillow.com/homedetails/1470-Jay-St-Lakewood-CO-80214/13759655_zpid/,"1470 Jay St, Lakewood, CO 80214",349900.00,39.73954773,-105.0645523,"$364,895 ",1922,0,3,2,1303
+563,https://www.zillow.com/homedetails/5147-S-Malaya-Ct-Centennial-CO-80015/13112296_zpid/,"5147 S Malaya Ct, Centennial, CO 80015",485000.00,39.62277222,-104.7443771,"$476,878 ",1998,2,4,4,2076
+564,https://www.zillow.com/homedetails/12564-S-Sopris-Creek-Dr-Parker-CO-80134/67451474_zpid/,"12564 S Sopris Creek Dr, Parker, CO 80134",499000.00,39.48791122,-104.774498,"$533,584 ",2004,2,5,4,2093
+565,https://www.zillow.com/homedetails/2420-S-Wolff-St-Denver-CO-80219/13382587_zpid/,"2420 S Wolff St, Denver, CO 80219",565000.00,39.686134,-105.025035,"$536,352 ",1955,1,3,3,2200
+566,https://www.zillow.com/homedetails/1623-S-Meade-St-Denver-CO-80219/13364400_zpid/,"1623 S Meade St, Denver, CO 80219",459900.00,39.68693924,-105.0373688,"$383,888 ",1953,0,3,2,1221
+567,https://www.zillow.com/homedetails/8975-Winrock-St-Highlands-Ranch-CO-80126/13437676_zpid/,"8975 Winrock St, Highlands Ranch, CO 80126",465000.00,39.556806,-105.020905,"$545,116 ",1983,2,3,2,2125
+568,https://www.zillow.com/homedetails/11210-Keota-St-Parker-CO-80134/13471156_zpid/,"11210 Keota St, Parker, CO 80134",500000.00,39.51707458,-104.7914276,"$534,948 ",1997,3,4,4,2587
+569,https://www.zillow.com/homedetails/10877-Valleybrook-Cir-Highlands-Ranch-CO-80130/87808177_zpid/,"10877 Valleybrook Cir, Highlands Ranch, CO 80130",799000.00,39.51839066,-104.9385452,"$853,414 ",2008,3,5,4,3610
+570,https://www.zillow.com/homedetails/432-Oakland-St-Aurora-CO-80010/13037585_zpid/,"432 Oakland St, Aurora, CO 80010",510000.00,39.742858,-104.821385,"$530,630 ",1959,2,5,3,3312
+571,https://www.zillow.com/homedetails/11630-S-Maiden-Hair-Way-Parker-CO-80134/67411514_zpid/,"11630 S Maiden Hair Way, Parker, CO 80134",689000.00,39.47314,-104.77385,"$701,530 ",2005,3,4,4,3623
+572,https://www.zillow.com/homedetails/106-S-University-Blvd-UNIT-13-Denver-CO-80209/13349340_zpid/,"106 S University Blvd UNIT 13, Denver, CO 80209",1500000.00,39.71416092,-104.9588547,"$1,718,947 ",2002,2,4,4,5182
+573,https://www.zillow.com/homedetails/4879-Streambed-Trl-Parker-CO-80134/61085183_zpid/,"4879 Streambed Trl, Parker, CO 80134",900000.00,39.43345261,-104.7775726,"$856,638 ",2004,3,6,5,6623
+574,https://www.zillow.com/homedetails/7198-Copper-Sky-Cir-Castle-Pines-CO-80108/300012762_zpid/,"7198 Copper Sky Cir, Castle Pines, CO 80108",1238000.00,39.46674347,-104.8536758,"$961,457 ",2019,3,4,5,3567
+575,https://www.zillow.com/homedetails/5485-W-73rd-Pl-Westminster-CO-80020/130386799_zpid/,"5485 W 73rd Pl, Westminster, CO 80020",590000.00,39.839128,-105.044903,"$622,660 ",2016,2,4,4,3000
+576,https://www.zillow.com/homedetails/34-Harrison-St-Denver-CO-80206/13349781_zpid/,"34 Harrison St, Denver, CO 80206",650000.00,39.728638,-104.913632,"$676,670 ",1947,1,3,2,1399
+577,https://www.zillow.com/homedetails/52-W-3rd-Ave-Denver-CO-80223/13343985_zpid/,"52 W 3rd Ave, Denver, CO 80223",550000.00,39.716077,-104.98345,"$602,315 ",1886,0,2,1,1003
+578,https://www.zillow.com/homedetails/1011-S-Valentia-St-UNIT-118-Denver-CO-80247/13402516_zpid/,"1011 S Valentia St UNIT 118, Denver, CO 80247",669000.00,39.728638,-104.913632,"$650,278 ",1996,2,4,3,3002
+579,https://www.zillow.com/homedetails/5744-W-118th-Pl-Westminster-CO-80020/13679208_zpid/,"5744 W 118th Pl, Westminster, CO 80020",475000.00,39.876487,-105.075585,"$514,230 ",1997,2,4,3,1755
+580,https://www.zillow.com/homedetails/5744-W-118th-Pl-Westminster-CO-80020/13679208_zpid/,"5744 W 118th Pl, Westminster, CO 80020",475000.00,39.91194916,-105.0603256,"$514,230 ",1997,2,4,3,1755
+581,https://www.zillow.com/homedetails/7968-S-Clayton-Cir-Centennial-CO-80122/13173382_zpid/,"7968 S Clayton Cir, Centennial, CO 80122",849999.00,39.598205,-104.939441,"$933,689 ",1987,3,4,5,5374
+582,https://www.zillow.com/homedetails/4445-Parfet-St-Wheat-Ridge-CO-80033/61476563_zpid/,"4445 Parfet St, Wheat Ridge, CO 80033",409999.00,39.77882004,-105.1216278,"$403,946 ",2003,1,3,3,1450
+583,https://www.zillow.com/homedetails/7654-S-Oneida-Way-Centennial-CO-80112/13138801_zpid/,"7654 S Oneida Way, Centennial, CO 80112",750000.00,39.57804871,-104.908165,"$777,635 ",1978,2,4,3,3140
+584,https://www.zillow.com/homedetails/1274-S-Gilpin-St-Denver-CO-80210/13370261_zpid/,"1274 S Gilpin St, Denver, CO 80210",1600000.00,39.69338226,-104.9672012,"$1,495,728 ",1922,2,5,2,2692
+585,https://www.zillow.com/homedetails/2676-W-Dartmouth-Ave-Englewood-CO-80110/13028047_zpid/,"2676 W Dartmouth Ave, Englewood, CO 80110",450000.00,39.66025543,-105.019928,"$486,180 ",1981,1,5,2,2124
+586,https://www.zillow.com/homedetails/2627-S-Troy-Ct-Aurora-CO-80014/13051646_zpid/,"2627 S Troy Ct, Aurora, CO 80014",455000.00,39.645374,-104.80143,"$500,500 ",1998,2,3,3,1786
+587,https://www.zillow.com/homedetails/3743-Sunchase-Dr-Castle-Rock-CO-80109/52460319_zpid/,"3743 Sunchase Dr, Castle Rock, CO 80109",715000.00,39.387817,-104.905676,"$810,612 ",2003,3,5,5,4905
+588,https://www.zillow.com/homedetails/5054-Stone-Crop-Ct-Castle-Rock-CO-80109/13485296_zpid/,"5054 Stone Crop Ct, Castle Rock, CO 80109",545000.00,39.41159821,-104.9031143,"$541,502 ",1999,3,4,3,2100
+589,https://www.zillow.com/homedetails/2555-N-Downing-St-Denver-CO-80205/13320525_zpid/,"2555 N Downing St, Denver, CO 80205",1165000.00,39.7542572,-104.9736862,"$1,215,652 ",1901,2,4,3,2575
+590,https://www.zillow.com/homedetails/129-Bull-Dogger-Rd-Bailey-CO-80421/2071268467_zpid/,"129 Bull Dogger Rd, Bailey, CO 80421",575000.00,39.430747,-105.438343,"$613,827 ",1989,3,3,3,2239
+591,https://www.zillow.com/homedetails/4072-S-Uinta-St-Denver-CO-80237/13423171_zpid/,"4072 S Uinta St, Denver, CO 80237",650000.00,39.633092,-104.887052,"$654,955 ",1969,2,4,3,2343
+592,https://www.zillow.com/homedetails/421-Elati-St-Denver-CO-80204/13343486_zpid/,"421 Elati St, Denver, CO 80204",625000.00,39.716077,-104.98345,"$680,384 ",1890,2,3,2,1621
+593,https://www.zillow.com/homedetails/2741-S-Logan-St-Englewood-CO-80113/13028480_zpid/,"2741 S Logan St, Englewood, CO 80113",500000.00,39.66690445,-104.9831924,"$544,140 ",1932,2,2,2,1158
+594,https://www.zillow.com/homedetails/10775-Backcountry-Dr-Highlands-Ranch-CO-80126/108380426_zpid/,"10775 Backcountry Dr, Highlands Ranch, CO 80126",2795000.00,39.556806,-105.020905,"$2,173,442 ",2014,3,4,5,5759
+595,https://www.zillow.com/homedetails/4655-W-Ponds-Cir-Littleton-CO-80123/13154800_zpid/,"4655 W Ponds Cir, Littleton, CO 80123",385000.00,39.602049,-105.065276,"$380,241 ",1976,0,2,3,1926
+596,https://www.zillow.com/homedetails/470-S-Carr-St-Lakewood-CO-80226/13771676_zpid/,"470 S Carr St, Lakewood, CO 80226",335000.00,39.70895004,-105.0902939,"$317,960 ",1972,0,2,2,1040
+597,https://www.zillow.com/homedetails/11882-W-56th-Cir-Arvada-CO-80002/13731444_zpid/,"11882 W 56th Cir, Arvada, CO 80002",675000.00,39.79627228,-105.1319885,"$692,235 ",1992,2,3,3,2424
+598,https://www.zillow.com/homedetails/5390-Cloverbrook-Cir-Highlands-Ranch-CO-80130/82029769_zpid/,"5390 Cloverbrook Cir, Highlands Ranch, CO 80130",675000.00,39.5189209,-104.9257965,"$727,258 ",2006,2,4,4,3179
+599,https://www.zillow.com/homedetails/15908-E-Maplewood-Dr-Centennial-CO-80016/67445909_zpid/,"15908 E Maplewood Dr, Centennial, CO 80016",945000.00,39.60466766,-104.8039093,"$985,500 ",2004,3,7,6,6263
+600,https://www.zillow.com/homedetails/32-Meade-St-Denver-CO-80219/13340021_zpid/,"32 Meade St, Denver, CO 80219",275000.00,39.716077,-104.98345,"$293,644 ",1896,0,2,1,806
+601,https://www.zillow.com/homedetails/6439-Welch-Ct-Arvada-CO-80004/13719771_zpid/,"6439 Welch Ct, Arvada, CO 80004",400000.00,39.81729,-105.099184,"$417,391 ",1971,2,2,2,1560
+602,https://www.zillow.com/homedetails/4909-Lowell-Blvd-Denver-CO-80221/2088299703_zpid/,"4909 Lowell Blvd, Denver, CO 80221",649999.00,39.776158,-105.020205,"$731,157 ",2018,2,3,3,1867
+603,https://www.zillow.com/homedetails/2186-S-Bellaire-St-Denver-CO-80222/13413168_zpid/,"2186 S Bellaire St, Denver, CO 80222",536000.00,39.651697,-104.920607,"$649,475 ",1956,0,4,2,960
+604,https://www.zillow.com/homedetails/8682-W-64th-Way-Arvada-CO-80004/13716973_zpid/,"8682 W 64th Way, Arvada, CO 80004",650000.00,39.81396866,-105.0946198,"$578,893 ",1976,2,4,3,2460
+605,https://www.zillow.com/homedetails/4481-S-Lowell-Blvd-Denver-CO-80236/13427861_zpid/,"4481 S Lowell Blvd, Denver, CO 80236",265000.00,39.63533401,-105.0348969,"$287,714 ",1971,0,2,2,1463
+606,https://www.zillow.com/homedetails/13356-Ash-Cir-Thornton-CO-80241/12946142_zpid/,"13356 Ash Cir, Thornton, CO 80241",489000.00,39.93825912,-104.9372864,"$457,661 ",1985,2,3,3,1920
+607,https://www.zillow.com/homedetails/3601-E-102nd-Ct-Denver-CO-80229/68567659_zpid/,"3601 E 102nd Ct, Denver, CO 80229",525000.00,39.880959,-104.931412,"$592,777 ",2005,2,5,4,3113
+608,https://www.zillow.com/homedetails/4629-Tanner-Peak-Trl-Brighton-CO-80601/72294699_zpid/,"4629 Tanner Peak Trl, Brighton, CO 80601",375000.00,39.992797,-104.79968,"$430,923 ",2006,2,4,3,1600
+609,https://www.zillow.com/homedetails/7192-Fenton-St-Arvada-CO-80003/13712576_zpid/,"7192 Fenton St, Arvada, CO 80003",499000.00,39.82580566,-105.061142,"$533,612 ",1978,2,3,3,2345
+610,https://www.zillow.com/homedetails/4301-S-Pierce-St-APT-12D-Denver-CO-80123/13432373_zpid/,"4301 S Pierce St APT 12D, Denver, CO 80123",429500.00,39.63158,-105.03807,"$465,291 ",1987,2,3,3,1521
+611,https://www.zillow.com/homedetails/7614-S-Emerson-Cir-Centennial-CO-80122/13171322_zpid/,"7614 S Emerson Cir, Centennial, CO 80122",565000.00,39.598205,-104.939441,"$616,363 ",1983,2,3,3,2052
+612,https://www.zillow.com/homedetails/2815-W-25th-Ave-UNIT-1-Denver-CO-80211/251842835_zpid/,"2815 W 25th Ave UNIT 1, Denver, CO 80211",650000.00,39.776158,-105.020205,"$685,277 ",2016,2,2,3,1426
+613,https://www.zillow.com/homedetails/21029-Saddleback-Cir-Parker-CO-80138/13474632_zpid/,"21029 Saddleback Cir, Parker, CO 80138",679900.00,39.47314,-104.77385,"$697,408 ",1999,3,7,4,4565
+614,https://www.zillow.com/homedetails/7264-Winter-Ridge-Dr-Castle-Pines-CO-80108/52458495_zpid/,"7264 Winter Ridge Dr, Castle Pines, CO 80108",700000.00,39.457712,-104.881602,"$768,222 ",2001,3,5,3,2924
+615,https://www.zillow.com/homedetails/25015-E-4th-Pl-Aurora-CO-80018/81883850_zpid/,"25015 E 4th Pl, Aurora, CO 80018",445000.00,39.717437,-104.695566,"$461,177 ",2007,2,3,2,1458
+616,https://www.zillow.com/homedetails/8664-W-67th-Pl-Arvada-CO-80004/13716662_zpid/,"8664 W 67th Pl, Arvada, CO 80004",689900.00,39.81729,-105.099184,"$717,652 ",1961,2,4,3,2377
+617,https://www.zillow.com/homedetails/4989-S-Malaya-Way-Aurora-CO-80015/54645551_zpid/,"4989 S Malaya Way, Aurora, CO 80015",569000.00,39.638195,-104.742415,"$602,042 ",2000,3,4,3,2746
+618,https://www.zillow.com/homedetails/19967-Chamberlain-Rd-Morrison-CO-80465/13800552_zpid/,"19967 Chamberlain Rd, Morrison, CO 80465",350000.00,39.597767,-105.252693,"$374,999 ",1945,1,2,1,992
+619,https://www.zillow.com/homedetails/9311-Amison-Cir-APT-201-Parker-CO-80134/63389964_zpid/,"9311 Amison Cir APT 201, Parker, CO 80134",339900.00,39.547047,-104.797687,,2003,2,3,2,1487
+620,https://www.zillow.com/homedetails/10333-Kenneth-Dr-Parker-CO-80134/119232254_zpid/,"10333 Kenneth Dr, Parker, CO 80134",615000.00,39.52847672,-104.8266602,"$658,000 ",2013,2,3,3,2864
+621,https://www.zillow.com/homedetails/4813-N-Stuart-St-Denver-CO-80212/2071268468_zpid/,"4813 N Stuart St, Denver, CO 80212",579900.00,39.78416443,-105.0430756,"$619,141 ",1906,2,3,2,1877
+622,https://www.zillow.com/homedetails/11346-E-27th-Ave-Denver-CO-80238/121234480_zpid/,"11346 E 27th Ave, Denver, CO 80238",850000.00,39.745777,-104.896719,"$877,375 ",2014,2,4,5,3496
+623,https://www.zillow.com/homedetails/26706-E-Peakview-Dr-Aurora-CO-80016/87623960_zpid/,"26706 E Peakview Dr, Aurora, CO 80016",1199000.00,39.60028839,-104.6763992,"$944,890 ",2007,3,5,6,5873
+624,https://www.zillow.com/homedetails/8473-Blackgum-St-Parker-CO-80134/52459206_zpid/,"8473 Blackgum St, Parker, CO 80134",600000.00,39.56274414,-104.8041,"$584,238 ",2001,2,5,4,2953
+625,https://www.zillow.com/homedetails/407-21st-St-Denver-CO-80205/123601919_zpid/,"407 21st St, Denver, CO 80205",849000.00,39.776158,-105.020205,,1896,0,3,3,2358
+626,https://www.zillow.com/homedetails/27122-E-Frost-Pl-Aurora-CO-80016/295018378_zpid/,"27122 E Frost Pl, Aurora, CO 80016",542500.00,39.599515,-104.677884,"$565,163 ",2019,2,3,2,1664
+627,https://www.zillow.com/homedetails/9378-S-Jellison-Way-Littleton-CO-80127/54890780_zpid/,"9378 S Jellison Way, Littleton, CO 80127",799999.00,39.529139,-105.058514,"$846,652 ",2004,3,6,5,4305
+628,https://www.zillow.com/homedetails/1722-Ironton-St-Aurora-CO-80010/13021230_zpid/,"1722 Ironton St, Aurora, CO 80010",375000.00,39.742858,-104.821385,"$374,690 ",1947,0,3,1,1256
+629,https://www.zillow.com/homedetails/11845-W-Tulane-Dr-Morrison-CO-80465/54890083_zpid/,"11845 W Tulane Dr, Morrison, CO 80465",435000.00,39.60707,-105.16989,"$440,740 ",2001,1,3,2,1450
+630,https://www.zillow.com/homedetails/1520-S-Harlan-St-Lakewood-CO-80232/13787081_zpid/,"1520 S Harlan St, Lakewood, CO 80232",525000.00,39.68901443,-105.0623703,"$539,719 ",1960,2,5,3,2807
+631,https://www.zillow.com/homedetails/20470-Oakbrook-Ln-Parker-CO-80138/13474594_zpid/,"20470 Oakbrook Ln, Parker, CO 80138",650000.00,39.47314,-104.77385,"$699,036 ",1998,3,5,4,4128
+632,https://www.zillow.com/homedetails/7424-S-Dexter-Way-Centennial-CO-80122/13136961_zpid/,"7424 S Dexter Way, Centennial, CO 80122",500000.00,39.58243942,-104.9327011,"$524,185 ",1968,2,3,2,1604
+633,https://www.zillow.com/homedetails/3209-E-Yale-Way-Denver-CO-80210/13387439_zpid/,"3209 E Yale Way, Denver, CO 80210",649999.00,39.651697,-104.920607,"$726,271 ",1952,2,3,2,1415
+634,https://www.zillow.com/homedetails/8042-Piney-River-Ave-Littleton-CO-80125/245219488_zpid/,"8042 Piney River Ave, Littleton, CO 80125",799999.00,39.50651932,-105.0342026,"$846,718 ",2018,2,5,4,4726
+635,https://www.zillow.com/homedetails/33554-Elk-Run-Evergreen-CO-80439/13805888_zpid/,"33554 Elk Run, Evergreen, CO 80439",760000.00,39.58836746,-105.3835754,"$800,105 ",1982,0,3,3,3296
+636,https://www.zillow.com/homedetails/6800-W-Remington-Pl-Littleton-CO-80128/51408461_zpid/,"6800 W Remington Pl, Littleton, CO 80128",460000.00,39.565686,-105.079966,"$488,560 ",2002,2,3,3,1462
+637,https://www.zillow.com/homedetails/992-S-Simms-St-Lakewood-CO-80228/13776904_zpid/,"992 S Simms St, Lakewood, CO 80228",450000.00,39.699091,-105.13928,"$462,022 ",1962,1,3,2,1750
+638,https://www.zillow.com/homedetails/5337-S-Oak-Way-Littleton-CO-80127/13814356_zpid/,"5337 S Oak Way, Littleton, CO 80127",539000.00,39.618286,-105.125515,"$647,042 ",2000,3,4,4,2608
+639,https://www.zillow.com/homedetails/18294-E-52nd-Ave-Denver-CO-80249/251840315_zpid/,"18294 E 52nd Ave, Denver, CO 80249",499900.00,39.792611,-104.743212,"$522,883 ",2017,2,3,3,2262
+640,https://www.zillow.com/homedetails/491-Mesa-View-Way-Golden-CO-80403/13710243_zpid/,"491 Mesa View Way, Golden, CO 80403",1175000.00,39.76860809,-105.2392654,"$1,352,090 ",1999,4,5,5,4436
+641,https://www.zillow.com/homedetails/4914-Collingswood-Dr-Highlands-Ranch-CO-80130/13462736_zpid/,"4914 Collingswood Dr, Highlands Ranch, CO 80130",489000.00,39.52901459,-104.9314728,"$549,228 ",1999,2,3,3,1677
+642,https://www.zillow.com/homedetails/1475-S-Quebec-Way-C12-Denver-CO-80231/13409223_zpid/,"1475 S Quebec Way #C12, Denver, CO 80231",395900.00,39.71797,-104.907613,"$338,440 ",1980,1,3,3,1587
+643,https://www.zillow.com/homedetails/1446-Dahlia-St-Denver-CO-80220/13392101_zpid/,"1446 Dahlia St, Denver, CO 80220",765000.00,39.728638,-104.913632,"$549,712 ",1926,1,3,3,2179
+644,https://www.zillow.com/homedetails/398-S-Uvalda-St-Aurora-CO-80012/13040879_zpid/,"398 S Uvalda St, Aurora, CO 80012",450000.00,39.70775223,-104.8370514,"$412,883 ",1968,1,4,3,2220
+645,https://www.zillow.com/homedetails/3360-Krameria-St-Denver-CO-80207/13281087_zpid/,"3360 Krameria St, Denver, CO 80207",385000.00,39.76480484,-104.9160614,"$400,951 ",1952,1,2,1,765
+646,https://www.zillow.com/homedetails/21335-E-Oxford-Ave-Aurora-CO-80013/87627816_zpid/,"21335 E Oxford Ave, Aurora, CO 80013",510000.00,39.64146042,-104.7391357,"$523,306 ",2007,3,3,3,2145
+647,https://www.zillow.com/homedetails/16419-Stone-Ledge-Dr-Parker-CO-80134/13468209_zpid/,"16419 Stone Ledge Dr, Parker, CO 80134",569900.00,39.53245926,-104.799614,"$565,945 ",1993,2,4,3,2282
+648,https://www.zillow.com/homedetails/8127-S-Kellerman-Circle-Aurora-CO-80016/2087664656_zpid/,"8127 S Kellerman Circle, Aurora, CO 80016",1100000.00,39.5692215,-104.6916809,"$1,134,020 ",2018,3,5,6,5581
+649,https://www.zillow.com/homedetails/3223-Ulster-St-Denver-CO-80238/110555626_zpid/,"3223 Ulster St, Denver, CO 80238",875000.00,39.76229477,-104.8947754,"$918,749 ",2012,2,4,4,3092
+650,https://www.zillow.com/homedetails/5378-S-Telluride-Way-Centennial-CO-80015/13116539_zpid/,"5378 S Telluride Way, Centennial, CO 80015",485000.00,39.621043,-104.749062,"$468,444 ",1982,2,4,4,2580
+651,https://www.zillow.com/homedetails/3577-S-Hillcrest-Dr-Denver-CO-80237/13424845_zpid/,"3577 S Hillcrest Dr, Denver, CO 80237",895000.00,39.633092,-104.887052,"$880,680 ",1966,4,4,4,4291
+652,https://www.zillow.com/homedetails/10420-King-Cir-Westminster-CO-80031/12966067_zpid/,"10420 King Cir, Westminster, CO 80031",520000.00,39.876487,-105.075585,"$575,531 ",1976,2,5,3,2399
+653,https://www.zillow.com/homedetails/144-Montezuma-St-Brighton-CO-80601/72296735_zpid/,"144 Montezuma St, Brighton, CO 80601",509900.00,39.993437,-104.812394,"$514,538 ",2006,3,3,3,2364
+654,https://www.zillow.com/homedetails/3441-Mount-Powell-Dr-Broomfield-CO-80023/248240003_zpid/,"3441 Mount Powell Dr, Broomfield, CO 80023",899000.00,39.997989,-105.00915,"$740,601 ",2018,2,5,3,3378
+655,https://www.zillow.com/homedetails/9444-E-106th-Pl-Henderson-CO-80640/58292548_zpid/,"9444 E 106th Pl, Henderson, CO 80640",479999.00,39.89040375,-104.8786545,"$494,652 ",2001,2,4,4,2607
+656,https://www.zillow.com/homedetails/6892-Juniper-Ct-Arvada-CO-80007/131684579_zpid/,"6892 Juniper Ct, Arvada, CO 80007",658000.00,39.8227272,-105.1702271,"$639,745 ",2019,2,4,4,2474
+657,https://www.zillow.com/homedetails/3421-Westminster-Pl-Westminster-CO-80030/12996811_zpid/,"3421 Westminster Pl, Westminster, CO 80030",339900.00,39.83062363,-105.0314255,"$367,092 ",1949,0,3,1,924
+658,https://www.zillow.com/homedetails/6892-Juniper-Ct-Arvada-CO-80007/131684579_zpid/,"6892 Juniper Ct, Arvada, CO 80007",658000.00,39.811333,-105.132369,"$639,745 ",2019,2,4,4,2474
+659,https://www.zillow.com/homedetails/11485-King-Way-Westminster-CO-80031/12964464_zpid/,"11485 King Way, Westminster, CO 80031",619000.00,39.876487,-105.075585,"$583,757 ",1989,2,4,3,1802
+660,https://www.zillow.com/homedetails/144-Montezuma-St-Brighton-CO-80601/72296735_zpid/,"144 Montezuma St, Brighton, CO 80601",509900.00,39.9846611,-104.7737808,"$514,538 ",2006,3,3,3,2364
+661,https://www.zillow.com/homedetails/10972-W-104th-Pl-Westminster-CO-80021/13681393_zpid/,"10972 W 104th Pl, Westminster, CO 80021",459000.00,39.876487,-105.075585,"$468,296 ",1979,2,4,2,1999
+662,https://www.zillow.com/homedetails/8521-Cherry-Ln-Westminster-CO-80031/12992977_zpid/,"8521 Cherry Ln, Westminster, CO 80031",360000.00,39.85141754,-105.0375061,"$388,421 ",1954,1,3,1,958
+663,https://www.zillow.com/homedetails/3441-Mount-Powell-Dr-Broomfield-CO-80023/248240003_zpid/,"3441 Mount Powell Dr, Broomfield, CO 80023",899000.00,39.997989,-105.00915,"$740,601 ",2018,2,5,3,3378
+664,https://www.zillow.com/homedetails/7220-Avrum-Dr-Denver-CO-80221/12998875_zpid/,"7220 Avrum Dr, Denver, CO 80221",425000.00,39.82782745,-105.0112915,"$449,425 ",1956,2,3,2,1730
+665,https://www.zillow.com/homedetails/9444-E-106th-Pl-Henderson-CO-80640/58292548_zpid/,"9444 E 106th Pl, Henderson, CO 80640",479999.00,39.89040375,-104.8786545,"$494,652 ",2001,2,4,4,2607
+666,https://www.zillow.com/homedetails/1415-Glencoe-St-Denver-CO-80220/13392028_zpid/,"1415 Glencoe St, Denver, CO 80220",750000.00,39.73855972,-104.9260941,"$770,232 ",1944,2,4,2,2224
+667,https://www.zillow.com/homedetails/2490-S-Garfield-St-Denver-CO-80210/13375645_zpid/,"2490 S Garfield St, Denver, CO 80210",1679000.00,39.6711731,-104.9439468,"$1,729,213 ",1978,2,5,5,3605
+668,https://www.zillow.com/homedetails/5028-E-Cherry-Creek-South-Dr-Denver-CO-80246/2071721721_zpid/,"5028 E Cherry Creek South Dr, Denver, CO 80246",597000.00,39.70145416,-104.9286346,"$615,369 ",1996,2,3,4,1963
+669,https://www.zillow.com/homedetails/2535-S-Humboldt-St-Denver-CO-80210/13377149_zpid/,"2535 S Humboldt St, Denver, CO 80210",615000.00,39.67059326,-104.9702682,"$563,959 ",1942,1,4,2,1432
+670,https://www.zillow.com/homedetails/2663-Comanche-Creek-Dr-Brighton-CO-80601/12942483_zpid/,"2663 Comanche Creek Dr, Brighton, CO 80601",430000.00,39.993437,-104.812394,"$451,499 ",1997,2,4,3,2650
+671,https://www.zillow.com/homedetails/6416-Otis-St-Arvada-CO-80003/13713664_zpid/,"6416 Otis St, Arvada, CO 80003",450000.00,39.81323624,-105.0707703,"$464,210 ",1965,1,5,3,2200
+672,https://www.zillow.com/homedetails/4765-W-108th-Pl-Westminster-CO-80031/124749739_zpid/,"4765 W 108th Pl, Westminster, CO 80031",915000.00,39.89345932,-105.0486679,"$963,105 ",2016,3,4,3,2793
+673,https://www.zillow.com/homedetails/7705-Osceola-St-Westminster-CO-80030/12994436_zpid/,"7705 Osceola St, Westminster, CO 80030",439900.00,39.83654022,-105.0393448,"$457,429 ",1953,2,3,2,1740
+674,https://www.zillow.com/homedetails/2894-Twin-Lakes-Cir-Lafayette-CO-80026/157719373_zpid/,"2894 Twin Lakes Cir, Lafayette, CO 80026",799000.00,39.99488068,-105.136116,"$795,177 ",2016,2,3,3,1936
+675,https://www.zillow.com/homedetails/7534-Skyway-Ct-Boulder-CO-80303/67148247_zpid/,"7534 Skyway Ct, Boulder, CO 80303",2795000.00,39.97245026,-105.1767502,"$2,250,944 ",2009,3,4,7,6478
+676,https://www.zillow.com/homedetails/415-Graham-Way-Erie-CO-80516/109687378_zpid/,"415 Graham Way, Erie, CO 80516",645000.00,40.03229523,-105.0585709,"$687,703 ",2011,2,4,4,2772
+677,https://www.zillow.com/homedetails/4619-S-Lowell-Blvd-Denver-CO-80236/13428032_zpid/,"4619 S Lowell Blvd, Denver, CO 80236",299973.00,39.63376999,-105.0349121,"$323,780 ",1972,0,3,3,1520
+678,https://www.zillow.com/homedetails/23175-York-Ave-Parker-CO-80138/63390764_zpid/,"23175 York Ave, Parker, CO 80138",370000.00,39.51400375,-104.7199402,"$397,888 ",2004,2,2,3,1587
+679,https://www.zillow.com/homedetails/8088-Raleigh-St-Westminster-CO-80031/12994096_zpid/,"8088 Raleigh St, Westminster, CO 80031",510000.00,39.84412384,-105.043457,"$503,253 ",1958,1,4,2,1303
+680,https://www.zillow.com/homedetails/9321-Lillian-Ln-Denver-CO-80229/12983599_zpid/,"9321 Lillian Ln, Denver, CO 80229",350000.00,39.86572647,-104.9646606,"$393,978 ",1954,0,3,2,1462
+681,https://www.zillow.com/homedetails/7552-Lamar-Ct-Arvada-CO-80003/13704670_zpid/,"7552 Lamar Ct, Arvada, CO 80003",549900.00,39.83240128,-105.0681229,"$524,772 ",1972,2,5,3,2218
+682,https://www.zillow.com/homedetails/931-Tucson-St-Aurora-CO-80011/13033265_zpid/,"931 Tucson St, Aurora, CO 80011",375000.00,39.72994614,-104.837059,"$407,812 ",1953,1,3,2,1401
+683,https://www.zillow.com/homedetails/31051-Haldimand-Dr-Conifer-CO-80433/13841708_zpid/,"31051 Haldimand Dr, Conifer, CO 80433",550000.00,39.511716,-105.313754,"$554,009 ",1970,1,3,2,1567
+684,https://www.zillow.com/homedetails/5555-E-Briarwood-Ave-APT-1704-Littleton-CO-80122/13136401_zpid/,"5555 E Briarwood Ave APT 1704, Littleton, CO 80122",395000.00,39.598205,-104.939441,"$412,082 ",1997,2,2,3,1440
+685,https://www.zillow.com/homedetails/1129-Norfolk-St-Aurora-CO-80011/13060335_zpid/,"1129 Norfolk St, Aurora, CO 80011",390000.00,39.73434067,-104.796257,"$425,454 ",1973,2,4,2,1100
+686,https://www.zillow.com/homedetails/11540-Harlan-St-Westminster-CO-80020/13679597_zpid/,"11540 Harlan St, Westminster, CO 80020",449000.00,39.876487,-105.075585,"$458,984 ",1982,2,4,2,1286
+687,https://www.zillow.com/homedetails/10844-Allendale-Dr-Arvada-CO-80004/13724384_zpid/,"10844 Allendale Dr, Arvada, CO 80004",600000.00,39.80849457,-105.1194229,"$623,300 ",1959,2,4,3,2287
+688,https://www.zillow.com/homedetails/10-S-Yates-St-Denver-CO-80219/13339690_zpid/,"10 S Yates St, Denver, CO 80219",525000.00,39.71629333,-105.0502472,"$548,760 ",1958,2,4,3,2553
+689,https://www.zillow.com/homedetails/7165-W-66th-Ave-Arvada-CO-80003/13715564_zpid/,"7165 W 66th Ave, Arvada, CO 80003",450000.00,39.81666183,-105.0773773,"$458,855 ",1955,1,3,2,1105
+690,https://www.zillow.com/homedetails/1920-Glencoe-St-Denver-CO-80220/13286718_zpid/,"1920 Glencoe St, Denver, CO 80220",1685000.00,39.74611282,-104.9254684,"$1,448,395 ",1920,3,5,4,3792
+691,https://www.zillow.com/homedetails/6871-Gray-Dr-Arvada-CO-80003/13712706_zpid/,"6871 Gray Dr, Arvada, CO 80003",595000.00,39.82052994,-105.0611572,"$561,376 ",1976,2,3,3,2438
+692,https://www.zillow.com/homedetails/424-S-Gilpin-St-Denver-CO-80209/13352151_zpid/,"424 S Gilpin St, Denver, CO 80209",1325000.00,39.70880127,-104.9671555,"$980,818 ",1922,3,4,3,2193
+693,https://www.zillow.com/homedetails/12831-Mayfair-Way-UNIT-B-Englewood-CO-80112/2082885905_zpid/,"12831 Mayfair Way UNIT B, Englewood, CO 80112",380000.00,39.547047,-104.797687,"$786,632 ",2004,2,3,3,1556
+694,https://www.zillow.com/homedetails/11092-Fairfax-Cir-Denver-CO-80233/13003609_zpid/,"11092 Fairfax Cir, Denver, CO 80233",449000.00,39.89743805,-104.9265213,"$453,151 ",1979,2,4,2,1885
+695,https://www.zillow.com/homedetails/4250-S-Olive-St-APT-111-Denver-CO-80237/13425599_zpid/,"4250 S Olive St APT 111, Denver, CO 80237",375000.00,39.63970184,-104.9062271,"$332,006 ",1974,1,2,3,1645
+696,https://www.zillow.com/homedetails/4250-S-Olive-St-APT-111-Denver-CO-80237/13425599_zpid/,"4250 S Olive St APT 111, Denver, CO 80237",375000.00,39.63970184,-104.9062271,"$332,006 ",1974,1,2,3,1645
+697,https://www.zillow.com/homedetails/45-Elm-St-Denver-CO-80220/13395842_zpid/,"45 Elm St, Denver, CO 80220",1700000.00,39.71711731,-104.9296265,"$1,705,281 ",1948,2,5,4,4203
+698,https://www.zillow.com/homedetails/3616-Mariposa-St-Denver-CO-80211/13308147_zpid/,"3616 Mariposa St, Denver, CO 80211",599900.00,39.76723862,-105.0026321,"$602,254 ",1891,2,2,1,974
+699,https://www.zillow.com/homedetails/4150-Vallejo-St-Denver-CO-80211/13299595_zpid/,"4150 Vallejo St, Denver, CO 80211",695000.00,39.77388,-105.0131912,"$650,235 ",1896,0,3,2,1376
+700,https://www.zillow.com/homedetails/2882-W-Long-Cir-APT-H-Littleton-CO-80120/13168355_zpid/,"2882 W Long Cir APT H, Littleton, CO 80120",425000.00,39.5738945,-105.0235672,"$395,098 ",1985,2,3,2,1089
+701,https://www.zillow.com/homedetails/51-S-Sherman-St-Denver-CO-80209/61433650_zpid/,"51 S Sherman St, Denver, CO 80209",539000.00,39.716077,-104.98345,"$549,191 ",1901,1,2,2,1401
+702,https://www.zillow.com/homedetails/3823-S-Sebring-Ct-Denver-CO-80237/13422594_zpid/,"3823 S Sebring Ct, Denver, CO 80237",640000.00,39.633092,-104.887052,"$674,565 ",1969,2,4,3,2576
+703,https://www.zillow.com/homedetails/3791-Shefield-Dr-Broomfield-CO-80020/60230896_zpid/,"3791 Shefield Dr, Broomfield, CO 80020",435000.00,39.92780685,-105.0371628,"$472,120 ",1986,2,3,3,1285
+704,https://www.zillow.com/homedetails/10541-Skyreach-Rd-Highlands-Ranch-CO-80126/97862242_zpid/,"10541 Skyreach Rd, Highlands Ranch, CO 80126",1499000.00,39.556806,-105.020905,"$1,347,887 ",2012,3,5,5,4522
+705,https://www.zillow.com/homedetails/18951-E-Brunswick-Pl-Aurora-CO-80013/13088492_zpid/,"18951 E Brunswick Pl, Aurora, CO 80013",430000.00,39.66432571,-104.7687988,"$460,766 ",1977,2,4,3,2156
+706,https://www.zillow.com/homedetails/7835-S-Elizabeth-Way-Centennial-CO-80122/13172805_zpid/,"7835 S Elizabeth Way, Centennial, CO 80122",649000.00,39.57489395,-104.9581833,"$691,257 ",1977,2,4,4,3035
+707,https://www.zillow.com/homedetails/8785-Katherine-Ct-Parker-CO-80134/13465227_zpid/,"8785 Katherine Ct, Parker, CO 80134",460000.00,39.55773163,-104.7973404,"$459,549 ",1996,2,3,3,1742
+708,https://www.zillow.com/homedetails/9640-Adelaide-Cir-Highlands-Ranch-CO-80130/13454718_zpid/,"9640 Adelaide Cir, Highlands Ranch, CO 80130",520000.00,39.53889847,-104.9349899,"$516,078 ",1998,2,3,3,1433
+709,https://www.zillow.com/homedetails/1180-W-Radcliff-Ave-Englewood-CO-80110/13146549_zpid/,"1180 W Radcliff Ave, Englewood, CO 80110",618000.00,39.63693237,-105.0014648,"$560,383 ",1960,2,3,2,2016
+710,https://www.zillow.com/homedetails/66-Piney-Creek-Ln-Erie-CO-80516/299927581_zpid/,"66 Piney Creek Ln, Erie, CO 80516",515000.00,40.006971,-105.018195,"$535,599 ",2017,2,3,3,1725
+711,https://www.zillow.com/homedetails/14197-Whitney-Cir-Broomfield-CO-80023/60228199_zpid/,"14197 Whitney Cir, Broomfield, CO 80023",725000.00,39.9544754,-105.0288696,"$746,323 ",2004,3,3,3,2610
+712,https://www.zillow.com/homedetails/3827-S-Fraser-St-Aurora-CO-80014/13100786_zpid/,"3827 S Fraser St, Aurora, CO 80014",275000.00,39.64734268,-104.8124771,"$261,354 ",1975,0,2,1,936
+713,https://www.zillow.com/homedetails/15957-E-118th-Pl-Commerce-City-CO-80022/123453140_zpid/,"15957 E 118th Pl, Commerce City, CO 80022",615000.00,39.91130447,-104.8013458,"$641,059 ",2017,3,3,3,3157
+714,https://www.zillow.com/homedetails/2860-S-Monroe-St-Denver-CO-80210/13387269_zpid/,"2860 S Monroe St, Denver, CO 80210",1349900.00,39.651697,-104.920607,"$1,018,573 ",2011,2,4,4,4084
+715,https://www.zillow.com/homedetails/3283-W-102nd-Pl-Westminster-CO-80031/12977071_zpid/,"3283 W 102nd Pl, Westminster, CO 80031",589000.00,39.882164,-105.0290375,"$628,024 ",1983,2,4,3,3079
+716,https://www.zillow.com/homedetails/20815-Omaha-Ave-Parker-CO-80138/13473041_zpid/,"20815 Omaha Ave, Parker, CO 80138",595000.00,39.495369,-104.719706,"$673,647 ",1998,3,5,4,3548
+717,https://www.zillow.com/homedetails/198-Indian-Paintbrush-Dr-Golden-CO-80401/13754293_zpid/,"198 Indian Paintbrush Dr, Golden, CO 80401",1990000.00,39.70969772,-105.2621613,"$1,545,549 ",2001,4,4,4,6954
+718,https://www.zillow.com/homedetails/4599-W-36th-Ave-Denver-CO-80212/52963881_zpid/,"4599 W 36th Ave, Denver, CO 80212",1175000.00,39.76682281,-105.046669,"$940,270 ",1999,2,4,4,2808
+719,https://www.zillow.com/homedetails/130-S-Washington-St-Denver-CO-80209/13345228_zpid/,"130 S Washington St, Denver, CO 80209",786000.00,39.7141037,-104.9789124,"$846,097 ",1905,2,3,2,1944
+720,https://www.zillow.com/homedetails/14169-Whitney-Cir-Broomfield-CO-80023/60228173_zpid/,"14169 Whitney Cir, Broomfield, CO 80023",1029000.00,39.95531845,-105.0304108,"$1,115,903 ",2005,3,6,5,5329
+721,https://www.zillow.com/homedetails/1555-N-Jackson-St-Denver-CO-80206/247388373_zpid/,"1555 N Jackson St, Denver, CO 80206",590000.00,39.728638,-104.913632,"$688,591 ",1932,0,3,2,1966
+722,https://www.zillow.com/homedetails/2471-Norwood-Ave-Boulder-CO-80304/13242668_zpid/,"2471 Norwood Ave, Boulder, CO 80304",1750000.00,40.04581451,-105.2648926,"$1,839,171 ",1989,3,5,3,2422
+723,https://www.zillow.com/homedetails/1640-E-Layton-Dr-Englewood-CO-80113/99395972_zpid/,"1640 E Layton Dr, Englewood, CO 80113",4200000.00,39.62666,-104.969824,"$4,626,491 ",1982,4,6,7,8482
+724,https://www.zillow.com/homedetails/1527-Mountain-Maple-Ave-Highlands-Ranch-CO-80129/13449238_zpid/,"1527 Mountain Maple Ave, Highlands Ranch, CO 80129",500000.00,39.556806,-105.020905,"$552,486 ",1996,2,3,3,1605
+725,https://www.zillow.com/homedetails/676-W-Juniper-Ct-Louisville-CO-80027/13232617_zpid/,"676 W Juniper Ct, Louisville, CO 80027",890000.00,39.96694946,-105.1536255,"$981,170 ",1983,2,5,4,2812
+726,https://www.zillow.com/homedetails/3115-Jonquil-St-Castle-Rock-CO-80109/249983953_zpid/,"3115 Jonquil St, Castle Rock, CO 80109",635000.00,39.39554214,-104.8959656,"$670,752 ",2018,2,4,3,2372
+727,https://www.zillow.com/homedetails/12007-E-Lake-Cir-Greenwood-Village-CO-80111/96791459_zpid/,"12007 E Lake Cir, Greenwood Village, CO 80111",699500.00,39.6076889,-104.8491287,"$717,698 ",2011,2,4,4,2673
+728,https://www.zillow.com/homedetails/10051-Altura-St-Commerce-City-CO-80022/103007481_zpid/,"10051 Altura St, Commerce City, CO 80022",475000.00,39.8792038,-104.8139725,"$523,332 ",2010,3,4,3,2679
+729,https://www.zillow.com/homedetails/12265-Bellaire-St-Thornton-CO-80241/12948137_zpid/,"12265 Bellaire St, Thornton, CO 80241",425000.00,39.91938782,-104.9372482,"$443,270 ",1982,2,4,2,1538
+730,https://www.zillow.com/homedetails/15472-E-Temple-Pl-Aurora-CO-80015/13106067_zpid/,"15472 E Temple Pl, Aurora, CO 80015",269000.00,39.63228226,-104.8082657,"$280,370 ",1974,0,2,2,1164
+731,https://www.zillow.com/homedetails/5972-E-Irish-Pl-Centennial-CO-80112/13139564_zpid/,"5972 E Irish Pl, Centennial, CO 80112",875000.00,39.57876968,-104.9189911,"$786,416 ",1984,2,4,4,3215
+732,https://www.zillow.com/homedetails/8172-Washington-St-APT-112-Denver-CO-80229/2071237970_zpid/,"8172 Washington St APT 112, Denver, CO 80229",205000.00,39.849828,-104.956631,,1982,0,1,1,640
+733,https://www.zillow.com/homedetails/2224-Emporia-St-Aurora-CO-80010/13019065_zpid/,"2224 Emporia St, Aurora, CO 80010",434500.00,39.742858,-104.821385,"$303,128 ",1952,1,4,2,1530
+734,https://www.zillow.com/homedetails/3671-Ward-Rd-Wheat-Ridge-CO-80033/13742037_zpid/,"3671 Ward Rd, Wheat Ridge, CO 80033",595000.00,39.76701355,-105.1382141,"$622,839 ",1962,2,3,2,1706
+735,https://www.zillow.com/homedetails/905-W-Tufts-Ave-Englewood-CO-80110/13146681_zpid/,"905 W Tufts Ave, Englewood, CO 80110",500000.00,39.63328934,-104.998764,"$503,178 ",1921,2,3,2,1400
+736,https://www.zillow.com/homedetails/21889-Cabrini-Blvd-Golden-CO-80401/13752472_zpid/,"21889 Cabrini Blvd, Golden, CO 80401",1150000.00,39.71289825,-105.2458725,"$1,260,740 ",1965,2,5,5,2588
+737,https://www.zillow.com/homedetails/1951-S-Downing-St-Denver-CO-80210/13376347_zpid/,"1951 S Downing St, Denver, CO 80210",500000.00,39.68117523,-104.9737167,"$544,938 ",1926,1,2,1,1050
+738,https://www.zillow.com/homedetails/9099-Krashin-Dr-Conifer-CO-80433/13839452_zpid/,"9099 Krashin Dr, Conifer, CO 80433",490000.00,39.5509758,-105.3680801,"$518,823 ",1976,2,3,2,1830
+739,https://www.zillow.com/homedetails/61-S-Julian-St-Denver-CO-80219/13342115_zpid/,"61 S Julian St, Denver, CO 80219",329000.00,39.71541214,-105.0315857,"$351,305 ",1920,0,2,1,717
+740,https://www.zillow.com/homedetails/7760-S-Harlan-Way-Littleton-CO-80128/13836946_zpid/,"7760 S Harlan Way, Littleton, CO 80128",510000.00,39.57574081,-105.0646667,"$540,601 ",1969,2,3,2,1718
+741,https://www.zillow.com/homedetails/6890-S-Riverwood-Way-Aurora-CO-80016/99652875_zpid/,"6890 S Riverwood Way, Aurora, CO 80016",725000.00,39.59118271,-104.6777039,"$711,315 ",2014,3,4,4,3407
+742,https://www.zillow.com/homedetails/16304-E-Hollow-Horn-Ave-Parker-CO-80134/82021290_zpid/,"16304 E Hollow Horn Ave, Parker, CO 80134",459000.00,39.49766922,-104.801033,"$467,052 ",2006,2,3,3,1634
+743,https://www.zillow.com/homedetails/10568-Jaguar-Point-Littleton-CO-80124/13460474_zpid/,"10568 Jaguar Point, Littleton, CO 80124",620000.00,39.518596,-104.925083,"$673,698 ",1999,3,4,4,3521
+744,https://www.zillow.com/homedetails/4135-Forever-Cir-Castle-Rock-CO-80109/245221026_zpid/,"4135 Forever Cir, Castle Rock, CO 80109",689000.00,39.40320969,-104.9069748,"$722,918 ",2019,2,5,4,3561
+745,https://www.zillow.com/homedetails/2-Brookhaven-Trl-Littleton-CO-80123/67445850_zpid/,"2 Brookhaven Trl, Littleton, CO 80123",1800000.00,39.61032104,-105.031929,"$1,770,528 ",2004,4,7,6,7082
+746,https://www.zillow.com/homedetails/3744-S-Hooker-St-Englewood-CO-80110/13144944_zpid/,"3744 S Hooker St, Englewood, CO 80110",395000.00,39.64838028,-105.0286255,"$358,032 ",1956,2,3,1,986
+747,https://www.zillow.com/homedetails/23628-E-Otero-Dr-Aurora-CO-80016/54644433_zpid/,"23628 E Otero Dr, Aurora, CO 80016",650000.00,39.57009506,-104.7128754,"$682,552 ",2001,2,3,3,3056
+748,https://www.zillow.com/homedetails/5506-Balsam-St-Arvada-CO-80002/13729567_zpid/,"5506 Balsam St, Arvada, CO 80002",550000.00,39.79732132,-105.0880203,"$563,095 ",1942,2,3,2,1250
+749,https://www.zillow.com/homedetails/7260-W-34th-Ave-Wheat-Ridge-CO-80033/13739199_zpid/,"7260 W 34th Ave, Wheat Ridge, CO 80033",599000.00,39.762472,-105.088516,"$629,727 ",1954,1,3,2,1155
+750,https://www.zillow.com/homedetails/15031-E-Arkansas-Dr-Aurora-CO-80012/13067648_zpid/,"15031 E Arkansas Dr, Aurora, CO 80012",400000.00,39.69195175,-104.8111954,"$434,146 ",1983,2,3,3,2355
+751,https://www.zillow.com/homedetails/9171-Anasazi-Indian-Trl-Highlands-Ranch-CO-80129/13440168_zpid/,"9171 Anasazi Indian Trl, Highlands Ranch, CO 80129",599000.00,39.54931641,-105.009613,"$656,503 ",1998,2,5,3,3440
+752,https://www.zillow.com/homedetails/5264-Fairplay-St-Denver-CO-80239/13270792_zpid/,"5264 Fairplay St, Denver, CO 80239",460000.00,39.78928757,-104.8120575,"$392,742 ",1999,2,5,3,2296
+753,https://www.zillow.com/homedetails/6829-Reno-Dr-Arvada-CO-80002/13729168_zpid/,"6829 Reno Dr, Arvada, CO 80002",435000.00,39.79788971,-105.0720596,"$411,796 ",1951,1,2,1,719
+754,https://www.zillow.com/homedetails/6217-S-Kline-St-Littleton-CO-80127/13818147_zpid/,"6217 S Kline St, Littleton, CO 80127",525000.00,39.6030426,-105.1113815,"$558,556 ",1975,2,4,3,2008
+755,https://www.zillow.com/homedetails/6288-Union-St-Arvada-CO-80004/13722357_zpid/,"6288 Union St, Arvada, CO 80004",475000.00,39.81729,-105.099184,"$490,670 ",1967,2,3,3,1264
+756,https://www.zillow.com/homedetails/8071-Palladio-Ct-Littleton-CO-80125/108392523_zpid/,"8071 Palladio Ct, Littleton, CO 80125",1949000.00,39.47909164,-105.0992203,"$2,033,161 ",2021,3,3,4,3708
+757,https://www.zillow.com/homedetails/4540-Comanche-Dr-Boulder-CO-80303/13188839_zpid/,"4540 Comanche Dr, Boulder, CO 80303",950000.00,39.9964447,-105.237587,"$1,041,602 ",1963,2,3,2,1730
+758,https://www.zillow.com/homedetails/4533-W-34th-Ave-Denver-CO-80212/13313136_zpid/,"4533 W 34th Ave, Denver, CO 80212",875000.00,39.76491928,-105.0458908,"$957,894 ",1930,1,4,2,1930
+759,https://www.zillow.com/homedetails/11460-E-Evans-Ave-Aurora-CO-80014/13053107_zpid/,"11460 E Evans Ave, Aurora, CO 80014",525000.00,39.67784882,-104.8549728,"$572,068 ",1984,3,4,4,2901
+760,https://www.zillow.com/homedetails/1422-Lowell-Blvd-Denver-CO-80204/13335433_zpid/,"1422 Lowell Blvd, Denver, CO 80204",615000.00,39.73907471,-105.0342407,"$655,345 ",1923,2,4,2,2120
+761,https://www.zillow.com/homedetails/474-S-Gaylord-St-Denver-CO-80209/13352287_zpid/,"474 S Gaylord St, Denver, CO 80209",1295000.00,39.70792389,-104.96138,"$1,342,962 ",1930,2,4,3,3159
+762,https://www.zillow.com/homedetails/7923-Lakeshore-Dr-Parker-CO-80134/13479317_zpid/,"7923 Lakeshore Dr, Parker, CO 80134",543000.00,39.45127106,-104.7386703,"$586,878 ",1977,2,4,3,2438
+763,https://www.zillow.com/homedetails/24002-E-Royal-Meadows-Ave-Parker-CO-80138/55813881_zpid/,"24002 E Royal Meadows Ave, Parker, CO 80138",512000.00,39.51053238,-104.7104263,"$545,098 ",2002,2,4,3,2515
+764,https://www.zillow.com/homedetails/14575-E-Wagontrail-Pl-Aurora-CO-80015/13104909_zpid/,"14575 E Wagontrail Pl, Aurora, CO 80015",460000.00,39.62858963,-104.8185654,"$506,112 ",1983,2,4,2,2278
+765,https://www.zillow.com/homedetails/1983-S-Logan-St-Denver-CO-80210/13377818_zpid/,"1983 S Logan St, Denver, CO 80210",1799000.00,39.6806221,-104.9832077,"$1,861,034 ",2021,2,5,6,6106
+766,https://www.zillow.com/homedetails/6065-Wadsworth-Blvd-APT-D-Arvada-CO-80003/58768545_zpid/,"6065 Wadsworth Blvd APT D, Arvada, CO 80003",392000.00,39.80662918,-105.0818481,"$410,218 ",2002,1,3,4,1457
+767,https://www.zillow.com/homedetails/6063-Balsam-St-Arvada-CO-80004/13727223_zpid/,"6063 Balsam St, Arvada, CO 80004",425000.00,39.80587769,-105.0888138,"$442,708 ",1970,2,4,2,1836
+768,https://www.zillow.com/homedetails/10319-Fairgate-Way-Highlands-Ranch-CO-80126/13446714_zpid/,"10319 Fairgate Way, Highlands Ranch, CO 80126",755000.00,39.52545547,-104.9469147,"$824,589 ",2000,3,5,5,4232
+769,https://www.zillow.com/homedetails/10350-Moore-St-Westminster-CO-80021/13686428_zpid/,"10350 Moore St, Westminster, CO 80021",450000.00,39.88207626,-105.1156769,"$486,000 ",1974,2,4,3,2038
+770,https://www.zillow.com/homedetails/4192-S-Fir-Cir-Evergreen-CO-80439/13802389_zpid/,"4192 S Fir Cir, Evergreen, CO 80439",1075000.00,39.63967896,-105.3305893,"$1,159,735 ",1965,2,5,4,3867
+771,https://www.zillow.com/homedetails/1937-S-Columbine-St-1937-Denver-CO-80210/2071327942_zpid/,"1937 S Columbine St #1937, Denver, CO 80210",699000.00,39.68133545,-104.9569473,"$742,604 ",2021,2,2,4,1307
+772,https://www.zillow.com/homedetails/2984-S-Akron-St-Denver-CO-80231/13419945_zpid/,"2984 S Akron St, Denver, CO 80231",575000.00,39.66226196,-104.8836136,"$614,077 ",1972,2,4,3,1908
+773,https://www.zillow.com/homedetails/6424-S-Iris-Ct-Littleton-CO-80123/13820483_zpid/,"6424 S Iris Ct, Littleton, CO 80123",450000.00,39.60002518,-105.1069107,,1977,2,3,2,1570
+774,https://www.zillow.com/homedetails/19200-E-45th-Ave-Denver-CO-80249/13274875_zpid/,"19200 E 45th Ave, Denver, CO 80249",410000.00,39.77680969,-104.763382,"$440,673 ",1994,2,3,3,2250
+775,https://www.zillow.com/homedetails/9460-Painted-Canyon-Cir-Highlands-Ranch-CO-80129/13438471_zpid/,"9460 Painted Canyon Cir, Highlands Ranch, CO 80129",748800.00,39.54536819,-105.0254669,"$706,183 ",1999,2,5,4,3408
+776,https://www.zillow.com/homedetails/7249-S-Millbrook-Ct-Aurora-CO-80016/295019605_zpid/,"7249 S Millbrook Ct, Aurora, CO 80016",485000.00,39.58520889,-104.6874771,"$468,767 ",2019,2,3,3,2087
+777,https://www.zillow.com/homedetails/4204-S-Cathay-Way-Aurora-CO-80013/13094165_zpid/,"4204 S Cathay Way, Aurora, CO 80013",350000.00,39.64067841,-104.7667694,"$412,710 ",1983,1,3,2,1536
+778,https://www.zillow.com/homedetails/9100-W-Portland-Ave-Littleton-CO-80128/13826475_zpid/,"9100 W Portland Ave, Littleton, CO 80128",490000.00,39.59058762,-105.0995941,"$510,963 ",1993,2,3,3,1539
+779,https://www.zillow.com/homedetails/10081-White-Oak-Pl-Highlands-Ranch-CO-80129/13450513_zpid/,"10081 White Oak Pl, Highlands Ranch, CO 80129",650000.00,39.5333519,-105.0273895,"$652,648 ",1994,2,4,3,3169
+780,https://www.zillow.com/homedetails/3220-Balsam-St-Wheat-Ridge-CO-80033/13739524_zpid/,"3220 Balsam St, Wheat Ridge, CO 80033",690000.00,39.76247025,-105.0885162,"$732,463 ",1952,3,4,2,2381
+781,https://www.zillow.com/homedetails/4927-S-Algonquian-Way-Aurora-CO-80016/99664515_zpid/,"4927 S Algonquian Way, Aurora, CO 80016",445000.00,39.638195,-104.742415,"$439,852 ",2017,2,3,3,1687
+782,https://www.zillow.com/homedetails/1069-W-Ridge-Rd-Littleton-CO-80120/13165959_zpid/,"1069 W Ridge Rd, Littleton, CO 80120",450000.00,39.615417,-105.018903,"$475,582 ",1959,0,4,3,2331
+783,https://www.zillow.com/homedetails/914-Mockingbird-Trl-Bailey-CO-80421/13984783_zpid/,"914 Mockingbird Trl, Bailey, CO 80421",525000.00,39.41249084,-105.4202347,"$560,382 ",1996,2,3,2,2008
+784,https://www.zillow.com/homedetails/4699-W-36th-Ave-Denver-CO-80212/52963875_zpid/,"4699 W 36th Ave, Denver, CO 80212",1000000.00,39.776158,-105.020205,"$924,979 ",2000,2,4,4,2719
+785,https://www.zillow.com/homedetails/710-Bellaire-St-Denver-CO-80220/13393547_zpid/,"710 Bellaire St, Denver, CO 80220",1050000.00,39.72770691,-104.9368286,"$992,048 ",1936,2,4,2,2627
+786,https://www.zillow.com/homedetails/1419-S-Pitkin-Way-Aurora-CO-80017/13073379_zpid/,"1419 S Pitkin Way, Aurora, CO 80017",395000.00,39.664291,-104.780069,"$438,930 ",1995,2,4,3,1607
+787,https://www.zillow.com/homedetails/3171-Fulton-St-Denver-CO-80238/68049066_zpid/,"3171 Fulton St, Denver, CO 80238",715000.00,39.76226044,-104.8707428,"$746,605 ",2005,2,5,4,2557
+788,https://www.zillow.com/homedetails/723-N-Logan-St-Denver-CO-80203/13334397_zpid/,"723 N Logan St, Denver, CO 80203",600000.00,39.716077,-104.98345,"$646,956 ",1901,1,3,1,1572
+789,https://www.zillow.com/homedetails/3318-S-Oneida-Way-Denver-CO-80224/13416943_zpid/,"3318 S Oneida Way, Denver, CO 80224",400000.00,39.65583801,-104.9074707,"$407,844 ",1969,2,2,2,1286
+790,https://www.zillow.com/homedetails/14733-Ulster-Loop-Brighton-CO-80602/121152659_zpid/,"14733 Ulster Loop, Brighton, CO 80602",562500.00,39.96516418,-104.8943787,,2017,2,3,2,1738
+791,https://www.zillow.com/homedetails/6771-Morrison-Dr-Denver-CO-80221/121922723_zpid/,"6771 Morrison Dr, Denver, CO 80221",485000.00,39.819509,-105.01333,"$514,644 ",2015,2,3,3,1758
+792,https://www.zillow.com/homedetails/7306-S-Nucla-St-Aurora-CO-80016/61207866_zpid/,"7306 S Nucla St, Aurora, CO 80016",485000.00,39.5784,-104.806053,"$497,014 ",2003,2,3,3,1927
+793,https://www.zillow.com/homedetails/8521-Cherry-Ln-Westminster-CO-80031/12992977_zpid/,"8521 Cherry Ln, Westminster, CO 80031",360000.00,39.839128,-105.044903,"$388,421 ",1954,1,3,1,958
+794,https://www.zillow.com/homedetails/7140-Cherry-St-Commerce-City-CO-80022/13015802_zpid/,"7140 Cherry St, Commerce City, CO 80022",325000.00,39.834323,-104.91145,"$350,000 ",1959,0,4,3,2122
+795,https://www.zillow.com/homedetails/26219-E-Maple-Dr-Aurora-CO-80018/295028330_zpid/,"26219 E Maple Dr, Aurora, CO 80018",420000.00,39.717437,-104.695566,"$435,750 ",2018,2,2,3,1447
+796,https://www.zillow.com/homedetails/4732-Stuart-St-Denver-CO-80212/13293979_zpid/,"4732 Stuart St, Denver, CO 80212",439900.00,39.78249359,-105.0424271,,1941,1,2,1,757
+797,https://www.zillow.com/homedetails/5540-Pierce-Ct-Arvada-CO-80002/13728952_zpid/,"5540 Pierce Ct, Arvada, CO 80002",415000.00,39.79710388,-105.0719452,"$428,254 ",1951,1,2,1,721
